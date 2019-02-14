@@ -58,15 +58,13 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency Management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [Jupyter Notebook](https://jupyter.org/)s
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Version
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
@@ -77,11 +75,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 - **Felipe de Jesús Castro Lugo** - Mtro. Itson - []()
 - **Roberto Valenzuela Armenta** - Alumno Itson - [LinkedIn](https://www.linkedin.com/in/roberto-valenzuela/)
 
-## License
+## Licencia
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Reconocimientos
 
 - Hat tip to anyone whose code was used
 - Inspiration
