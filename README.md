@@ -70,11 +70,12 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Authors
+## Colaboradores
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- **David Baca Carrasco** - PhD Itson - [ResearchGate](https://www.researchgate.net/profile/David_Baca_Carrasco)
+- **Mucio Osorio Sánchez** - Mtro. Itson - []()
+- **Felipe de Jesús Castro Lugo** - Mtro. Itson - []()
+- **Roberto Valenzuela Armenta** - Alumno Itson - [LinkedIn](https://www.linkedin.com/in/roberto-valenzuela/)
 
 ## License
 
