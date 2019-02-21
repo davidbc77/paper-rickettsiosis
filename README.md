@@ -58,7 +58,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-- [Jupyter Notebook](https://jupyter.org/)s}
+- [Jupyter Notebook](https://jupyter.org/)
 
 ## Contributing
 
