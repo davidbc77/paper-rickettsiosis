@@ -1,30 +1,30 @@
 state,year,week,week_cases,m_accum,f_accum
 Aguascalientes,2014,53,,,
-Baja California,2014,53,,12,29
-Baja California Sur,2014,53,,8,25
+Baja California,2014,53,,12.0,29.0
+Baja California Sur,2014,53,,8.0,25.0
 Campeche,2014,53,,,
-Coahuila,2014,53,,36,52
+Coahuila,2014,53,,36.0,52.0
 Colima,2014,53,,,
 Chiapas,2014,53,,,
-Chihuahua,2014,53,,2,3
+Chihuahua,2014,53,,2.0,3.0
 Ciudad de México,2014,53,,,
-Durango,2014,53,,1,1
-Guanajuato,2014,53,,2,
-Guerrero,2014,53,,1,2
+Durango,2014,53,,1.0,1.0
+Guanajuato,2014,53,,2.0,
+Guerrero,2014,53,,1.0,2.0
 Hidalgo,2014,53,,,
 Jalisco,2014,53,,,
 México,2014,53,,,
 Michoacán,2014,53,,,
 Morelos,2014,53,,,
 Nayarit,2014,53,,,
-Nuevo León,2014,53,,5,16
+Nuevo León,2014,53,,5.0,16.0
 Oaxaca,2014,53,,,
 Puebla,2014,53,,,
 Querétaro,2014,53,,,
 Quintana Roo,2014,53,,,
 San Luis Potosí,2014,53,,,
-Sinaloa,2014,53,,1,9
-Sonora,2014,53,1,29,35
+Sinaloa,2014,53,,1.0,9.0
+Sonora,2014,53,1.0,29.0,35.0
 Tabasco,2014,53,,,
 Tamaulipas,2014,53,,,
 Tlaxcala,2014,53,,,

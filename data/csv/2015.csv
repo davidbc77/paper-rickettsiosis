@@ -1,1651 +1,1601 @@
-estado,sem,m_acum,f_acum,2014_acum,no_sem,anio
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
-Aguascalientes,0,0,0,0,52,2015
-Baja California,0,7,7,0,52,2015
-Baja California Sur,0,1,8,0,52,2015
-Campeche,0,0,3,0,52,2015
-Coahuila,0,4,2,0,52,2015
-Colima,0,0,0,0,52,2015
-Chiapas,0,0,2,0,52,2015
-Chihuahua,0,4,5,0,52,2015
-Ciudad de México,0,1,1,0,52,2015
-Durango,0,0,0,0,52,2015
-Guanajuato,0,0,3,0,52,2015
-Guerrero,0,0,1,0,52,2015
-Hidalgo,0,2,3,0,52,2015
-Jalisco,0,4,7,0,52,2015
-México,0,0,0,0,52,2015
-Michoacán,0,1,7,0,52,2015
-Morelos,0,13,10,0,52,2015
-Nayarit,0,0,0,0,52,2015
-Nuevo León,0,11,18,0,52,2015
-Oaxaca,0,0,0,0,52,2015
-Puebla,0,2,2,0,52,2015
-Querétaro,0,0,0,0,52,2015
-Quintana Roo,0,3,2,0,52,2015
-San Luis Potosí,0,1,4,0,52,2015
-Sinaloa,0,6,30,0,52,2015
-Sonora,0,21,25,0,52,2015
-Tabasco,0,3,2,0,52,2015
-Tamaulipas,0,9,11,0,52,2015
-Tlaxcala,0,0,0,0,52,2015
-Veracruz,0,0,5,0,52,2015
-Yucatán,0,6,3,0,52,2015
-Zacatecas,0,0,6,0,52,2015
-TOTAL,0,99,167,0,52,2015
+state,year,week,week_cases,m_accum,f_accum
+Aguascalientes,2015,2,,,
+Baja California,2015,2,,,
+Baja California Sur,2015,2,,,
+Campeche,2015,2,,,
+Coahuila,2015,2,,,
+Colima,2015,2,,,
+Chiapas,2015,2,,,
+Chihuahua,2015,2,,,
+Ciudad de México,2015,2,,,
+Durango,2015,2,,,
+Guanajuato,2015,2,,,
+Guerrero,2015,2,,,
+Hidalgo,2015,2,,,
+Jalisco,2015,2,,,
+México,2015,2,,,
+Michoacán,2015,2,,,
+Morelos,2015,2,,,
+Nayarit,2015,2,,,
+Nuevo León,2015,2,,,
+Oaxaca,2015,2,,,
+Puebla,2015,2,,,
+Querétaro,2015,2,,,
+Quintana Roo,2015,2,,,
+San Luis Potosí,2015,2,,,
+Sinaloa,2015,2,,,
+Sonora,2015,2,,,
+Tabasco,2015,2,,,
+Tamaulipas,2015,2,,,
+Tlaxcala,2015,2,,,
+Veracruz,2015,2,,,
+Yucatán,2015,2,,,
+Zacatecas,2015,2,,,
+Aguascalientes,2015,3,,,
+Baja California,2015,3,1.0,,1.0
+Baja California Sur,2015,3,,,
+Campeche,2015,3,,,
+Coahuila,2015,3,,,
+Colima,2015,3,,,
+Chiapas,2015,3,,,
+Chihuahua,2015,3,,,
+Ciudad de México,2015,3,,,
+Durango,2015,3,,,
+Guanajuato,2015,3,,,
+Guerrero,2015,3,,,
+Hidalgo,2015,3,,,
+Jalisco,2015,3,,,
+México,2015,3,,,
+Michoacán,2015,3,,,
+Morelos,2015,3,,,
+Nayarit,2015,3,,,
+Nuevo León,2015,3,,,
+Oaxaca,2015,3,,,
+Puebla,2015,3,,,
+Querétaro,2015,3,,,
+Quintana Roo,2015,3,,,
+San Luis Potosí,2015,3,,,
+Sinaloa,2015,3,,,
+Sonora,2015,3,5.0,2.0,3.0
+Tabasco,2015,3,,,
+Tamaulipas,2015,3,,,
+Tlaxcala,2015,3,,,
+Veracruz,2015,3,,,
+Yucatán,2015,3,,,
+Zacatecas,2015,3,,,
+Aguascalientes,2015,4,,,
+Baja California,2015,4,,,1.0
+Baja California Sur,2015,4,,,
+Campeche,2015,4,,,
+Coahuila,2015,4,,,
+Colima,2015,4,,,
+Chiapas,2015,4,,,
+Chihuahua,2015,4,,,
+Ciudad de México,2015,4,,,
+Durango,2015,4,,,
+Guanajuato,2015,4,,,
+Guerrero,2015,4,,,
+Hidalgo,2015,4,,,
+Jalisco,2015,4,,,
+México,2015,4,,,
+Michoacán,2015,4,,,
+Morelos,2015,4,,,
+Nayarit,2015,4,,,
+Nuevo León,2015,4,,,
+Oaxaca,2015,4,,,
+Puebla,2015,4,,,
+Querétaro,2015,4,,,
+Quintana Roo,2015,4,,,
+San Luis Potosí,2015,4,,,
+Sinaloa,2015,4,,,
+Sonora,2015,4,,2.0,3.0
+Tabasco,2015,4,,,
+Tamaulipas,2015,4,,,
+Tlaxcala,2015,4,,,
+Veracruz,2015,4,,,
+Yucatán,2015,4,,,
+Zacatecas,2015,4,,,
+Aguascalientes,2015,5,,,
+Baja California,2015,5,,,1.0
+Baja California Sur,2015,5,,,
+Campeche,2015,5,,,
+Coahuila,2015,5,,,
+Colima,2015,5,,,
+Chiapas,2015,5,,,
+Chihuahua,2015,5,,,
+Ciudad de México,2015,5,,,
+Durango,2015,5,,,
+Guanajuato,2015,5,,,
+Guerrero,2015,5,,,
+Hidalgo,2015,5,,,
+Jalisco,2015,5,,,
+México,2015,5,,,
+Michoacán,2015,5,,,
+Morelos,2015,5,,,
+Nayarit,2015,5,,,
+Nuevo León,2015,5,,,
+Oaxaca,2015,5,,,
+Puebla,2015,5,,,
+Querétaro,2015,5,,,
+Quintana Roo,2015,5,,,
+San Luis Potosí,2015,5,,,
+Sinaloa,2015,5,,,
+Sonora,2015,5,2.0,4.0,3.0
+Tabasco,2015,5,,,
+Tamaulipas,2015,5,,,
+Tlaxcala,2015,5,,,
+Veracruz,2015,5,,,
+Yucatán,2015,5,,,
+Zacatecas,2015,5,,,
+Aguascalientes,2015,6,,,
+Baja California,2015,6,,,
+Baja California Sur,2015,6,,,
+Campeche,2015,6,,,
+Coahuila,2015,6,,,
+Colima,2015,6,,,
+Chiapas,2015,6,,,
+Chihuahua,2015,6,,,
+Ciudad de México,2015,6,,,
+Durango,2015,6,,,
+Guanajuato,2015,6,,,
+Guerrero,2015,6,,,
+Hidalgo,2015,6,,,
+Jalisco,2015,6,,,
+México,2015,6,,,
+Michoacán,2015,6,,,
+Morelos,2015,6,,,
+Nayarit,2015,6,,,
+Nuevo León,2015,6,1.0,,1.0
+Oaxaca,2015,6,,,
+Puebla,2015,6,,,
+Querétaro,2015,6,,,
+Quintana Roo,2015,6,,,
+San Luis Potosí,2015,6,,,
+Sinaloa,2015,6,,,
+Sonora,2015,6,,4.0,3.0
+Tabasco,2015,6,,,
+Tamaulipas,2015,6,,,
+Tlaxcala,2015,6,,,
+Veracruz,2015,6,,,
+Yucatán,2015,6,,,
+Zacatecas,2015,6,,,
+Aguascalientes,2015,7,,,
+Baja California,2015,7,,,
+Baja California Sur,2015,7,,,
+Campeche,2015,7,,,
+Coahuila,2015,7,,,
+Colima,2015,7,,,
+Chiapas,2015,7,,,
+Chihuahua,2015,7,,,
+Ciudad de México,2015,7,,,
+Durango,2015,7,,,
+Guanajuato,2015,7,,,
+Guerrero,2015,7,,,
+Hidalgo,2015,7,,,
+Jalisco,2015,7,,,
+México,2015,7,,,
+Michoacán,2015,7,,,
+Morelos,2015,7,,,
+Nayarit,2015,7,,,
+Nuevo León,2015,7,,,1.0
+Oaxaca,2015,7,,,
+Puebla,2015,7,,,
+Querétaro,2015,7,,,
+Quintana Roo,2015,7,,,
+San Luis Potosí,2015,7,,,
+Sinaloa,2015,7,,,
+Sonora,2015,7,1.0,4.0,4.0
+Tabasco,2015,7,,,
+Tamaulipas,2015,7,,,
+Tlaxcala,2015,7,,,
+Veracruz,2015,7,,,
+Yucatán,2015,7,,,
+Zacatecas,2015,7,,,
+Aguascalientes,2015,8,,,
+Baja California,2015,8,,,
+Baja California Sur,2015,8,,,
+Campeche,2015,8,,,
+Coahuila,2015,8,1.0,1.0,
+Colima,2015,8,,,
+Chiapas,2015,8,,,
+Chihuahua,2015,8,,,
+Ciudad de México,2015,8,,,
+Durango,2015,8,,,
+Guanajuato,2015,8,1.0,,1.0
+Guerrero,2015,8,,,
+Hidalgo,2015,8,,,
+Jalisco,2015,8,,,
+México,2015,8,,,
+Michoacán,2015,8,,,
+Morelos,2015,8,,,
+Nayarit,2015,8,,,
+Nuevo León,2015,8,,,1.0
+Oaxaca,2015,8,,,
+Puebla,2015,8,,,
+Querétaro,2015,8,,,
+Quintana Roo,2015,8,,,
+San Luis Potosí,2015,8,,,
+Sinaloa,2015,8,,,
+Sonora,2015,8,2.0,5.0,5.0
+Tabasco,2015,8,,,
+Tamaulipas,2015,8,,,
+Tlaxcala,2015,8,,,
+Veracruz,2015,8,,,
+Yucatán,2015,8,,,
+Zacatecas,2015,8,,,
+Aguascalientes,2015,9,,,
+Baja California,2015,9,,,
+Baja California Sur,2015,9,,,
+Campeche,2015,9,,,
+Coahuila,2015,9,,1.0,
+Colima,2015,9,,,
+Chiapas,2015,9,,,
+Chihuahua,2015,9,,,
+Ciudad de México,2015,9,,,
+Durango,2015,9,,,
+Guanajuato,2015,9,,,1.0
+Guerrero,2015,9,,,
+Hidalgo,2015,9,,,
+Jalisco,2015,9,,,
+México,2015,9,,,
+Michoacán,2015,9,,,
+Morelos,2015,9,,,
+Nayarit,2015,9,,,
+Nuevo León,2015,9,,,1.0
+Oaxaca,2015,9,,,
+Puebla,2015,9,,,
+Querétaro,2015,9,,,
+Quintana Roo,2015,9,,,
+San Luis Potosí,2015,9,,,
+Sinaloa,2015,9,1.0,,1.0
+Sonora,2015,9,1.0,6.0,5.0
+Tabasco,2015,9,,,
+Tamaulipas,2015,9,,,
+Tlaxcala,2015,9,,,
+Veracruz,2015,9,,,
+Yucatán,2015,9,,,
+Zacatecas,2015,9,,,
+Aguascalientes,2015,10,,,
+Baja California,2015,10,3.0,,3.0
+Baja California Sur,2015,10,,,
+Campeche,2015,10,,,
+Coahuila,2015,10,,1.0,
+Colima,2015,10,,,
+Chiapas,2015,10,,,
+Chihuahua,2015,10,,,
+Ciudad de México,2015,10,,,
+Durango,2015,10,,,
+Guanajuato,2015,10,1.0,,2.0
+Guerrero,2015,10,,,
+Hidalgo,2015,10,,,
+Jalisco,2015,10,,,
+México,2015,10,,,
+Michoacán,2015,10,,,
+Morelos,2015,10,,,
+Nayarit,2015,10,,,
+Nuevo León,2015,10,,,1.0
+Oaxaca,2015,10,,,
+Puebla,2015,10,,,
+Querétaro,2015,10,,,
+Quintana Roo,2015,10,,,
+San Luis Potosí,2015,10,,,
+Sinaloa,2015,10,,,1.0
+Sonora,2015,10,1.0,6.0,6.0
+Tabasco,2015,10,,,
+Tamaulipas,2015,10,,,
+Tlaxcala,2015,10,,,
+Veracruz,2015,10,,,
+Yucatán,2015,10,,,
+Zacatecas,2015,10,,,
+Aguascalientes,2015,11,,,
+Baja California,2015,11,,,3.0
+Baja California Sur,2015,11,,,
+Campeche,2015,11,,,
+Coahuila,2015,11,1.0,1.0,1.0
+Colima,2015,11,,,
+Chiapas,2015,11,,,
+Chihuahua,2015,11,,,
+Ciudad de México,2015,11,,,
+Durango,2015,11,,,
+Guanajuato,2015,11,,,2.0
+Guerrero,2015,11,,,
+Hidalgo,2015,11,,,
+Jalisco,2015,11,,,
+México,2015,11,,,
+Michoacán,2015,11,,,
+Morelos,2015,11,,,
+Nayarit,2015,11,,,
+Nuevo León,2015,11,,,1.0
+Oaxaca,2015,11,,,
+Puebla,2015,11,,,
+Querétaro,2015,11,,,
+Quintana Roo,2015,11,,,
+San Luis Potosí,2015,11,,,
+Sinaloa,2015,11,,,1.0
+Sonora,2015,11,3.0,7.0,9.0
+Tabasco,2015,11,,,
+Tamaulipas,2015,11,,,
+Tlaxcala,2015,11,,,
+Veracruz,2015,11,,,
+Yucatán,2015,11,,,
+Zacatecas,2015,11,,,
+Aguascalientes,2015,12,,,
+Baja California,2015,12,,,3.0
+Baja California Sur,2015,12,,,
+Campeche,2015,12,,,
+Coahuila,2015,12,,1.0,1.0
+Colima,2015,12,,,
+Chiapas,2015,12,,,
+Chihuahua,2015,12,,,
+Ciudad de México,2015,12,,,
+Durango,2015,12,,,
+Guanajuato,2015,12,,,2.0
+Guerrero,2015,12,,,
+Hidalgo,2015,12,,,
+Jalisco,2015,12,,,
+México,2015,12,,,
+Michoacán,2015,12,,,
+Morelos,2015,12,,,
+Nayarit,2015,12,,,
+Nuevo León,2015,12,,,1.0
+Oaxaca,2015,12,,,
+Puebla,2015,12,,,
+Querétaro,2015,12,,,
+Quintana Roo,2015,12,,,
+San Luis Potosí,2015,12,,,
+Sinaloa,2015,12,1.0,,2.0
+Sonora,2015,12,,7.0,9.0
+Tabasco,2015,12,,,
+Tamaulipas,2015,12,,,
+Tlaxcala,2015,12,,,
+Veracruz,2015,12,,,
+Yucatán,2015,12,,,
+Zacatecas,2015,12,,,
+Aguascalientes,2015,13,,,
+Baja California,2015,13,,,3.0
+Baja California Sur,2015,13,,,
+Campeche,2015,13,,,
+Coahuila,2015,13,,1.0,1.0
+Colima,2015,13,,,
+Chiapas,2015,13,,,
+Chihuahua,2015,13,,,
+Ciudad de México,2015,13,,,
+Durango,2015,13,,,
+Guanajuato,2015,13,,,2.0
+Guerrero,2015,13,,,
+Hidalgo,2015,13,,,
+Jalisco,2015,13,,,
+México,2015,13,,,
+Michoacán,2015,13,,,
+Morelos,2015,13,,,
+Nayarit,2015,13,,,
+Nuevo León,2015,13,,,1.0
+Oaxaca,2015,13,,,
+Puebla,2015,13,,,
+Querétaro,2015,13,,,
+Quintana Roo,2015,13,,,
+San Luis Potosí,2015,13,,,
+Sinaloa,2015,13,1.0,,3.0
+Sonora,2015,13,,7.0,9.0
+Tabasco,2015,13,,,
+Tamaulipas,2015,13,,,
+Tlaxcala,2015,13,,,
+Veracruz,2015,13,,,
+Yucatán,2015,13,,,
+Zacatecas,2015,13,,,
+Aguascalientes,2015,14,,,
+Baja California,2015,14,,,3.0
+Baja California Sur,2015,14,,,
+Campeche,2015,14,,,
+Coahuila,2015,14,,1.0,1.0
+Colima,2015,14,2.0,1.0,1.0
+Chiapas,2015,14,,,
+Chihuahua,2015,14,,,
+Ciudad de México,2015,14,,,
+Durango,2015,14,,,
+Guanajuato,2015,14,,,2.0
+Guerrero,2015,14,,,
+Hidalgo,2015,14,,,
+Jalisco,2015,14,,,
+México,2015,14,,,
+Michoacán,2015,14,,,
+Morelos,2015,14,,,
+Nayarit,2015,14,,,
+Nuevo León,2015,14,,,1.0
+Oaxaca,2015,14,,,
+Puebla,2015,14,,,
+Querétaro,2015,14,,,
+Quintana Roo,2015,14,,,
+San Luis Potosí,2015,14,,,
+Sinaloa,2015,14,,,3.0
+Sonora,2015,14,,7.0,9.0
+Tabasco,2015,14,,,
+Tamaulipas,2015,14,,,
+Tlaxcala,2015,14,,,
+Veracruz,2015,14,,,
+Yucatán,2015,14,,,
+Zacatecas,2015,14,,,
+Aguascalientes,2015,16,,,
+Baja California,2015,16,,,3.0
+Baja California Sur,2015,16,,,
+Campeche,2015,16,,,
+Coahuila,2015,16,1.0,1.0,2.0
+Colima,2015,16,,1.0,1.0
+Chiapas,2015,16,,,
+Chihuahua,2015,16,,,
+Ciudad de México,2015,16,,,
+Durango,2015,16,,,
+Guanajuato,2015,16,,,2.0
+Guerrero,2015,16,,,
+Hidalgo,2015,16,,,
+Jalisco,2015,16,,,
+México,2015,16,,,
+Michoacán,2015,16,,,
+Morelos,2015,16,,,
+Nayarit,2015,16,,,
+Nuevo León,2015,16,,1.0,2.0
+Oaxaca,2015,16,,,
+Puebla,2015,16,,,
+Querétaro,2015,16,,,
+Quintana Roo,2015,16,,,
+San Luis Potosí,2015,16,,,
+Sinaloa,2015,16,,,4.0
+Sonora,2015,16,2.0,9.0,10.0
+Tabasco,2015,16,,,
+Tamaulipas,2015,16,,,
+Tlaxcala,2015,16,,,
+Veracruz,2015,16,,,
+Yucatán,2015,16,,,
+Zacatecas,2015,16,,,
+Aguascalientes,2015,17,,,
+Baja California,2015,17,1.0,,4.0
+Baja California Sur,2015,17,,,
+Campeche,2015,17,,,
+Coahuila,2015,17,1.0,1.0,3.0
+Colima,2015,17,,1.0,1.0
+Chiapas,2015,17,,,
+Chihuahua,2015,17,,,
+Ciudad de México,2015,17,,,
+Durango,2015,17,,,
+Guanajuato,2015,17,,,2.0
+Guerrero,2015,17,,,
+Hidalgo,2015,17,,,
+Jalisco,2015,17,,,
+México,2015,17,,,
+Michoacán,2015,17,1.0,,1.0
+Morelos,2015,17,,,
+Nayarit,2015,17,,,
+Nuevo León,2015,17,,1.0,2.0
+Oaxaca,2015,17,,,
+Puebla,2015,17,,,
+Querétaro,2015,17,,,
+Quintana Roo,2015,17,,,
+San Luis Potosí,2015,17,,,
+Sinaloa,2015,17,,,4.0
+Sonora,2015,17,1.0,9.0,11.0
+Tabasco,2015,17,,,
+Tamaulipas,2015,17,,,
+Tlaxcala,2015,17,,,
+Veracruz,2015,17,,,
+Yucatán,2015,17,,,
+Zacatecas,2015,17,,,
+Aguascalientes,2015,18,,,
+Baja California,2015,18,2.0,1.0,5.0
+Baja California Sur,2015,18,,,
+Campeche,2015,18,,,
+Coahuila,2015,18,1.0,1.0,4.0
+Colima,2015,18,,1.0,1.0
+Chiapas,2015,18,,,
+Chihuahua,2015,18,,,
+Ciudad de México,2015,18,,,
+Durango,2015,18,,,
+Guanajuato,2015,18,,,2.0
+Guerrero,2015,18,,,
+Hidalgo,2015,18,,,
+Jalisco,2015,18,,,
+México,2015,18,,,
+Michoacán,2015,18,,,
+Morelos,2015,18,,,
+Nayarit,2015,18,,,
+Nuevo León,2015,18,,1.0,2.0
+Oaxaca,2015,18,,,
+Puebla,2015,18,,,
+Querétaro,2015,18,,,
+Quintana Roo,2015,18,,,
+San Luis Potosí,2015,18,,,
+Sinaloa,2015,18,,,4.0
+Sonora,2015,18,1.0,10.0,11.0
+Tabasco,2015,18,,,
+Tamaulipas,2015,18,,,
+Tlaxcala,2015,18,,,
+Veracruz,2015,18,,,
+Yucatán,2015,18,,,
+Zacatecas,2015,18,,,
+Aguascalientes,2015,19,,,
+Baja California,2015,19,,1.0,5.0
+Baja California Sur,2015,19,,,
+Campeche,2015,19,,,
+Coahuila,2015,19,,1.0,4.0
+Colima,2015,19,,1.0,1.0
+Chiapas,2015,19,,,
+Chihuahua,2015,19,,,
+Ciudad de México,2015,19,,,
+Durango,2015,19,,,
+Guanajuato,2015,19,,,2.0
+Guerrero,2015,19,,,
+Hidalgo,2015,19,,,
+Jalisco,2015,19,,,
+México,2015,19,,,
+Michoacán,2015,19,,,
+Morelos,2015,19,,,
+Nayarit,2015,19,,,
+Nuevo León,2015,19,,1.0,5.0
+Oaxaca,2015,19,,,
+Puebla,2015,19,,,
+Querétaro,2015,19,,,
+Quintana Roo,2015,19,,,
+San Luis Potosí,2015,19,,,
+Sinaloa,2015,19,,,4.0
+Sonora,2015,19,3.0,12.0,12.0
+Tabasco,2015,19,,,
+Tamaulipas,2015,19,,,
+Tlaxcala,2015,19,,,
+Veracruz,2015,19,,,
+Yucatán,2015,19,,,
+Zacatecas,2015,19,,,
+Aguascalientes,2015,20,,,
+Baja California,2015,20,1.0,2.0,5.0
+Baja California Sur,2015,20,,,
+Campeche,2015,20,,,
+Coahuila,2015,20,,1.0,4.0
+Colima,2015,20,,1.0,1.0
+Chiapas,2015,20,,,
+Chihuahua,2015,20,,,
+Ciudad de México,2015,20,,,
+Durango,2015,20,,,
+Guanajuato,2015,20,,,2.0
+Guerrero,2015,20,,,
+Hidalgo,2015,20,,,
+Jalisco,2015,20,,,
+México,2015,20,,,
+Michoacán,2015,20,,,
+Morelos,2015,20,,,
+Nayarit,2015,20,,,
+Nuevo León,2015,20,,1.0,5.0
+Oaxaca,2015,20,,,
+Puebla,2015,20,,,
+Querétaro,2015,20,,,
+Quintana Roo,2015,20,,,
+San Luis Potosí,2015,20,,,
+Sinaloa,2015,20,,,4.0
+Sonora,2015,20,,12.0,12.0
+Tabasco,2015,20,,,
+Tamaulipas,2015,20,,,
+Tlaxcala,2015,20,,,
+Veracruz,2015,20,,,
+Yucatán,2015,20,,,
+Zacatecas,2015,20,,,
+Aguascalientes,2015,21,,,
+Baja California,2015,21,,2.0,5.0
+Baja California Sur,2015,21,1.0,1.0,
+Campeche,2015,21,,,
+Coahuila,2015,21,,1.0,4.0
+Colima,2015,21,,1.0,1.0
+Chiapas,2015,21,,,
+Chihuahua,2015,21,,,
+Ciudad de México,2015,21,,,
+Durango,2015,21,,,
+Guanajuato,2015,21,,,1.0
+Guerrero,2015,21,,,
+Hidalgo,2015,21,,,
+Jalisco,2015,21,,,
+México,2015,21,,,
+Michoacán,2015,21,,,
+Morelos,2015,21,,,
+Nayarit,2015,21,,,
+Nuevo León,2015,21,,1.0,5.0
+Oaxaca,2015,21,,,
+Puebla,2015,21,,,
+Querétaro,2015,21,,,
+Quintana Roo,2015,21,,,
+San Luis Potosí,2015,21,,,
+Sinaloa,2015,21,,,4.0
+Sonora,2015,21,3.0,13.0,14.0
+Tabasco,2015,21,,,
+Tamaulipas,2015,21,,,
+Tlaxcala,2015,21,,,
+Veracruz,2015,21,,,
+Yucatán,2015,21,,,
+Zacatecas,2015,21,,,
+Aguascalientes,2015,22,,,
+Baja California,2015,22,,2.0,5.0
+Baja California Sur,2015,22,,1.0,
+Campeche,2015,22,,,
+Coahuila,2015,22,1.0,2.0,4.0
+Colima,2015,22,,1.0,1.0
+Chiapas,2015,22,,,
+Chihuahua,2015,22,,,
+Ciudad de México,2015,22,,,
+Durango,2015,22,,,
+Guanajuato,2015,22,,,1.0
+Guerrero,2015,22,,,
+Hidalgo,2015,22,,,
+Jalisco,2015,22,,,
+México,2015,22,,,
+Michoacán,2015,22,,,
+Morelos,2015,22,,,
+Nayarit,2015,22,,,
+Nuevo León,2015,22,,1.0,5.0
+Oaxaca,2015,22,,,
+Puebla,2015,22,,,
+Querétaro,2015,22,,,
+Quintana Roo,2015,22,,,
+San Luis Potosí,2015,22,,,
+Sinaloa,2015,22,,,4.0
+Sonora,2015,22,2.0,14.0,15.0
+Tabasco,2015,22,,,
+Tamaulipas,2015,22,,,
+Tlaxcala,2015,22,,,
+Veracruz,2015,22,,,
+Yucatán,2015,22,,,
+Zacatecas,2015,22,,,
+Aguascalientes,2015,23,,,
+Baja California,2015,23,1.0,3.0,5.0
+Baja California Sur,2015,23,,1.0,
+Campeche,2015,23,,,
+Coahuila,2015,23,,2.0,4.0
+Colima,2015,23,,1.0,1.0
+Chiapas,2015,23,,,
+Chihuahua,2015,23,,1.0,
+Ciudad de México,2015,23,,,
+Durango,2015,23,,,
+Guanajuato,2015,23,,,1.0
+Guerrero,2015,23,,,
+Hidalgo,2015,23,,,
+Jalisco,2015,23,,,
+México,2015,23,,,
+Michoacán,2015,23,,,
+Morelos,2015,23,,,
+Nayarit,2015,23,,,
+Nuevo León,2015,23,,1.0,5.0
+Oaxaca,2015,23,,,
+Puebla,2015,23,,,
+Querétaro,2015,23,,,
+Quintana Roo,2015,23,,,
+San Luis Potosí,2015,23,,,
+Sinaloa,2015,23,,,4.0
+Sonora,2015,23,4.0,16.0,17.0
+Tabasco,2015,23,,,
+Tamaulipas,2015,23,,,
+Tlaxcala,2015,23,,,
+Veracruz,2015,23,,,
+Yucatán,2015,23,,,
+Zacatecas,2015,23,,,
+Aguascalientes,2015,24,,,
+Baja California,2015,24,2.0,4.0,6.0
+Baja California Sur,2015,24,,1.0,
+Campeche,2015,24,,,
+Coahuila,2015,24,1.0,2.0,5.0
+Colima,2015,24,,1.0,1.0
+Chiapas,2015,24,,,
+Chihuahua,2015,24,,1.0,
+Ciudad de México,2015,24,,,
+Durango,2015,24,,,
+Guanajuato,2015,24,,,1.0
+Guerrero,2015,24,,,
+Hidalgo,2015,24,,,
+Jalisco,2015,24,,,
+México,2015,24,,,
+Michoacán,2015,24,,,
+Morelos,2015,24,,,
+Nayarit,2015,24,,,
+Nuevo León,2015,24,,1.0,6.0
+Oaxaca,2015,24,,,
+Puebla,2015,24,,,
+Querétaro,2015,24,,,
+Quintana Roo,2015,24,1.0,1.0,
+San Luis Potosí,2015,24,,,
+Sinaloa,2015,24,,,4.0
+Sonora,2015,24,4.0,19.0,18.0
+Tabasco,2015,24,,,
+Tamaulipas,2015,24,,,
+Tlaxcala,2015,24,,,
+Veracruz,2015,24,,,
+Yucatán,2015,24,,,
+Zacatecas,2015,24,,,
+Aguascalientes,2015,25,,,
+Baja California,2015,25,3.0,7.0,6.0
+Baja California Sur,2015,25,,1.0,
+Campeche,2015,25,,,
+Coahuila,2015,25,2.0,3.0,6.0
+Colima,2015,25,,1.0,1.0
+Chiapas,2015,25,,,
+Chihuahua,2015,25,,1.0,
+Ciudad de México,2015,25,,,
+Durango,2015,25,,,
+Guanajuato,2015,25,,,1.0
+Guerrero,2015,25,,,
+Hidalgo,2015,25,,,
+Jalisco,2015,25,,,
+México,2015,25,,,
+Michoacán,2015,25,,,
+Morelos,2015,25,,,
+Nayarit,2015,25,,,
+Nuevo León,2015,25,,1.0,6.0
+Oaxaca,2015,25,,,
+Puebla,2015,25,,,
+Querétaro,2015,25,,,
+Quintana Roo,2015,25,,1.0,
+San Luis Potosí,2015,25,,,
+Sinaloa,2015,25,,,4.0
+Sonora,2015,25,2.0,20.0,19.0
+Tabasco,2015,25,,,
+Tamaulipas,2015,25,,,
+Tlaxcala,2015,25,,,
+Veracruz,2015,25,,,
+Yucatán,2015,25,,,
+Zacatecas,2015,25,,,
+Aguascalientes,2015,26,,,
+Baja California,2015,26,2.0,8.0,7.0
+Baja California Sur,2015,26,,1.0,
+Campeche,2015,26,,,
+Coahuila,2015,26,1.0,3.0,7.0
+Colima,2015,26,,1.0,1.0
+Chiapas,2015,26,,,
+Chihuahua,2015,26,,1.0,
+Ciudad de México,2015,26,,,
+Durango,2015,26,,,
+Guanajuato,2015,26,,,1.0
+Guerrero,2015,26,,,
+Hidalgo,2015,26,,,
+Jalisco,2015,26,,,
+México,2015,26,,,
+Michoacán,2015,26,,,
+Morelos,2015,26,,,
+Nayarit,2015,26,,,
+Nuevo León,2015,26,,1.0,7.0
+Oaxaca,2015,26,,,
+Puebla,2015,26,,,
+Querétaro,2015,26,,,
+Quintana Roo,2015,26,,1.0,
+San Luis Potosí,2015,26,,,
+Sinaloa,2015,26,,1.0,5.0
+Sonora,2015,26,,20.0,20.0
+Tabasco,2015,26,,,
+Tamaulipas,2015,26,,,
+Tlaxcala,2015,26,,,
+Veracruz,2015,26,,,
+Yucatán,2015,26,,,
+Zacatecas,2015,26,,,
+Aguascalientes,2015,27,,,
+Baja California,2015,27,4.0,11.0,8.0
+Baja California Sur,2015,27,,1.0,
+Campeche,2015,27,,,
+Coahuila,2015,27,,3.0,7.0
+Colima,2015,27,,1.0,1.0
+Chiapas,2015,27,,,
+Chihuahua,2015,27,,1.0,
+Ciudad de México,2015,27,,,
+Durango,2015,27,,,
+Guanajuato,2015,27,,,1.0
+Guerrero,2015,27,,,
+Hidalgo,2015,27,,,
+Jalisco,2015,27,,,
+México,2015,27,,,
+Michoacán,2015,27,,,
+Morelos,2015,27,,,
+Nayarit,2015,27,,,
+Nuevo León,2015,27,,1.0,7.0
+Oaxaca,2015,27,,,
+Puebla,2015,27,,,
+Querétaro,2015,27,,,
+Quintana Roo,2015,27,,1.0,
+San Luis Potosí,2015,27,,,
+Sinaloa,2015,27,,1.0,5.0
+Sonora,2015,27,6.0,23.0,23.0
+Tabasco,2015,27,,,
+Tamaulipas,2015,27,,,
+Tlaxcala,2015,27,,,
+Veracruz,2015,27,,,
+Yucatán,2015,27,,,
+Zacatecas,2015,27,,,
+Aguascalientes,2015,28,,,
+Baja California,2015,28,4.0,13.0,10.0
+Baja California Sur,2015,28,,1.0,
+Campeche,2015,28,,,
+Coahuila,2015,28,,3.0,7.0
+Colima,2015,28,,1.0,1.0
+Chiapas,2015,28,,,
+Chihuahua,2015,28,,1.0,
+Ciudad de México,2015,28,,,
+Durango,2015,28,,,
+Guanajuato,2015,28,,,1.0
+Guerrero,2015,28,,,
+Hidalgo,2015,28,,,
+Jalisco,2015,28,,,
+México,2015,28,,,
+Michoacán,2015,28,,,
+Morelos,2015,28,,,
+Nayarit,2015,28,,,
+Nuevo León,2015,28,,1.0,7.0
+Oaxaca,2015,28,,,
+Puebla,2015,28,,,
+Querétaro,2015,28,,,
+Quintana Roo,2015,28,,1.0,
+San Luis Potosí,2015,28,,,
+Sinaloa,2015,28,2.0,2.0,6.0
+Sonora,2015,28,2.0,24.0,24.0
+Tabasco,2015,28,,,
+Tamaulipas,2015,28,,,
+Tlaxcala,2015,28,,,
+Veracruz,2015,28,,,
+Yucatán,2015,28,,,
+Zacatecas,2015,28,,,
+Aguascalientes,2015,29,,,
+Baja California,2015,29,8.0,17.0,14.0
+Baja California Sur,2015,29,,1.0,
+Campeche,2015,29,,,
+Coahuila,2015,29,1.0,3.0,8.0
+Colima,2015,29,,1.0,1.0
+Chiapas,2015,29,,,
+Chihuahua,2015,29,,1.0,
+Ciudad de México,2015,29,,,
+Durango,2015,29,,,
+Guanajuato,2015,29,1.0,,2.0
+Guerrero,2015,29,,,
+Hidalgo,2015,29,,,
+Jalisco,2015,29,,,
+México,2015,29,,,
+Michoacán,2015,29,,,
+Morelos,2015,29,,,
+Nayarit,2015,29,,,
+Nuevo León,2015,29,,1.0,7.0
+Oaxaca,2015,29,,,
+Puebla,2015,29,,,
+Querétaro,2015,29,,,
+Quintana Roo,2015,29,,1.0,
+San Luis Potosí,2015,29,,,
+Sinaloa,2015,29,,2.0,6.0
+Sonora,2015,29,1.0,28.0,25.0
+Tabasco,2015,29,,,
+Tamaulipas,2015,29,,,
+Tlaxcala,2015,29,,,
+Veracruz,2015,29,,,
+Yucatán,2015,29,,,
+Zacatecas,2015,29,,,
+Aguascalientes,2015,30,,,
+Baja California,2015,30,9.0,22.0,18.0
+Baja California Sur,2015,30,1.0,1.0,1.0
+Campeche,2015,30,,,
+Coahuila,2015,30,,3.0,8.0
+Colima,2015,30,,1.0,1.0
+Chiapas,2015,30,,,
+Chihuahua,2015,30,,1.0,
+Ciudad de México,2015,30,,,
+Durango,2015,30,,,
+Guanajuato,2015,30,,,2.0
+Guerrero,2015,30,,,
+Hidalgo,2015,30,,,
+Jalisco,2015,30,,,
+México,2015,30,,,
+Michoacán,2015,30,,,
+Morelos,2015,30,,,
+Nayarit,2015,30,,,
+Nuevo León,2015,30,,1.0,7.0
+Oaxaca,2015,30,,,
+Puebla,2015,30,,,
+Querétaro,2015,30,,,
+Quintana Roo,2015,30,,1.0,
+San Luis Potosí,2015,30,,,
+Sinaloa,2015,30,,2.0,6.0
+Sonora,2015,30,2.0,29.0,27.0
+Tabasco,2015,30,,,
+Tamaulipas,2015,30,,,
+Tlaxcala,2015,30,,,
+Veracruz,2015,30,,,
+Yucatán,2015,30,,,
+Zacatecas,2015,30,,,
+Aguascalientes,2015,31,,,
+Baja California,2015,31,5.0,26.0,19.0
+Baja California Sur,2015,31,,1.0,1.0
+Campeche,2015,31,,,
+Coahuila,2015,31,,3.0,8.0
+Colima,2015,31,,1.0,1.0
+Chiapas,2015,31,,,
+Chihuahua,2015,31,,1.0,
+Ciudad de México,2015,31,,,
+Durango,2015,31,,,
+Guanajuato,2015,31,1.0,,3.0
+Guerrero,2015,31,,,
+Hidalgo,2015,31,,,1.0
+Jalisco,2015,31,,,
+México,2015,31,,,
+Michoacán,2015,31,,,
+Morelos,2015,31,,,
+Nayarit,2015,31,,,
+Nuevo León,2015,31,,4.0,12.0
+Oaxaca,2015,31,,,
+Puebla,2015,31,,,
+Querétaro,2015,31,,,
+Quintana Roo,2015,31,,1.0,
+San Luis Potosí,2015,31,,,
+Sinaloa,2015,31,1.0,2.0,7.0
+Sonora,2015,31,1.0,36.0,30.0
+Tabasco,2015,31,,,
+Tamaulipas,2015,31,,,
+Tlaxcala,2015,31,,,
+Veracruz,2015,31,,,
+Yucatán,2015,31,,,
+Zacatecas,2015,31,,,
+Aguascalientes,2015,32,,,
+Baja California,2015,32,7.0,31.0,22.0
+Baja California Sur,2015,32,,1.0,1.0
+Campeche,2015,32,,,
+Coahuila,2015,32,,3.0,8.0
+Colima,2015,32,,1.0,1.0
+Chiapas,2015,32,,,
+Chihuahua,2015,32,,1.0,
+Ciudad de México,2015,32,,,
+Durango,2015,32,,,
+Guanajuato,2015,32,,,3.0
+Guerrero,2015,32,,,
+Hidalgo,2015,32,,,1.0
+Jalisco,2015,32,,,
+México,2015,32,,,
+Michoacán,2015,32,,,
+Morelos,2015,32,,,
+Nayarit,2015,32,,,
+Nuevo León,2015,32,,3.0,11.0
+Oaxaca,2015,32,,,
+Puebla,2015,32,,,
+Querétaro,2015,32,,,
+Quintana Roo,2015,32,,1.0,
+San Luis Potosí,2015,32,,,
+Sinaloa,2015,32,,2.0,7.0
+Sonora,2015,32,6.0,42.0,35.0
+Tabasco,2015,32,,,
+Tamaulipas,2015,32,,,
+Tlaxcala,2015,32,,,
+Veracruz,2015,32,,,
+Yucatán,2015,32,,,
+Zacatecas,2015,32,,,4.0
+Aguascalientes,2015,33,,,
+Baja California,2015,33,4.0,31.0,24.0
+Baja California Sur,2015,33,,1.0,1.0
+Campeche,2015,33,1.0,,1.0
+Coahuila,2015,33,,3.0,9.0
+Colima,2015,33,,1.0,1.0
+Chiapas,2015,33,,,
+Chihuahua,2015,33,1.0,2.0,
+Ciudad de México,2015,33,,,
+Durango,2015,33,,,
+Guanajuato,2015,33,1.0,1.0,3.0
+Guerrero,2015,33,,,
+Hidalgo,2015,33,,,1.0
+Jalisco,2015,33,,,
+México,2015,33,,,
+Michoacán,2015,33,,,
+Morelos,2015,33,,,
+Nayarit,2015,33,,,
+Nuevo León,2015,33,,4.0,10.0
+Oaxaca,2015,33,,,
+Puebla,2015,33,,,
+Querétaro,2015,33,,,
+Quintana Roo,2015,33,,,
+San Luis Potosí,2015,33,,,
+Sinaloa,2015,33,,2.0,7.0
+Sonora,2015,33,5.0,44.0,38.0
+Tabasco,2015,33,,,
+Tamaulipas,2015,33,,,
+Tlaxcala,2015,33,,,
+Veracruz,2015,33,,,
+Yucatán,2015,33,,,
+Zacatecas,2015,33,,,4.0
+Aguascalientes,2015,34,,,
+Baja California,2015,34,4.0,33.0,26.0
+Baja California Sur,2015,34,,1.0,
+Campeche,2015,34,,,1.0
+Coahuila,2015,34,,3.0,11.0
+Colima,2015,34,,1.0,1.0
+Chiapas,2015,34,,,
+Chihuahua,2015,34,,2.0,
+Ciudad de México,2015,34,,,
+Durango,2015,34,,,
+Guanajuato,2015,34,4.0,2.0,6.0
+Guerrero,2015,34,,,
+Hidalgo,2015,34,,,1.0
+Jalisco,2015,34,,,
+México,2015,34,,,
+Michoacán,2015,34,,,
+Morelos,2015,34,,9.0,2.0
+Nayarit,2015,34,,,
+Nuevo León,2015,34,,4.0,8.0
+Oaxaca,2015,34,,,
+Puebla,2015,34,,,
+Querétaro,2015,34,,,
+Quintana Roo,2015,34,,,
+San Luis Potosí,2015,34,,,
+Sinaloa,2015,34,,2.0,6.0
+Sonora,2015,34,10.0,49.0,45.0
+Tabasco,2015,34,,,
+Tamaulipas,2015,34,1.0,1.0,
+Tlaxcala,2015,34,,,
+Veracruz,2015,34,,,
+Yucatán,2015,34,,,
+Zacatecas,2015,34,,,4.0
+Aguascalientes,2015,35,,,
+Baja California,2015,35,8.0,34.0,33.0
+Baja California Sur,2015,35,,1.0,2.0
+Campeche,2015,35,,,1.0
+Coahuila,2015,35,,3.0,11.0
+Colima,2015,35,,1.0,1.0
+Chiapas,2015,35,,,
+Chihuahua,2015,35,,2.0,
+Ciudad de México,2015,35,,,
+Durango,2015,35,,,
+Guanajuato,2015,35,,2.0,6.0
+Guerrero,2015,35,,,
+Hidalgo,2015,35,,,1.0
+Jalisco,2015,35,1.0,,1.0
+México,2015,35,,,
+Michoacán,2015,35,,,
+Morelos,2015,35,,9.0,2.0
+Nayarit,2015,35,,,
+Nuevo León,2015,35,,2.0,2.0
+Oaxaca,2015,35,,,
+Puebla,2015,35,,,
+Querétaro,2015,35,,,
+Quintana Roo,2015,35,,2.0,2.0
+San Luis Potosí,2015,35,,,
+Sinaloa,2015,35,,4.0,17.0
+Sonora,2015,35,5.0,52.0,49.0
+Tabasco,2015,35,,,
+Tamaulipas,2015,35,,,
+Tlaxcala,2015,35,,,
+Veracruz,2015,35,,,
+Yucatán,2015,35,,,
+Zacatecas,2015,35,,,4.0
+Aguascalientes,2015,36,,,
+Baja California,2015,36,7.0,37.0,37.0
+Baja California Sur,2015,36,,1.0,2.0
+Campeche,2015,36,,,1.0
+Coahuila,2015,36,1.0,3.0,12.0
+Colima,2015,36,,1.0,1.0
+Chiapas,2015,36,,,
+Chihuahua,2015,36,,2.0,
+Ciudad de México,2015,36,,,
+Durango,2015,36,,,
+Guanajuato,2015,36,,2.0,6.0
+Guerrero,2015,36,,,
+Hidalgo,2015,36,,,1.0
+Jalisco,2015,36,,3.0,3.0
+México,2015,36,,,
+Michoacán,2015,36,,,
+Morelos,2015,36,,9.0,2.0
+Nayarit,2015,36,,,
+Nuevo León,2015,36,,2.0,2.0
+Oaxaca,2015,36,,,
+Puebla,2015,36,,,
+Querétaro,2015,36,,,
+Quintana Roo,2015,36,,2.0,3.0
+San Luis Potosí,2015,36,,,
+Sinaloa,2015,36,,4.0,17.0
+Sonora,2015,36,5.0,47.0,39.0
+Tabasco,2015,36,,,
+Tamaulipas,2015,36,,,
+Tlaxcala,2015,36,,,
+Veracruz,2015,36,,,
+Yucatán,2015,36,,,
+Zacatecas,2015,36,,,4.0
+Aguascalientes,2015,37,,,
+Baja California,2015,37,7.0,40.0,41.0
+Baja California Sur,2015,37,,1.0,2.0
+Campeche,2015,37,,,1.0
+Coahuila,2015,37,3.0,3.0,15.0
+Colima,2015,37,,1.0,1.0
+Chiapas,2015,37,,,
+Chihuahua,2015,37,,2.0,
+Ciudad de México,2015,37,,,
+Durango,2015,37,,,
+Guanajuato,2015,37,,2.0,6.0
+Guerrero,2015,37,,,
+Hidalgo,2015,37,,,1.0
+Jalisco,2015,37,,3.0,3.0
+México,2015,37,,,
+Michoacán,2015,37,,,
+Morelos,2015,37,,9.0,2.0
+Nayarit,2015,37,,,
+Nuevo León,2015,37,,2.0,2.0
+Oaxaca,2015,37,,,
+Puebla,2015,37,,,
+Querétaro,2015,37,,,
+Quintana Roo,2015,37,,2.0,3.0
+San Luis Potosí,2015,37,,,
+Sinaloa,2015,37,,4.0,17.0
+Sonora,2015,37,6.0,52.0,40.0
+Tabasco,2015,37,,,
+Tamaulipas,2015,37,,,
+Tlaxcala,2015,37,,,
+Veracruz,2015,37,,,
+Yucatán,2015,37,,,
+Zacatecas,2015,37,,,4.0
+Aguascalientes,2015,38,,,
+Baja California,2015,38,16.0,48.0,48.0
+Baja California Sur,2015,38,,1.0,2.0
+Campeche,2015,38,,,1.0
+Coahuila,2015,38,,4.0,15.0
+Colima,2015,38,,1.0,1.0
+Chiapas,2015,38,,,
+Chihuahua,2015,38,,2.0,
+Ciudad de México,2015,38,,,
+Durango,2015,38,,,
+Guanajuato,2015,38,,2.0,6.0
+Guerrero,2015,38,,,
+Hidalgo,2015,38,,,1.0
+Jalisco,2015,38,,3.0,3.0
+México,2015,38,,,
+Michoacán,2015,38,,,
+Morelos,2015,38,,9.0,2.0
+Nayarit,2015,38,,,
+Nuevo León,2015,38,1.0,2.0,3.0
+Oaxaca,2015,38,,,
+Puebla,2015,38,,,
+Querétaro,2015,38,,,
+Quintana Roo,2015,38,,2.0,3.0
+San Luis Potosí,2015,38,,,
+Sinaloa,2015,38,,4.0,17.0
+Sonora,2015,38,4.0,57.0,44.0
+Tabasco,2015,38,,,
+Tamaulipas,2015,38,,,
+Tlaxcala,2015,38,,,
+Veracruz,2015,38,,,
+Yucatán,2015,38,,,
+Zacatecas,2015,38,,,4.0
+Aguascalientes,2015,39,,,
+Baja California,2015,39,21.0,54.0,63.0
+Baja California Sur,2015,39,,1.0,2.0
+Campeche,2015,39,,,1.0
+Coahuila,2015,39,1.0,5.0,15.0
+Colima,2015,39,,1.0,1.0
+Chiapas,2015,39,,,
+Chihuahua,2015,39,,2.0,
+Ciudad de México,2015,39,,,
+Durango,2015,39,,,
+Guanajuato,2015,39,,2.0,6.0
+Guerrero,2015,39,,,
+Hidalgo,2015,39,,,1.0
+Jalisco,2015,39,,3.0,3.0
+México,2015,39,,,
+Michoacán,2015,39,,,
+Morelos,2015,39,,9.0,2.0
+Nayarit,2015,39,,,
+Nuevo León,2015,39,,2.0,3.0
+Oaxaca,2015,39,,,
+Puebla,2015,39,,,
+Querétaro,2015,39,,,
+Quintana Roo,2015,39,,2.0,3.0
+San Luis Potosí,2015,39,,,
+Sinaloa,2015,39,1.0,4.0,18.0
+Sonora,2015,39,6.0,60.0,47.0
+Tabasco,2015,39,,,
+Tamaulipas,2015,39,,,
+Tlaxcala,2015,39,,,
+Veracruz,2015,39,,,
+Yucatán,2015,39,,,
+Zacatecas,2015,39,,,4.0
+Aguascalientes,2015,40,,,
+Baja California,2015,40,21.0,62.0,76.0
+Baja California Sur,2015,40,,1.0,2.0
+Campeche,2015,40,,,1.0
+Coahuila,2015,40,,5.0,15.0
+Colima,2015,40,,1.0,1.0
+Chiapas,2015,40,,,
+Chihuahua,2015,40,,2.0,
+Ciudad de México,2015,40,,,
+Durango,2015,40,,,
+Guanajuato,2015,40,,2.0,6.0
+Guerrero,2015,40,,,
+Hidalgo,2015,40,,,1.0
+Jalisco,2015,40,,3.0,3.0
+México,2015,40,,,
+Michoacán,2015,40,,,
+Morelos,2015,40,,9.0,2.0
+Nayarit,2015,40,,,
+Nuevo León,2015,40,,2.0,3.0
+Oaxaca,2015,40,,,
+Puebla,2015,40,,,
+Querétaro,2015,40,,,
+Quintana Roo,2015,40,,2.0,3.0
+San Luis Potosí,2015,40,,,
+Sinaloa,2015,40,,4.0,18.0
+Sonora,2015,40,5.0,62.0,50.0
+Tabasco,2015,40,,,
+Tamaulipas,2015,40,,,
+Tlaxcala,2015,40,,,
+Veracruz,2015,40,,,
+Yucatán,2015,40,,,
+Zacatecas,2015,40,,,4.0
+Aguascalientes,2015,41,,,
+Baja California,2015,41,11.0,67.0,82.0
+Baja California Sur,2015,41,,1.0,2.0
+Campeche,2015,41,,,1.0
+Coahuila,2015,41,1.0,5.0,16.0
+Colima,2015,41,,1.0,1.0
+Chiapas,2015,41,,,
+Chihuahua,2015,41,,2.0,
+Ciudad de México,2015,41,,,
+Durango,2015,41,,,
+Guanajuato,2015,41,,2.0,6.0
+Guerrero,2015,41,,,
+Hidalgo,2015,41,,,1.0
+Jalisco,2015,41,,3.0,3.0
+México,2015,41,,,
+Michoacán,2015,41,,,
+Morelos,2015,41,,9.0,2.0
+Nayarit,2015,41,,,
+Nuevo León,2015,41,,2.0,3.0
+Oaxaca,2015,41,,,
+Puebla,2015,41,,,
+Querétaro,2015,41,,,
+Quintana Roo,2015,41,,2.0,3.0
+San Luis Potosí,2015,41,,,
+Sinaloa,2015,41,,4.0,18.0
+Sonora,2015,41,4.0,65.0,51.0
+Tabasco,2015,41,,,
+Tamaulipas,2015,41,,,
+Tlaxcala,2015,41,,,
+Veracruz,2015,41,,,
+Yucatán,2015,41,,,
+Zacatecas,2015,41,,,4.0
+Aguascalientes,2015,42,,,
+Baja California,2015,42,25.0,76.0,98.0
+Baja California Sur,2015,42,,1.0,2.0
+Campeche,2015,42,,,1.0
+Coahuila,2015,42,,5.0,16.0
+Colima,2015,42,,1.0,1.0
+Chiapas,2015,42,,,
+Chihuahua,2015,42,,2.0,
+Ciudad de México,2015,42,,,
+Durango,2015,42,,,
+Guanajuato,2015,42,,2.0,6.0
+Guerrero,2015,42,,,
+Hidalgo,2015,42,,,1.0
+Jalisco,2015,42,,3.0,3.0
+México,2015,42,,,
+Michoacán,2015,42,,,
+Morelos,2015,42,,9.0,2.0
+Nayarit,2015,42,,,
+Nuevo León,2015,42,,2.0,3.0
+Oaxaca,2015,42,,,
+Puebla,2015,42,,,
+Querétaro,2015,42,,,
+Quintana Roo,2015,42,,2.0,3.0
+San Luis Potosí,2015,42,,,
+Sinaloa,2015,42,,4.0,18.0
+Sonora,2015,42,3.0,67.0,52.0
+Tabasco,2015,42,,,
+Tamaulipas,2015,42,,,
+Tlaxcala,2015,42,,,
+Veracruz,2015,42,,,
+Yucatán,2015,42,,,
+Zacatecas,2015,42,,,4.0
+Aguascalientes,2015,43,,,
+Baja California,2015,43,33.0,85.0,122.0
+Baja California Sur,2015,43,,1.0,2.0
+Campeche,2015,43,,,1.0
+Coahuila,2015,43,1.0,6.0,16.0
+Colima,2015,43,,1.0,1.0
+Chiapas,2015,43,,,
+Chihuahua,2015,43,,2.0,
+Ciudad de México,2015,43,,,
+Durango,2015,43,,,
+Guanajuato,2015,43,,2.0,6.0
+Guerrero,2015,43,,,
+Hidalgo,2015,43,,,1.0
+Jalisco,2015,43,,3.0,3.0
+México,2015,43,,,
+Michoacán,2015,43,,,
+Morelos,2015,43,,9.0,2.0
+Nayarit,2015,43,,,
+Nuevo León,2015,43,,2.0,3.0
+Oaxaca,2015,43,,,
+Puebla,2015,43,,,
+Querétaro,2015,43,,,
+Quintana Roo,2015,43,,2.0,3.0
+San Luis Potosí,2015,43,,,
+Sinaloa,2015,43,,4.0,18.0
+Sonora,2015,43,1.0,71.0,64.0
+Tabasco,2015,43,,,
+Tamaulipas,2015,43,,,
+Tlaxcala,2015,43,,,
+Veracruz,2015,43,,,
+Yucatán,2015,43,,,
+Zacatecas,2015,43,,,4.0
+Aguascalientes,2015,44,,,
+Baja California,2015,44,33.0,101.0,139.0
+Baja California Sur,2015,44,1.0,2.0,2.0
+Campeche,2015,44,,,1.0
+Coahuila,2015,44,3.0,8.0,17.0
+Colima,2015,44,,1.0,1.0
+Chiapas,2015,44,,,
+Chihuahua,2015,44,,2.0,
+Ciudad de México,2015,44,,,
+Durango,2015,44,,,
+Guanajuato,2015,44,,2.0,6.0
+Guerrero,2015,44,,,
+Hidalgo,2015,44,,,1.0
+Jalisco,2015,44,,3.0,3.0
+México,2015,44,,,
+Michoacán,2015,44,,,
+Morelos,2015,44,,9.0,2.0
+Nayarit,2015,44,,,
+Nuevo León,2015,44,,2.0,3.0
+Oaxaca,2015,44,,,
+Puebla,2015,44,,,
+Querétaro,2015,44,,,
+Quintana Roo,2015,44,,2.0,3.0
+San Luis Potosí,2015,44,,,
+Sinaloa,2015,44,,4.0,18.0
+Sonora,2015,44,6.0,76.0,70.0
+Tabasco,2015,44,,,
+Tamaulipas,2015,44,,,
+Tlaxcala,2015,44,,,
+Veracruz,2015,44,,,
+Yucatán,2015,44,,,
+Zacatecas,2015,44,,,4.0
+Aguascalientes,2015,45,,,
+Baja California,2015,45,22.0,110.0,152.0
+Baja California Sur,2015,45,,2.0,2.0
+Campeche,2015,45,,,1.0
+Coahuila,2015,45,,8.0,17.0
+Colima,2015,45,,1.0,1.0
+Chiapas,2015,45,,,
+Chihuahua,2015,45,,2.0,
+Ciudad de México,2015,45,,,
+Durango,2015,45,,,
+Guanajuato,2015,45,,2.0,6.0
+Guerrero,2015,45,,,
+Hidalgo,2015,45,,,1.0
+Jalisco,2015,45,,3.0,3.0
+México,2015,45,,,
+Michoacán,2015,45,,,
+Morelos,2015,45,,9.0,2.0
+Nayarit,2015,45,,,
+Nuevo León,2015,45,,2.0,3.0
+Oaxaca,2015,45,,,
+Puebla,2015,45,,,
+Querétaro,2015,45,,,
+Quintana Roo,2015,45,,2.0,3.0
+San Luis Potosí,2015,45,,,
+Sinaloa,2015,45,1.0,4.0,19.0
+Sonora,2015,45,4.0,77.0,73.0
+Tabasco,2015,45,,,
+Tamaulipas,2015,45,,,
+Tlaxcala,2015,45,,,
+Veracruz,2015,45,,,
+Yucatán,2015,45,,,
+Zacatecas,2015,45,,,4.0
+Aguascalientes,2015,46,,,
+Baja California,2015,46,21.0,125.0,160.0
+Baja California Sur,2015,46,2.0,3.0,3.0
+Campeche,2015,46,,,1.0
+Coahuila,2015,46,,8.0,17.0
+Colima,2015,46,,1.0,1.0
+Chiapas,2015,46,,,
+Chihuahua,2015,46,,2.0,
+Ciudad de México,2015,46,,,
+Durango,2015,46,,,
+Guanajuato,2015,46,,2.0,6.0
+Guerrero,2015,46,,,
+Hidalgo,2015,46,,,1.0
+Jalisco,2015,46,,3.0,3.0
+México,2015,46,,,
+Michoacán,2015,46,,,
+Morelos,2015,46,,9.0,2.0
+Nayarit,2015,46,,,
+Nuevo León,2015,46,,2.0,3.0
+Oaxaca,2015,46,,,
+Puebla,2015,46,,,
+Querétaro,2015,46,,,
+Quintana Roo,2015,46,,2.0,3.0
+San Luis Potosí,2015,46,,,
+Sinaloa,2015,46,,4.0,19.0
+Sonora,2015,46,2.0,79.0,75.0
+Tabasco,2015,46,,,
+Tamaulipas,2015,46,,,
+Tlaxcala,2015,46,,,
+Veracruz,2015,46,,,
+Yucatán,2015,46,,,
+Zacatecas,2015,46,,,4.0
+Aguascalientes,2015,47,,,
+Baja California,2015,47,14.0,130.0,169.0
+Baja California Sur,2015,47,1.0,4.0,3.0
+Campeche,2015,47,,,1.0
+Coahuila,2015,47,1.0,8.0,18.0
+Colima,2015,47,,1.0,1.0
+Chiapas,2015,47,,,
+Chihuahua,2015,47,,2.0,
+Ciudad de México,2015,47,,,
+Durango,2015,47,,,
+Guanajuato,2015,47,,2.0,6.0
+Guerrero,2015,47,,,
+Hidalgo,2015,47,,,1.0
+Jalisco,2015,47,,3.0,3.0
+México,2015,47,,,
+Michoacán,2015,47,,,
+Morelos,2015,47,,9.0,2.0
+Nayarit,2015,47,,,
+Nuevo León,2015,47,,2.0,3.0
+Oaxaca,2015,47,,,
+Puebla,2015,47,,,
+Querétaro,2015,47,,,
+Quintana Roo,2015,47,,2.0,3.0
+San Luis Potosí,2015,47,,,
+Sinaloa,2015,47,,4.0,19.0
+Sonora,2015,47,3.0,81.0,78.0
+Tabasco,2015,47,,,
+Tamaulipas,2015,47,,,
+Tlaxcala,2015,47,,,
+Veracruz,2015,47,,,
+Yucatán,2015,47,,,
+Zacatecas,2015,47,,,4.0
+Aguascalientes,2015,48,,,
+Baja California,2015,48,9.0,137.0,171.0
+Baja California Sur,2015,48,,4.0,3.0
+Campeche,2015,48,,,1.0
+Coahuila,2015,48,1.0,9.0,18.0
+Colima,2015,48,,1.0,1.0
+Chiapas,2015,48,,,
+Chihuahua,2015,48,,2.0,
+Ciudad de México,2015,48,,,
+Durango,2015,48,,,
+Guanajuato,2015,48,,2.0,6.0
+Guerrero,2015,48,,,
+Hidalgo,2015,48,,,1.0
+Jalisco,2015,48,,3.0,3.0
+México,2015,48,,,
+Michoacán,2015,48,,,
+Morelos,2015,48,,9.0,2.0
+Nayarit,2015,48,,,
+Nuevo León,2015,48,,2.0,3.0
+Oaxaca,2015,48,,,
+Puebla,2015,48,,,
+Querétaro,2015,48,,,
+Quintana Roo,2015,48,,2.0,3.0
+San Luis Potosí,2015,48,,,
+Sinaloa,2015,48,,4.0,19.0
+Sonora,2015,48,5.0,86.0,78.0
+Tabasco,2015,48,,,
+Tamaulipas,2015,48,,,
+Tlaxcala,2015,48,,,
+Veracruz,2015,48,,,
+Yucatán,2015,48,,,
+Zacatecas,2015,48,,,4.0
+Aguascalientes,2015,49,,,
+Baja California,2015,49,,6.0,7.0
+Baja California Sur,2015,49,,1.0,8.0
+Campeche,2015,49,,,3.0
+Coahuila,2015,49,,4.0,2.0
+Colima,2015,49,,,
+Chiapas,2015,49,,,2.0
+Chihuahua,2015,49,,4.0,4.0
+Ciudad de México,2015,49,,1.0,1.0
+Durango,2015,49,,,
+Guanajuato,2015,49,,,3.0
+Guerrero,2015,49,,,1.0
+Hidalgo,2015,49,,2.0,3.0
+Jalisco,2015,49,,4.0,6.0
+México,2015,49,,,
+Michoacán,2015,49,,1.0,7.0
+Morelos,2015,49,,13.0,10.0
+Nayarit,2015,49,,,
+Nuevo León,2015,49,1.0,11.0,18.0
+Oaxaca,2015,49,,,
+Puebla,2015,49,,2.0,2.0
+Querétaro,2015,49,,,
+Quintana Roo,2015,49,,3.0,2.0
+San Luis Potosí,2015,49,,1.0,4.0
+Sinaloa,2015,49,,6.0,30.0
+Sonora,2015,49,,21.0,25.0
+Tabasco,2015,49,,3.0,2.0
+Tamaulipas,2015,49,,9.0,11.0
+Tlaxcala,2015,49,,,
+Veracruz,2015,49,,,5.0
+Yucatán,2015,49,,6.0,3.0
+Zacatecas,2015,49,,,6.0
+Aguascalientes,2015,50,,,
+Baja California,2015,50,1.0,7.0,7.0
+Baja California Sur,2015,50,,1.0,8.0
+Campeche,2015,50,,,3.0
+Coahuila,2015,50,,4.0,2.0
+Colima,2015,50,,,
+Chiapas,2015,50,,,2.0
+Chihuahua,2015,50,1.0,4.0,5.0
+Ciudad de México,2015,50,,1.0,1.0
+Durango,2015,50,,,
+Guanajuato,2015,50,,,3.0
+Guerrero,2015,50,,,1.0
+Hidalgo,2015,50,,2.0,3.0
+Jalisco,2015,50,1.0,4.0,7.0
+México,2015,50,,,
+Michoacán,2015,50,,1.0,7.0
+Morelos,2015,50,,13.0,10.0
+Nayarit,2015,50,,,
+Nuevo León,2015,50,,11.0,18.0
+Oaxaca,2015,50,,,
+Puebla,2015,50,,2.0,2.0
+Querétaro,2015,50,,,
+Quintana Roo,2015,50,,3.0,2.0
+San Luis Potosí,2015,50,,1.0,4.0
+Sinaloa,2015,50,,6.0,30.0
+Sonora,2015,50,,21.0,25.0
+Tabasco,2015,50,,3.0,2.0
+Tamaulipas,2015,50,,9.0,11.0
+Tlaxcala,2015,50,,,
+Veracruz,2015,50,,,5.0
+Yucatán,2015,50,,6.0,3.0
+Zacatecas,2015,50,,,6.0
+Aguascalientes,2015,51,,,
+Baja California,2015,51,,7.0,7.0
+Baja California Sur,2015,51,,1.0,8.0
+Campeche,2015,51,,,3.0
+Coahuila,2015,51,,4.0,2.0
+Colima,2015,51,,,
+Chiapas,2015,51,,,2.0
+Chihuahua,2015,51,,4.0,5.0
+Ciudad de México,2015,51,,1.0,1.0
+Durango,2015,51,,,
+Guanajuato,2015,51,,,3.0
+Guerrero,2015,51,,,1.0
+Hidalgo,2015,51,,2.0,3.0
+Jalisco,2015,51,,4.0,7.0
+México,2015,51,,,
+Michoacán,2015,51,,1.0,7.0
+Morelos,2015,51,,13.0,10.0
+Nayarit,2015,51,,,
+Nuevo León,2015,51,,11.0,18.0
+Oaxaca,2015,51,,,
+Puebla,2015,51,,2.0,2.0
+Querétaro,2015,51,,,
+Quintana Roo,2015,51,,3.0,2.0
+San Luis Potosí,2015,51,,1.0,4.0
+Sinaloa,2015,51,,6.0,30.0
+Sonora,2015,51,,21.0,25.0
+Tabasco,2015,51,,3.0,2.0
+Tamaulipas,2015,51,,9.0,11.0
+Tlaxcala,2015,51,,,
+Veracruz,2015,51,,,5.0
+Yucatán,2015,51,,6.0,3.0
+Zacatecas,2015,51,,,6.0
+Aguascalientes,2015,52,,,
+Baja California,2015,52,,7.0,7.0
+Baja California Sur,2015,52,,1.0,8.0
+Campeche,2015,52,,,3.0
+Coahuila,2015,52,,4.0,2.0
+Colima,2015,52,,,
+Chiapas,2015,52,,,2.0
+Chihuahua,2015,52,,4.0,5.0
+Ciudad de México,2015,52,,1.0,1.0
+Durango,2015,52,,,
+Guanajuato,2015,52,,,3.0
+Guerrero,2015,52,,,1.0
+Hidalgo,2015,52,,2.0,3.0
+Jalisco,2015,52,,4.0,7.0
+México,2015,52,,,
+Michoacán,2015,52,,1.0,7.0
+Morelos,2015,52,,13.0,10.0
+Nayarit,2015,52,,,
+Nuevo León,2015,52,,11.0,18.0
+Oaxaca,2015,52,,,
+Puebla,2015,52,,2.0,2.0
+Querétaro,2015,52,,,
+Quintana Roo,2015,52,,3.0,2.0
+San Luis Potosí,2015,52,,1.0,4.0
+Sinaloa,2015,52,,6.0,30.0
+Sonora,2015,52,,21.0,25.0
+Tabasco,2015,52,,3.0,2.0
+Tamaulipas,2015,52,,9.0,11.0
+Tlaxcala,2015,52,,,
+Veracruz,2015,52,,,5.0
+Yucatán,2015,52,,6.0,3.0
+Zacatecas,2015,52,,,6.0
