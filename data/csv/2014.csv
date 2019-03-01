@@ -1,34 +1,33 @@
-estado,sem,m_acum,f_acum,2013_acum,no_sem,anio
-Aguascalientes,0,0,0,0,53,2014
-Baja California,0,12,29,559,53,2014
-Baja California Sur,0,8,25,54,53,2014
-Campeche,0,0,0,2,53,2014
-Coahuila,0,36,52,193,53,2014
-Colima,0,0,0,0,53,2014
-Chiapas,0,0,0,0,53,2014
-Chihuahua,0,2,3,2,53,2014
-Ciudad de México,0,0,0,0,53,2014
-Durango,0,1,1,1,53,2014
-Guanajuato,0,2,0,6,53,2014
-Guerrero,0,1,2,7,53,2014
-Hidalgo,0,0,0,0,53,2014
-Jalisco,0,0,0,1,53,2014
-México,0,0,0,1,53,2014
-Michoacán,0,0,0,68,53,2014
-Morelos,0,0,0,3,53,2014
-Nayarit,0,0,0,0,53,2014
-Nuevo León,0,5,16,28,53,2014
-Oaxaca,0,0,0,0,53,2014
-Puebla,0,0,0,0,53,2014
-Querétaro,0,0,0,0,53,2014
-Quintana Roo,0,0,0,1,53,2014
-San Luis Potosí,0,0,0,0,53,2014
-Sinaloa,0,1,9,23,53,2014
-Sonora,1,29,35,81,53,2014
-Tabasco,0,0,0,0,53,2014
-Tamaulipas,0,0,0,0,53,2014
-Tlaxcala,0,0,0,0,53,2014
-Veracruz,0,0,0,0,53,2014
-Yucatán,0,0,0,0,53,2014
-Zacatecas,0,0,0,2,53,2014
-TOTAL,1,97,172,1032,53,2014
+state,year,week,week_cases,m_accum,f_accum
+Aguascalientes,2014,53,,,
+Baja California,2014,53,,12.0,29.0
+Baja California Sur,2014,53,,8.0,25.0
+Campeche,2014,53,,,
+Coahuila,2014,53,,36.0,52.0
+Colima,2014,53,,,
+Chiapas,2014,53,,,
+Chihuahua,2014,53,,2.0,3.0
+Ciudad de México,2014,53,,,
+Durango,2014,53,,1.0,1.0
+Guanajuato,2014,53,,2.0,
+Guerrero,2014,53,,1.0,2.0
+Hidalgo,2014,53,,,
+Jalisco,2014,53,,,
+México,2014,53,,,
+Michoacán,2014,53,,,
+Morelos,2014,53,,,
+Nayarit,2014,53,,,
+Nuevo León,2014,53,,5.0,16.0
+Oaxaca,2014,53,,,
+Puebla,2014,53,,,
+Querétaro,2014,53,,,
+Quintana Roo,2014,53,,,
+San Luis Potosí,2014,53,,,
+Sinaloa,2014,53,,1.0,9.0
+Sonora,2014,53,1.0,29.0,35.0
+Tabasco,2014,53,,,
+Tamaulipas,2014,53,,,
+Tlaxcala,2014,53,,,
+Veracruz,2014,53,,,
+Yucatán,2014,53,,,
+Zacatecas,2014,53,,,
