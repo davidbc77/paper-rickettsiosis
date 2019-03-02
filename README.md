@@ -71,7 +71,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Colaboradores
 
 - **David Baca Carrasco** - PhD Itson - [ResearchGate](https://www.researchgate.net/profile/David_Baca_Carrasco)
-- **Mucio Osorio Sánchez** - Mtro. Itson - []()
+- **Mucio Osorio Sánchez** - Mtro. Itson - [ResearchGate](https://www.researchgate.net/profile/Mucio_Osorio)
 - **Felipe de Jesús Castro Lugo** - Mtro. Itson - []()
 - **Roberto Valenzuela Armenta** - Alumno Itson - [LinkedIn](https://www.linkedin.com/in/roberto-valenzuela/)
 
