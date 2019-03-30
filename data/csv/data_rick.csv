@@ -1,0 +1,7009 @@
+state,year,week,week_cases,m_accum,f_accum,cases_accum
+Aguascalientes,2013,2,0,0,0,0
+Baja California,2013,2,0,0,0,3
+Baja California Sur,2013,2,0,0,0,0
+Campeche,2013,2,0,0,0,0
+Coahuila,2013,2,0,0,0,1
+Colima,2013,2,0,0,0,0
+Chiapas,2013,2,0,0,0,0
+Chihuahua,2013,2,0,0,0,0
+Distrito Federal,2013,2,0,0,0,0
+Durango,2013,2,0,0,0,0
+Guanajuato,2013,2,0,0,0,0
+Guerrero,2013,2,0,0,0,0
+Hidalgo,2013,2,0,0,0,0
+Jalisco,2013,2,0,0,0,0
+México,2013,2,0,0,0,1
+Michoacán,2013,2,0,0,0,0
+Morelos,2013,2,0,0,0,0
+Nayarit,2013,2,0,0,0,0
+Nuevo León,2013,2,0,0,0,0
+Oaxaca,2013,2,0,0,0,0
+Puebla,2013,2,0,0,0,0
+Querétaro,2013,2,0,0,0,0
+Quintana Roo,2013,2,0,0,0,0
+San Luis Potosí,2013,2,0,0,0,0
+Sinaloa,2013,2,0,0,0,0
+Sonora,2013,2,0,0,0,0
+Tabasco,2013,2,0,0,0,0
+Tamaulipas,2013,2,0,0,0,0
+Tlaxcala,2013,2,0,0,0,0
+Veracruz,2013,2,0,0,0,0
+Yucatán,2013,2,0,0,0,0
+Zacatecas,2013,2,0,0,0,0
+Aguascalientes,2013,3,0,0,0,0
+Baja California,2013,3,0,0,0,13
+Baja California Sur,2013,3,0,0,0,2
+Campeche,2013,3,0,0,0,0
+Coahuila,2013,3,0,0,0,2
+Colima,2013,3,0,0,0,0
+Chiapas,2013,3,0,0,0,0
+Chihuahua,2013,3,0,0,0,0
+Distrito Federal,2013,3,0,0,0,0
+Durango,2013,3,0,0,0,0
+Guanajuato,2013,3,0,0,0,1
+Guerrero,2013,3,0,0,0,0
+Hidalgo,2013,3,0,0,0,0
+Jalisco,2013,3,0,0,0,0
+México,2013,3,0,0,0,1
+Michoacán,2013,3,0,0,0,0
+Morelos,2013,3,0,0,0,0
+Nayarit,2013,3,0,0,0,0
+Nuevo León,2013,3,0,0,0,0
+Oaxaca,2013,3,0,0,0,0
+Puebla,2013,3,0,0,0,0
+Querétaro,2013,3,0,0,0,0
+Quintana Roo,2013,3,0,0,0,0
+San Luis Potosí,2013,3,0,0,0,0
+Sinaloa,2013,3,0,0,0,0
+Sonora,2013,3,0,0,0,0
+Tabasco,2013,3,0,0,0,0
+Tamaulipas,2013,3,0,0,0,0
+Tlaxcala,2013,3,0,0,0,0
+Veracruz,2013,3,0,0,0,0
+Yucatán,2013,3,0,0,0,0
+Zacatecas,2013,3,0,0,0,0
+Aguascalientes,2013,4,0,0,0,0
+Baja California,2013,4,0,0,0,24
+Baja California Sur,2013,4,0,0,0,3
+Campeche,2013,4,0,0,0,0
+Coahuila,2013,4,0,0,0,2
+Colima,2013,4,0,0,0,0
+Chiapas,2013,4,0,0,0,0
+Chihuahua,2013,4,0,0,0,0
+Distrito Federal,2013,4,0,0,0,0
+Durango,2013,4,0,0,0,0
+Guanajuato,2013,4,0,0,0,1
+Guerrero,2013,4,0,0,0,0
+Hidalgo,2013,4,0,0,0,0
+Jalisco,2013,4,0,0,0,0
+México,2013,4,0,0,0,1
+Michoacán,2013,4,0,0,0,0
+Morelos,2013,4,0,0,0,0
+Nayarit,2013,4,0,0,0,0
+Nuevo León,2013,4,0,0,0,1
+Oaxaca,2013,4,0,0,0,0
+Puebla,2013,4,0,0,0,0
+Querétaro,2013,4,0,0,0,0
+Quintana Roo,2013,4,0,0,0,0
+San Luis Potosí,2013,4,0,0,0,0
+Sinaloa,2013,4,0,0,0,0
+Sonora,2013,4,0,0,0,0
+Tabasco,2013,4,0,0,0,0
+Tamaulipas,2013,4,0,0,0,0
+Tlaxcala,2013,4,0,0,0,0
+Veracruz,2013,4,0,0,0,0
+Yucatán,2013,4,0,0,0,0
+Zacatecas,2013,4,0,0,0,0
+Aguascalientes,2013,5,0,0,0,0
+Baja California,2013,5,0,0,0,31
+Baja California Sur,2013,5,0,0,0,6
+Campeche,2013,5,0,0,0,0
+Coahuila,2013,5,0,0,0,3
+Colima,2013,5,0,0,0,0
+Chiapas,2013,5,0,0,0,0
+Chihuahua,2013,5,0,0,0,1
+Distrito Federal,2013,5,0,0,0,0
+Durango,2013,5,0,0,0,0
+Guanajuato,2013,5,0,0,0,2
+Guerrero,2013,5,0,0,0,0
+Hidalgo,2013,5,0,0,0,0
+Jalisco,2013,5,0,0,0,0
+México,2013,5,0,0,0,1
+Michoacán,2013,5,0,0,0,5
+Morelos,2013,5,0,0,0,0
+Nayarit,2013,5,0,0,0,0
+Nuevo León,2013,5,0,0,0,1
+Oaxaca,2013,5,0,0,0,0
+Puebla,2013,5,0,0,0,0
+Querétaro,2013,5,0,0,0,0
+Quintana Roo,2013,5,0,0,0,0
+San Luis Potosí,2013,5,0,0,0,0
+Sinaloa,2013,5,0,0,0,2
+Sonora,2013,5,0,0,0,0
+Tabasco,2013,5,0,0,0,0
+Tamaulipas,2013,5,0,0,0,0
+Tlaxcala,2013,5,0,0,0,0
+Veracruz,2013,5,0,0,0,0
+Yucatán,2013,5,0,0,0,0
+Zacatecas,2013,5,0,0,0,1
+Aguascalientes,2013,6,0,0,0,0
+Baja California,2013,6,0,0,0,43
+Baja California Sur,2013,6,0,0,0,10
+Campeche,2013,6,0,0,0,0
+Coahuila,2013,6,0,0,0,10
+Colima,2013,6,0,0,0,0
+Chiapas,2013,6,0,0,0,0
+Chihuahua,2013,6,0,0,0,1
+Distrito Federal,2013,6,0,0,0,0
+Durango,2013,6,0,0,0,0
+Guanajuato,2013,6,0,0,0,2
+Guerrero,2013,6,0,0,0,0
+Hidalgo,2013,6,0,0,0,0
+Jalisco,2013,6,0,0,0,0
+México,2013,6,0,0,0,1
+Michoacán,2013,6,0,0,0,8
+Morelos,2013,6,0,0,0,0
+Nayarit,2013,6,0,0,0,0
+Nuevo León,2013,6,0,0,0,4
+Oaxaca,2013,6,0,0,0,0
+Puebla,2013,6,0,0,0,0
+Querétaro,2013,6,0,0,0,0
+Quintana Roo,2013,6,0,0,0,0
+San Luis Potosí,2013,6,0,0,0,0
+Sinaloa,2013,6,0,0,0,2
+Sonora,2013,6,0,0,0,2
+Tabasco,2013,6,0,0,0,0
+Tamaulipas,2013,6,0,0,0,0
+Tlaxcala,2013,6,0,0,0,0
+Veracruz,2013,6,0,0,0,0
+Yucatán,2013,6,0,0,0,0
+Zacatecas,2013,6,0,0,0,1
+Aguascalientes,2013,7,0,0,0,0
+Baja California,2013,7,0,0,0,55
+Baja California Sur,2013,7,0,0,0,10
+Campeche,2013,7,0,0,0,0
+Coahuila,2013,7,0,0,0,14
+Colima,2013,7,0,0,0,0
+Chiapas,2013,7,0,0,0,0
+Chihuahua,2013,7,0,0,0,1
+Distrito Federal,2013,7,0,0,0,0
+Durango,2013,7,0,0,0,0
+Guanajuato,2013,7,0,0,0,2
+Guerrero,2013,7,0,0,0,0
+Hidalgo,2013,7,0,0,0,0
+Jalisco,2013,7,0,0,0,0
+México,2013,7,0,0,0,1
+Michoacán,2013,7,0,0,0,8
+Morelos,2013,7,0,0,0,0
+Nayarit,2013,7,0,0,0,0
+Nuevo León,2013,7,0,0,0,4
+Oaxaca,2013,7,0,0,0,0
+Puebla,2013,7,0,0,0,0
+Querétaro,2013,7,0,0,0,0
+Quintana Roo,2013,7,0,0,0,0
+San Luis Potosí,2013,7,0,0,0,0
+Sinaloa,2013,7,0,0,0,4
+Sonora,2013,7,0,0,0,2
+Tabasco,2013,7,0,0,0,0
+Tamaulipas,2013,7,0,0,0,0
+Tlaxcala,2013,7,0,0,0,0
+Veracruz,2013,7,0,0,0,0
+Yucatán,2013,7,0,0,0,0
+Zacatecas,2013,7,0,0,0,1
+Aguascalientes,2013,8,0,0,0,0
+Baja California,2013,8,0,0,0,69
+Baja California Sur,2013,8,0,0,0,10
+Campeche,2013,8,0,0,0,0
+Coahuila,2013,8,0,0,0,14
+Colima,2013,8,0,0,0,0
+Chiapas,2013,8,0,0,0,0
+Chihuahua,2013,8,0,0,0,2
+Distrito Federal,2013,8,0,0,0,0
+Durango,2013,8,0,0,0,0
+Guanajuato,2013,8,0,0,0,2
+Guerrero,2013,8,0,0,0,0
+Hidalgo,2013,8,0,0,0,0
+Jalisco,2013,8,0,0,0,0
+México,2013,8,0,0,0,1
+Michoacán,2013,8,0,0,0,11
+Morelos,2013,8,0,0,0,0
+Nayarit,2013,8,0,0,0,0
+Nuevo León,2013,8,0,0,0,4
+Oaxaca,2013,8,0,0,0,0
+Puebla,2013,8,0,0,0,0
+Querétaro,2013,8,0,0,0,0
+Quintana Roo,2013,8,0,0,0,0
+San Luis Potosí,2013,8,0,0,0,0
+Sinaloa,2013,8,0,0,0,6
+Sonora,2013,8,0,0,0,2
+Tabasco,2013,8,0,0,0,0
+Tamaulipas,2013,8,0,0,0,0
+Tlaxcala,2013,8,0,0,0,0
+Veracruz,2013,8,0,0,0,0
+Yucatán,2013,8,0,0,0,0
+Zacatecas,2013,8,0,0,0,1
+Aguascalientes,2013,9,0,0,0,0
+Baja California,2013,9,0,0,0,93
+Baja California Sur,2013,9,0,0,0,15
+Campeche,2013,9,0,0,0,0
+Coahuila,2013,9,0,0,0,18
+Colima,2013,9,0,0,0,0
+Chiapas,2013,9,0,0,0,0
+Chihuahua,2013,9,0,0,0,2
+Distrito Federal,2013,9,0,0,0,0
+Durango,2013,9,0,0,0,0
+Guanajuato,2013,9,0,0,0,2
+Guerrero,2013,9,0,0,0,0
+Hidalgo,2013,9,0,0,0,0
+Jalisco,2013,9,0,0,0,0
+México,2013,9,0,0,0,1
+Michoacán,2013,9,0,0,0,11
+Morelos,2013,9,0,0,0,0
+Nayarit,2013,9,0,0,0,0
+Nuevo León,2013,9,0,0,0,6
+Oaxaca,2013,9,0,0,0,0
+Puebla,2013,9,0,0,0,0
+Querétaro,2013,9,0,0,0,0
+Quintana Roo,2013,9,0,0,0,0
+San Luis Potosí,2013,9,0,0,0,0
+Sinaloa,2013,9,0,0,0,7
+Sonora,2013,9,0,0,0,3
+Tabasco,2013,9,0,0,0,0
+Tamaulipas,2013,9,0,0,0,0
+Tlaxcala,2013,9,0,0,0,0
+Veracruz,2013,9,0,0,0,0
+Yucatán,2013,9,0,0,0,0
+Zacatecas,2013,9,0,0,0,1
+Aguascalientes,2013,10,0,0,0,0
+Baja California,2013,10,0,0,0,120
+Baja California Sur,2013,10,0,0,0,15
+Campeche,2013,10,0,0,0,0
+Coahuila,2013,10,0,0,0,26
+Colima,2013,10,0,0,0,0
+Chiapas,2013,10,0,0,0,0
+Chihuahua,2013,10,0,0,0,2
+Distrito Federal,2013,10,0,0,0,0
+Durango,2013,10,0,0,0,0
+Guanajuato,2013,10,0,0,0,2
+Guerrero,2013,10,0,0,0,0
+Hidalgo,2013,10,0,0,0,0
+Jalisco,2013,10,0,0,0,0
+México,2013,10,0,0,0,1
+Michoacán,2013,10,0,0,0,12
+Morelos,2013,10,0,0,0,0
+Nayarit,2013,10,0,0,0,0
+Nuevo León,2013,10,0,0,0,7
+Oaxaca,2013,10,0,0,0,0
+Puebla,2013,10,0,0,0,0
+Querétaro,2013,10,0,0,0,0
+Quintana Roo,2013,10,0,0,0,0
+San Luis Potosí,2013,10,0,0,0,0
+Sinaloa,2013,10,0,0,0,7
+Sonora,2013,10,0,0,0,4
+Tabasco,2013,10,0,0,0,0
+Tamaulipas,2013,10,0,0,0,0
+Tlaxcala,2013,10,0,0,0,0
+Veracruz,2013,10,0,0,0,0
+Yucatán,2013,10,0,0,0,0
+Zacatecas,2013,10,0,0,0,1
+Aguascalientes,2013,11,0,0,0,0
+Baja California,2013,11,0,0,0,142
+Baja California Sur,2013,11,0,0,0,16
+Campeche,2013,11,0,0,0,0
+Coahuila,2013,11,0,0,0,46
+Colima,2013,11,0,0,0,0
+Chiapas,2013,11,0,0,0,0
+Chihuahua,2013,11,0,0,0,2
+Distrito Federal,2013,11,0,0,0,0
+Durango,2013,11,0,0,0,0
+Guanajuato,2013,11,0,0,0,2
+Guerrero,2013,11,0,0,0,3
+Hidalgo,2013,11,0,0,0,0
+Jalisco,2013,11,0,0,0,0
+México,2013,11,0,0,0,1
+Michoacán,2013,11,0,0,0,25
+Morelos,2013,11,0,0,0,3
+Nayarit,2013,11,0,0,0,0
+Nuevo León,2013,11,0,0,0,6
+Oaxaca,2013,11,0,0,0,0
+Puebla,2013,11,0,0,0,0
+Querétaro,2013,11,0,0,0,0
+Quintana Roo,2013,11,0,0,0,0
+San Luis Potosí,2013,11,0,0,0,0
+Sinaloa,2013,11,0,0,0,8
+Sonora,2013,11,0,0,0,21
+Tabasco,2013,11,0,0,0,0
+Tamaulipas,2013,11,0,0,0,0
+Tlaxcala,2013,11,0,0,0,0
+Veracruz,2013,11,0,0,0,0
+Yucatán,2013,11,0,0,0,0
+Zacatecas,2013,11,0,0,0,1
+Aguascalientes,2013,12,0,0,0,0
+Baja California,2013,12,0,0,0,160
+Baja California Sur,2013,12,0,0,0,21
+Campeche,2013,12,0,0,0,1
+Coahuila,2013,12,0,0,0,54
+Colima,2013,12,0,0,0,0
+Chiapas,2013,12,0,0,0,0
+Chihuahua,2013,12,0,0,0,2
+Distrito Federal,2013,12,0,0,0,0
+Durango,2013,12,0,0,0,0
+Guanajuato,2013,12,0,0,0,2
+Guerrero,2013,12,0,0,0,3
+Hidalgo,2013,12,0,0,0,0
+Jalisco,2013,12,0,0,0,1
+México,2013,12,0,0,0,1
+Michoacán,2013,12,0,0,0,25
+Morelos,2013,12,0,0,0,3
+Nayarit,2013,12,0,0,0,0
+Nuevo León,2013,12,0,0,0,7
+Oaxaca,2013,12,0,0,0,0
+Puebla,2013,12,0,0,0,0
+Querétaro,2013,12,0,0,0,0
+Quintana Roo,2013,12,0,0,0,0
+San Luis Potosí,2013,12,0,0,0,0
+Sinaloa,2013,12,0,0,0,9
+Sonora,2013,12,0,0,0,23
+Tabasco,2013,12,0,0,0,0
+Tamaulipas,2013,12,0,0,0,0
+Tlaxcala,2013,12,0,0,0,0
+Veracruz,2013,12,0,0,0,0
+Yucatán,2013,12,0,0,0,0
+Zacatecas,2013,12,0,0,0,1
+Aguascalientes,2013,13,0,0,0,0
+Baja California,2013,13,0,0,0,184
+Baja California Sur,2013,13,0,0,0,26
+Campeche,2013,13,0,0,0,1
+Coahuila,2013,13,0,0,0,67
+Colima,2013,13,0,0,0,0
+Chiapas,2013,13,0,0,0,0
+Chihuahua,2013,13,0,0,0,2
+Distrito Federal,2013,13,0,0,0,0
+Durango,2013,13,0,0,0,0
+Guanajuato,2013,13,0,0,0,2
+Guerrero,2013,13,0,0,0,3
+Hidalgo,2013,13,0,0,0,0
+Jalisco,2013,13,0,0,0,1
+México,2013,13,0,0,0,1
+Michoacán,2013,13,0,0,0,26
+Morelos,2013,13,0,0,0,3
+Nayarit,2013,13,0,0,0,0
+Nuevo León,2013,13,0,0,0,8
+Oaxaca,2013,13,0,0,0,0
+Puebla,2013,13,0,0,0,0
+Querétaro,2013,13,0,0,0,0
+Quintana Roo,2013,13,0,0,0,0
+San Luis Potosí,2013,13,0,0,0,0
+Sinaloa,2013,13,0,0,0,9
+Sonora,2013,13,0,0,0,24
+Tabasco,2013,13,0,0,0,0
+Tamaulipas,2013,13,0,0,0,0
+Tlaxcala,2013,13,0,0,0,0
+Veracruz,2013,13,0,0,0,0
+Yucatán,2013,13,0,0,0,0
+Zacatecas,2013,13,0,0,0,1
+Aguascalientes,2013,14,0,0,0,0
+Baja California,2013,14,0,0,0,192
+Baja California Sur,2013,14,0,0,0,26
+Campeche,2013,14,0,0,0,1
+Coahuila,2013,14,0,0,0,74
+Colima,2013,14,0,0,0,0
+Chiapas,2013,14,0,0,0,0
+Chihuahua,2013,14,0,0,0,2
+Distrito Federal,2013,14,0,0,0,0
+Durango,2013,14,0,0,0,0
+Guanajuato,2013,14,0,0,0,2
+Guerrero,2013,14,0,0,0,4
+Hidalgo,2013,14,0,0,0,0
+Jalisco,2013,14,0,0,0,1
+México,2013,14,0,0,0,1
+Michoacán,2013,14,0,0,0,26
+Morelos,2013,14,0,0,0,3
+Nayarit,2013,14,0,0,0,0
+Nuevo León,2013,14,0,0,0,8
+Oaxaca,2013,14,0,0,0,0
+Puebla,2013,14,0,0,0,0
+Querétaro,2013,14,0,0,0,0
+Quintana Roo,2013,14,0,0,0,0
+San Luis Potosí,2013,14,0,0,0,0
+Sinaloa,2013,14,0,0,0,10
+Sonora,2013,14,0,0,0,24
+Tabasco,2013,14,0,0,0,0
+Tamaulipas,2013,14,0,0,0,0
+Tlaxcala,2013,14,0,0,0,0
+Veracruz,2013,14,0,0,0,0
+Yucatán,2013,14,0,0,0,0
+Zacatecas,2013,14,0,0,0,1
+Aguascalientes,2013,15,0,0,0,0
+Baja California,2013,15,0,0,0,209
+Baja California Sur,2013,15,0,0,0,27
+Campeche,2013,15,0,0,0,1
+Coahuila,2013,15,0,0,0,84
+Colima,2013,15,0,0,0,0
+Chiapas,2013,15,0,0,0,0
+Chihuahua,2013,15,0,0,0,2
+Distrito Federal,2013,15,0,0,0,0
+Durango,2013,15,0,0,0,0
+Guanajuato,2013,15,0,0,0,2
+Guerrero,2013,15,0,0,0,4
+Hidalgo,2013,15,0,0,0,0
+Jalisco,2013,15,0,0,0,1
+México,2013,15,0,0,0,1
+Michoacán,2013,15,0,0,0,30
+Morelos,2013,15,0,0,0,3
+Nayarit,2013,15,0,0,0,0
+Nuevo León,2013,15,0,0,0,8
+Oaxaca,2013,15,0,0,0,0
+Puebla,2013,15,0,0,0,0
+Querétaro,2013,15,0,0,0,0
+Quintana Roo,2013,15,0,0,0,0
+San Luis Potosí,2013,15,0,0,0,0
+Sinaloa,2013,15,0,0,0,10
+Sonora,2013,15,0,0,0,28
+Tabasco,2013,15,0,0,0,0
+Tamaulipas,2013,15,0,0,0,0
+Tlaxcala,2013,15,0,0,0,0
+Veracruz,2013,15,0,0,0,0
+Yucatán,2013,15,0,0,0,0
+Zacatecas,2013,15,0,0,0,1
+Aguascalientes,2013,16,0,0,0,0
+Baja California,2013,16,0,0,0,220
+Baja California Sur,2013,16,0,0,0,29
+Campeche,2013,16,0,0,0,1
+Coahuila,2013,16,0,0,0,95
+Colima,2013,16,0,0,0,0
+Chiapas,2013,16,0,0,0,0
+Chihuahua,2013,16,0,0,0,2
+Distrito Federal,2013,16,0,0,0,0
+Durango,2013,16,0,0,0,0
+Guanajuato,2013,16,0,0,0,2
+Guerrero,2013,16,0,0,0,4
+Hidalgo,2013,16,0,0,0,0
+Jalisco,2013,16,0,0,0,1
+México,2013,16,0,0,0,1
+Michoacán,2013,16,0,0,0,30
+Morelos,2013,16,0,0,0,3
+Nayarit,2013,16,0,0,0,0
+Nuevo León,2013,16,0,0,0,8
+Oaxaca,2013,16,0,0,0,0
+Puebla,2013,16,0,0,0,0
+Querétaro,2013,16,0,0,0,0
+Quintana Roo,2013,16,0,0,0,0
+San Luis Potosí,2013,16,0,0,0,0
+Sinaloa,2013,16,0,0,0,10
+Sonora,2013,16,0,0,0,30
+Tabasco,2013,16,0,0,0,0
+Tamaulipas,2013,16,0,0,0,0
+Tlaxcala,2013,16,0,0,0,0
+Veracruz,2013,16,0,0,0,0
+Yucatán,2013,16,0,0,0,0
+Zacatecas,2013,16,0,0,0,1
+Aguascalientes,2013,17,0,0,0,0
+Baja California,2013,17,0,0,0,229
+Baja California Sur,2013,17,0,0,0,30
+Campeche,2013,17,0,0,0,1
+Coahuila,2013,17,0,0,0,107
+Colima,2013,17,0,0,0,0
+Chiapas,2013,17,0,0,0,0
+Chihuahua,2013,17,0,0,0,2
+Distrito Federal,2013,17,0,0,0,0
+Durango,2013,17,0,0,0,0
+Guanajuato,2013,17,0,0,0,2
+Guerrero,2013,17,0,0,0,5
+Hidalgo,2013,17,0,0,0,0
+Jalisco,2013,17,0,0,0,1
+México,2013,17,0,0,0,1
+Michoacán,2013,17,0,0,0,35
+Morelos,2013,17,0,0,0,3
+Nayarit,2013,17,0,0,0,0
+Nuevo León,2013,17,0,0,0,10
+Oaxaca,2013,17,0,0,0,0
+Puebla,2013,17,0,0,0,0
+Querétaro,2013,17,0,0,0,0
+Quintana Roo,2013,17,0,0,0,0
+San Luis Potosí,2013,17,0,0,0,0
+Sinaloa,2013,17,0,0,0,10
+Sonora,2013,17,0,0,0,31
+Tabasco,2013,17,0,0,0,0
+Tamaulipas,2013,17,0,0,0,0
+Tlaxcala,2013,17,0,0,0,0
+Veracruz,2013,17,0,0,0,0
+Yucatán,2013,17,0,0,0,0
+Zacatecas,2013,17,0,0,0,1
+Aguascalientes,2013,18,0,0,0,0
+Baja California,2013,18,0,0,0,238
+Baja California Sur,2013,18,0,0,0,31
+Campeche,2013,18,0,0,0,1
+Coahuila,2013,18,0,0,0,112
+Colima,2013,18,0,0,0,0
+Chiapas,2013,18,0,0,0,0
+Chihuahua,2013,18,0,0,0,2
+Distrito Federal,2013,18,0,0,0,0
+Durango,2013,18,0,0,0,0
+Guanajuato,2013,18,0,0,0,2
+Guerrero,2013,18,0,0,0,5
+Hidalgo,2013,18,0,0,0,0
+Jalisco,2013,18,0,0,0,1
+México,2013,18,0,0,0,1
+Michoacán,2013,18,0,0,0,35
+Morelos,2013,18,0,0,0,3
+Nayarit,2013,18,0,0,0,0
+Nuevo León,2013,18,0,0,0,10
+Oaxaca,2013,18,0,0,0,0
+Puebla,2013,18,0,0,0,0
+Querétaro,2013,18,0,0,0,0
+Quintana Roo,2013,18,0,0,0,0
+San Luis Potosí,2013,18,0,0,0,0
+Sinaloa,2013,18,0,0,0,10
+Sonora,2013,18,0,0,0,31
+Tabasco,2013,18,0,0,0,0
+Tamaulipas,2013,18,0,0,0,0
+Tlaxcala,2013,18,0,0,0,0
+Veracruz,2013,18,0,0,0,0
+Yucatán,2013,18,0,0,0,0
+Zacatecas,2013,18,0,0,0,1
+Aguascalientes,2013,19,0,0,0,0
+Baja California,2013,19,0,0,0,243
+Baja California Sur,2013,19,0,0,0,32
+Campeche,2013,19,0,0,0,2
+Coahuila,2013,19,0,0,0,118
+Colima,2013,19,0,0,0,0
+Chiapas,2013,19,0,0,0,0
+Chihuahua,2013,19,0,0,0,2
+Distrito Federal,2013,19,0,0,0,0
+Durango,2013,19,0,0,0,0
+Guanajuato,2013,19,0,0,0,3
+Guerrero,2013,19,0,0,0,5
+Hidalgo,2013,19,0,0,0,0
+Jalisco,2013,19,0,0,0,1
+México,2013,19,0,0,0,1
+Michoacán,2013,19,0,0,0,37
+Morelos,2013,19,0,0,0,3
+Nayarit,2013,19,0,0,0,0
+Nuevo León,2013,19,0,0,0,10
+Oaxaca,2013,19,0,0,0,0
+Puebla,2013,19,0,0,0,0
+Querétaro,2013,19,0,0,0,0
+Quintana Roo,2013,19,0,0,0,0
+San Luis Potosí,2013,19,0,0,0,0
+Sinaloa,2013,19,0,0,0,10
+Sonora,2013,19,0,0,0,31
+Tabasco,2013,19,0,0,0,0
+Tamaulipas,2013,19,0,0,0,0
+Tlaxcala,2013,19,0,0,0,0
+Veracruz,2013,19,0,0,0,0
+Yucatán,2013,19,0,0,0,0
+Zacatecas,2013,19,0,0,0,1
+Aguascalientes,2013,20,0,0,0,0
+Baja California,2013,20,0,0,0,254
+Baja California Sur,2013,20,0,0,0,32
+Campeche,2013,20,0,0,0,2
+Coahuila,2013,20,0,0,0,123
+Colima,2013,20,0,0,0,0
+Chiapas,2013,20,0,0,0,0
+Chihuahua,2013,20,0,0,0,2
+Distrito Federal,2013,20,0,0,0,0
+Durango,2013,20,0,0,0,0
+Guanajuato,2013,20,0,0,0,3
+Guerrero,2013,20,0,0,0,5
+Hidalgo,2013,20,0,0,0,0
+Jalisco,2013,20,0,0,0,1
+México,2013,20,0,0,0,1
+Michoacán,2013,20,0,0,0,37
+Morelos,2013,20,0,0,0,3
+Nayarit,2013,20,0,0,0,0
+Nuevo León,2013,20,0,0,0,10
+Oaxaca,2013,20,0,0,0,0
+Puebla,2013,20,0,0,0,0
+Querétaro,2013,20,0,0,0,0
+Quintana Roo,2013,20,0,0,0,0
+San Luis Potosí,2013,20,0,0,0,0
+Sinaloa,2013,20,0,0,0,10
+Sonora,2013,20,0,0,0,31
+Tabasco,2013,20,0,0,0,0
+Tamaulipas,2013,20,0,0,0,0
+Tlaxcala,2013,20,0,0,0,0
+Veracruz,2013,20,0,0,0,0
+Yucatán,2013,20,0,0,0,0
+Zacatecas,2013,20,0,0,0,1
+Aguascalientes,2013,21,0,0,0,0
+Baja California,2013,21,0,0,0,273
+Baja California Sur,2013,21,0,0,0,32
+Campeche,2013,21,0,0,0,2
+Coahuila,2013,21,0,0,0,127
+Colima,2013,21,0,0,0,0
+Chiapas,2013,21,0,0,0,0
+Chihuahua,2013,21,0,0,0,2
+Distrito Federal,2013,21,0,0,0,0
+Durango,2013,21,0,0,0,0
+Guanajuato,2013,21,0,0,0,3
+Guerrero,2013,21,0,0,0,5
+Hidalgo,2013,21,0,0,0,0
+Jalisco,2013,21,0,0,0,1
+México,2013,21,0,0,0,1
+Michoacán,2013,21,0,0,0,37
+Morelos,2013,21,0,0,0,3
+Nayarit,2013,21,0,0,0,0
+Nuevo León,2013,21,0,0,0,10
+Oaxaca,2013,21,0,0,0,0
+Puebla,2013,21,0,0,0,0
+Querétaro,2013,21,0,0,0,0
+Quintana Roo,2013,21,0,0,0,0
+San Luis Potosí,2013,21,0,0,0,0
+Sinaloa,2013,21,0,0,0,10
+Sonora,2013,21,0,0,0,31
+Tabasco,2013,21,0,0,0,0
+Tamaulipas,2013,21,0,0,0,0
+Tlaxcala,2013,21,0,0,0,0
+Veracruz,2013,21,0,0,0,0
+Yucatán,2013,21,0,0,0,0
+Zacatecas,2013,21,0,0,0,1
+Aguascalientes,2013,22,0,0,0,0
+Baja California,2013,22,0,0,0,290
+Baja California Sur,2013,22,0,0,0,32
+Campeche,2013,22,0,0,0,2
+Coahuila,2013,22,0,0,0,132
+Colima,2013,22,0,0,0,0
+Chiapas,2013,22,0,0,0,0
+Chihuahua,2013,22,0,0,0,2
+Distrito Federal,2013,22,0,0,0,0
+Durango,2013,22,0,0,0,0
+Guanajuato,2013,22,0,0,0,3
+Guerrero,2013,22,0,0,0,5
+Hidalgo,2013,22,0,0,0,0
+Jalisco,2013,22,0,0,0,1
+México,2013,22,0,0,0,1
+Michoacán,2013,22,0,0,0,37
+Morelos,2013,22,0,0,0,3
+Nayarit,2013,22,0,0,0,0
+Nuevo León,2013,22,0,0,0,11
+Oaxaca,2013,22,0,0,0,0
+Puebla,2013,22,0,0,0,0
+Querétaro,2013,22,0,0,0,0
+Quintana Roo,2013,22,0,0,0,0
+San Luis Potosí,2013,22,0,0,0,0
+Sinaloa,2013,22,0,0,0,10
+Sonora,2013,22,0,0,0,34
+Tabasco,2013,22,0,0,0,0
+Tamaulipas,2013,22,0,0,0,0
+Tlaxcala,2013,22,0,0,0,0
+Veracruz,2013,22,0,0,0,0
+Yucatán,2013,22,0,0,0,0
+Zacatecas,2013,22,0,0,0,1
+Aguascalientes,2013,23,0,0,0,0
+Baja California,2013,23,0,0,0,309
+Baja California Sur,2013,23,0,0,0,34
+Campeche,2013,23,0,0,0,2
+Coahuila,2013,23,0,0,0,135
+Colima,2013,23,0,0,0,0
+Chiapas,2013,23,0,0,0,0
+Chihuahua,2013,23,0,0,0,2
+Distrito Federal,2013,23,0,0,0,0
+Durango,2013,23,0,0,0,0
+Guanajuato,2013,23,0,0,0,4
+Guerrero,2013,23,0,0,0,5
+Hidalgo,2013,23,0,0,0,0
+Jalisco,2013,23,0,0,0,1
+México,2013,23,0,0,0,1
+Michoacán,2013,23,0,0,0,41
+Morelos,2013,23,0,0,0,3
+Nayarit,2013,23,0,0,0,0
+Nuevo León,2013,23,0,0,0,12
+Oaxaca,2013,23,0,0,0,0
+Puebla,2013,23,0,0,0,0
+Querétaro,2013,23,0,0,0,0
+Quintana Roo,2013,23,0,0,0,0
+San Luis Potosí,2013,23,0,0,0,0
+Sinaloa,2013,23,0,0,0,10
+Sonora,2013,23,0,0,0,35
+Tabasco,2013,23,0,0,0,0
+Tamaulipas,2013,23,0,0,0,0
+Tlaxcala,2013,23,0,0,0,0
+Veracruz,2013,23,0,0,0,0
+Yucatán,2013,23,0,0,0,0
+Zacatecas,2013,23,0,0,0,1
+Aguascalientes,2013,24,0,0,0,0
+Baja California,2013,24,0,0,0,321
+Baja California Sur,2013,24,0,0,0,35
+Campeche,2013,24,0,0,0,2
+Coahuila,2013,24,0,0,0,136
+Colima,2013,24,0,0,0,0
+Chiapas,2013,24,0,0,0,0
+Chihuahua,2013,24,0,0,0,2
+Distrito Federal,2013,24,0,0,0,0
+Durango,2013,24,0,0,0,0
+Guanajuato,2013,24,0,0,0,4
+Guerrero,2013,24,0,0,0,5
+Hidalgo,2013,24,0,0,0,0
+Jalisco,2013,24,0,0,0,1
+México,2013,24,0,0,0,1
+Michoacán,2013,24,0,0,0,46
+Morelos,2013,24,0,0,0,3
+Nayarit,2013,24,0,0,0,0
+Nuevo León,2013,24,0,0,0,12
+Oaxaca,2013,24,0,0,0,0
+Puebla,2013,24,0,0,0,0
+Querétaro,2013,24,0,0,0,0
+Quintana Roo,2013,24,0,0,0,0
+San Luis Potosí,2013,24,0,0,0,0
+Sinaloa,2013,24,0,0,0,10
+Sonora,2013,24,0,0,0,37
+Tabasco,2013,24,0,0,0,0
+Tamaulipas,2013,24,0,0,0,0
+Tlaxcala,2013,24,0,0,0,0
+Veracruz,2013,24,0,0,0,0
+Yucatán,2013,24,0,0,0,0
+Zacatecas,2013,24,0,0,0,0
+Aguascalientes,2013,25,0,0,0,0
+Baja California,2013,25,0,0,0,332
+Baja California Sur,2013,25,0,0,0,37
+Campeche,2013,25,0,0,0,2
+Coahuila,2013,25,0,0,0,136
+Colima,2013,25,0,0,0,0
+Chiapas,2013,25,0,0,0,0
+Chihuahua,2013,25,0,0,0,2
+Distrito Federal,2013,25,0,0,0,0
+Durango,2013,25,0,0,0,0
+Guanajuato,2013,25,0,0,0,4
+Guerrero,2013,25,0,0,0,5
+Hidalgo,2013,25,0,0,0,0
+Jalisco,2013,25,0,0,0,1
+México,2013,25,0,0,0,1
+Michoacán,2013,25,0,0,0,47
+Morelos,2013,25,0,0,0,3
+Nayarit,2013,25,0,0,0,0
+Nuevo León,2013,25,0,0,0,12
+Oaxaca,2013,25,0,0,0,0
+Puebla,2013,25,0,0,0,0
+Querétaro,2013,25,0,0,0,0
+Quintana Roo,2013,25,0,0,0,0
+San Luis Potosí,2013,25,0,0,0,0
+Sinaloa,2013,25,0,0,0,10
+Sonora,2013,25,0,0,0,39
+Tabasco,2013,25,0,0,0,0
+Tamaulipas,2013,25,0,0,0,0
+Tlaxcala,2013,25,0,0,0,0
+Veracruz,2013,25,0,0,0,0
+Yucatán,2013,25,0,0,0,0
+Zacatecas,2013,25,0,0,0,1
+Aguascalientes,2013,26,0,0,0,0
+Baja California,2013,26,0,0,0,338
+Baja California Sur,2013,26,0,0,0,37
+Campeche,2013,26,0,0,0,2
+Coahuila,2013,26,0,0,0,137
+Colima,2013,26,0,0,0,0
+Chiapas,2013,26,0,0,0,0
+Chihuahua,2013,26,0,0,0,2
+Distrito Federal,2013,26,0,0,0,0
+Durango,2013,26,0,0,0,0
+Guanajuato,2013,26,0,0,0,4
+Guerrero,2013,26,0,0,0,5
+Hidalgo,2013,26,0,0,0,0
+Jalisco,2013,26,0,0,0,1
+México,2013,26,0,0,0,1
+Michoacán,2013,26,0,0,0,47
+Morelos,2013,26,0,0,0,3
+Nayarit,2013,26,0,0,0,0
+Nuevo León,2013,26,0,0,0,12
+Oaxaca,2013,26,0,0,0,0
+Puebla,2013,26,0,0,0,0
+Querétaro,2013,26,0,0,0,0
+Quintana Roo,2013,26,0,0,0,0
+San Luis Potosí,2013,26,0,0,0,0
+Sinaloa,2013,26,0,0,0,10
+Sonora,2013,26,0,0,0,41
+Tabasco,2013,26,0,0,0,0
+Tamaulipas,2013,26,0,0,0,0
+Tlaxcala,2013,26,0,0,0,0
+Veracruz,2013,26,0,0,0,0
+Yucatán,2013,26,0,0,0,0
+Zacatecas,2013,26,0,0,0,1
+Aguascalientes,2013,27,0,0,0,0
+Baja California,2013,27,0,0,0,349
+Baja California Sur,2013,27,0,0,0,37
+Campeche,2013,27,0,0,0,2
+Coahuila,2013,27,0,0,0,146
+Colima,2013,27,0,0,0,0
+Chiapas,2013,27,0,0,0,0
+Chihuahua,2013,27,0,0,0,2
+Distrito Federal,2013,27,0,0,0,0
+Durango,2013,27,0,0,0,0
+Guanajuato,2013,27,0,0,0,4
+Guerrero,2013,27,0,0,0,5
+Hidalgo,2013,27,0,0,0,0
+Jalisco,2013,27,0,0,0,1
+México,2013,27,0,0,0,1
+Michoacán,2013,27,0,0,0,48
+Morelos,2013,27,0,0,0,3
+Nayarit,2013,27,0,0,0,0
+Nuevo León,2013,27,0,0,0,12
+Oaxaca,2013,27,0,0,0,0
+Puebla,2013,27,0,0,0,0
+Querétaro,2013,27,0,0,0,0
+Quintana Roo,2013,27,0,0,0,0
+San Luis Potosí,2013,27,0,0,0,0
+Sinaloa,2013,27,0,0,0,10
+Sonora,2013,27,0,0,0,41
+Tabasco,2013,27,0,0,0,0
+Tamaulipas,2013,27,0,0,0,0
+Tlaxcala,2013,27,0,0,0,0
+Veracruz,2013,27,0,0,0,0
+Yucatán,2013,27,0,0,0,0
+Zacatecas,2013,27,0,0,0,1
+Aguascalientes,2013,28,0,0,0,0
+Baja California,2013,28,0,0,0,357
+Baja California Sur,2013,28,0,0,0,37
+Campeche,2013,28,0,0,0,2
+Coahuila,2013,28,0,0,0,147
+Colima,2013,28,0,0,0,0
+Chiapas,2013,28,0,0,0,0
+Chihuahua,2013,28,0,0,0,2
+Distrito Federal,2013,28,0,0,0,0
+Durango,2013,28,0,0,0,0
+Guanajuato,2013,28,0,0,0,4
+Guerrero,2013,28,0,0,0,5
+Hidalgo,2013,28,0,0,0,0
+Jalisco,2013,28,0,0,0,1
+México,2013,28,0,0,0,1
+Michoacán,2013,28,0,0,0,53
+Morelos,2013,28,0,0,0,3
+Nayarit,2013,28,0,0,0,0
+Nuevo León,2013,28,0,0,0,12
+Oaxaca,2013,28,0,0,0,0
+Puebla,2013,28,0,0,0,0
+Querétaro,2013,28,0,0,0,0
+Quintana Roo,2013,28,0,0,0,0
+San Luis Potosí,2013,28,0,0,0,0
+Sinaloa,2013,28,0,0,0,10
+Sonora,2013,28,0,0,0,41
+Tabasco,2013,28,0,0,0,0
+Tamaulipas,2013,28,0,0,0,0
+Tlaxcala,2013,28,0,0,0,0
+Veracruz,2013,28,0,0,0,0
+Yucatán,2013,28,0,0,0,0
+Zacatecas,2013,28,0,0,0,1
+Aguascalientes,2013,29,0,0,0,0
+Baja California,2013,29,0,0,0,359
+Baja California Sur,2013,29,0,0,0,37
+Campeche,2013,29,0,0,0,2
+Coahuila,2013,29,0,0,0,151
+Colima,2013,29,0,0,0,0
+Chiapas,2013,29,0,0,0,0
+Chihuahua,2013,29,0,0,0,2
+Distrito Federal,2013,29,0,0,0,0
+Durango,2013,29,0,0,0,0
+Guanajuato,2013,29,0,0,0,4
+Guerrero,2013,29,0,0,0,5
+Hidalgo,2013,29,0,0,0,0
+Jalisco,2013,29,0,0,0,1
+México,2013,29,0,0,0,1
+Michoacán,2013,29,0,0,0,55
+Morelos,2013,29,0,0,0,3
+Nayarit,2013,29,0,0,0,0
+Nuevo León,2013,29,0,0,0,12
+Oaxaca,2013,29,0,0,0,0
+Puebla,2013,29,0,0,0,0
+Querétaro,2013,29,0,0,0,0
+Quintana Roo,2013,29,0,0,0,0
+San Luis Potosí,2013,29,0,0,0,0
+Sinaloa,2013,29,0,0,0,10
+Sonora,2013,29,0,0,0,45
+Tabasco,2013,29,0,0,0,0
+Tamaulipas,2013,29,0,0,0,0
+Tlaxcala,2013,29,0,0,0,0
+Veracruz,2013,29,0,0,0,0
+Yucatán,2013,29,0,0,0,0
+Zacatecas,2013,29,0,0,0,1
+Aguascalientes,2013,30,0,0,0,0
+Baja California,2013,30,0,0,0,370
+Baja California Sur,2013,30,0,0,0,37
+Campeche,2013,30,0,0,0,2
+Coahuila,2013,30,0,0,0,151
+Colima,2013,30,0,0,0,0
+Chiapas,2013,30,0,0,0,0
+Chihuahua,2013,30,0,0,0,2
+Distrito Federal,2013,30,0,0,0,0
+Durango,2013,30,0,0,0,0
+Guanajuato,2013,30,0,0,0,4
+Guerrero,2013,30,0,0,0,5
+Hidalgo,2013,30,0,0,0,0
+Jalisco,2013,30,0,0,0,1
+México,2013,30,0,0,0,1
+Michoacán,2013,30,0,0,0,55
+Morelos,2013,30,0,0,0,3
+Nayarit,2013,30,0,0,0,0
+Nuevo León,2013,30,0,0,0,12
+Oaxaca,2013,30,0,0,0,0
+Puebla,2013,30,0,0,0,0
+Querétaro,2013,30,0,0,0,0
+Quintana Roo,2013,30,0,0,0,0
+San Luis Potosí,2013,30,0,0,0,0
+Sinaloa,2013,30,0,0,0,10
+Sonora,2013,30,0,0,0,49
+Tabasco,2013,30,0,0,0,0
+Tamaulipas,2013,30,0,0,0,0
+Tlaxcala,2013,30,0,0,0,0
+Veracruz,2013,30,0,0,0,0
+Yucatán,2013,30,0,0,0,0
+Zacatecas,2013,30,0,0,0,1
+Aguascalientes,2013,31,0,0,0,0
+Baja California,2013,31,0,0,0,377
+Baja California Sur,2013,31,0,0,0,38
+Campeche,2013,31,0,0,0,2
+Coahuila,2013,31,0,0,0,154
+Colima,2013,31,0,0,0,0
+Chiapas,2013,31,0,0,0,0
+Chihuahua,2013,31,0,0,0,2
+Distrito Federal,2013,31,0,0,0,0
+Durango,2013,31,0,0,0,0
+Guanajuato,2013,31,0,0,0,4
+Guerrero,2013,31,0,0,0,5
+Hidalgo,2013,31,0,0,0,0
+Jalisco,2013,31,0,0,0,1
+México,2013,31,0,0,0,1
+Michoacán,2013,31,0,0,0,55
+Morelos,2013,31,0,0,0,3
+Nayarit,2013,31,0,0,0,0
+Nuevo León,2013,31,0,0,0,12
+Oaxaca,2013,31,0,0,0,0
+Puebla,2013,31,0,0,0,0
+Querétaro,2013,31,0,0,0,0
+Quintana Roo,2013,31,0,0,0,0
+San Luis Potosí,2013,31,0,0,0,0
+Sinaloa,2013,31,0,0,0,10
+Sonora,2013,31,0,0,0,50
+Tabasco,2013,31,0,0,0,0
+Tamaulipas,2013,31,0,0,0,0
+Tlaxcala,2013,31,0,0,0,0
+Veracruz,2013,31,0,0,0,0
+Yucatán,2013,31,0,0,0,0
+Zacatecas,2013,31,0,0,0,1
+Aguascalientes,2013,32,0,0,0,0
+Baja California,2013,32,0,0,0,388
+Baja California Sur,2013,32,0,0,0,38
+Campeche,2013,32,0,0,0,2
+Coahuila,2013,32,0,0,0,159
+Colima,2013,32,0,0,0,0
+Chiapas,2013,32,0,0,0,0
+Chihuahua,2013,32,0,0,0,2
+Distrito Federal,2013,32,0,0,0,0
+Durango,2013,32,0,0,0,0
+Guanajuato,2013,32,0,0,0,4
+Guerrero,2013,32,0,0,0,5
+Hidalgo,2013,32,0,0,0,0
+Jalisco,2013,32,0,0,0,1
+México,2013,32,0,0,0,1
+Michoacán,2013,32,0,0,0,55
+Morelos,2013,32,0,0,0,3
+Nayarit,2013,32,0,0,0,0
+Nuevo León,2013,32,0,0,0,14
+Oaxaca,2013,32,0,0,0,0
+Puebla,2013,32,0,0,0,0
+Querétaro,2013,32,0,0,0,0
+Quintana Roo,2013,32,0,0,0,0
+San Luis Potosí,2013,32,0,0,0,0
+Sinaloa,2013,32,0,0,0,12
+Sonora,2013,32,0,0,0,53
+Tabasco,2013,32,0,0,0,0
+Tamaulipas,2013,32,0,0,0,0
+Tlaxcala,2013,32,0,0,0,0
+Veracruz,2013,32,0,0,0,0
+Yucatán,2013,32,0,0,0,0
+Zacatecas,2013,32,0,0,0,1
+Aguascalientes,2013,33,0,0,0,0
+Baja California,2013,33,0,0,0,406
+Baja California Sur,2013,33,0,0,0,39
+Campeche,2013,33,0,0,0,2
+Coahuila,2013,33,0,0,0,160
+Colima,2013,33,0,0,0,0
+Chiapas,2013,33,0,0,0,0
+Chihuahua,2013,33,0,0,0,2
+Distrito Federal,2013,33,0,0,0,0
+Durango,2013,33,0,0,0,0
+Guanajuato,2013,33,0,0,0,4
+Guerrero,2013,33,0,0,0,5
+Hidalgo,2013,33,0,0,0,0
+Jalisco,2013,33,0,0,0,1
+México,2013,33,0,0,0,1
+Michoacán,2013,33,0,0,0,55
+Morelos,2013,33,0,0,0,3
+Nayarit,2013,33,0,0,0,0
+Nuevo León,2013,33,0,0,0,15
+Oaxaca,2013,33,0,0,0,0
+Puebla,2013,33,0,0,0,0
+Querétaro,2013,33,0,0,0,0
+Quintana Roo,2013,33,0,0,0,0
+San Luis Potosí,2013,33,0,0,0,0
+Sinaloa,2013,33,0,0,0,13
+Sonora,2013,33,0,0,0,55
+Tabasco,2013,33,0,0,0,0
+Tamaulipas,2013,33,0,0,0,0
+Tlaxcala,2013,33,0,0,0,0
+Veracruz,2013,33,0,0,0,0
+Yucatán,2013,33,0,0,0,0
+Zacatecas,2013,33,0,0,0,1
+Aguascalientes,2013,34,0,0,0,0
+Baja California,2013,34,0,0,0,420
+Baja California Sur,2013,34,0,0,0,40
+Campeche,2013,34,0,0,0,2
+Coahuila,2013,34,0,0,0,162
+Colima,2013,34,0,0,0,0
+Chiapas,2013,34,0,0,0,0
+Chihuahua,2013,34,0,0,0,2
+Distrito Federal,2013,34,0,0,0,0
+Durango,2013,34,0,0,0,0
+Guanajuato,2013,34,0,0,0,4
+Guerrero,2013,34,0,0,0,6
+Hidalgo,2013,34,0,0,0,0
+Jalisco,2013,34,0,0,0,1
+México,2013,34,0,0,0,1
+Michoacán,2013,34,0,0,0,58
+Morelos,2013,34,0,0,0,3
+Nayarit,2013,34,0,0,0,0
+Nuevo León,2013,34,0,0,0,17
+Oaxaca,2013,34,0,0,0,0
+Puebla,2013,34,0,0,0,0
+Querétaro,2013,34,0,0,0,0
+Quintana Roo,2013,34,0,0,0,0
+San Luis Potosí,2013,34,0,0,0,0
+Sinaloa,2013,34,0,0,0,14
+Sonora,2013,34,0,0,0,57
+Tabasco,2013,34,0,0,0,0
+Tamaulipas,2013,34,0,0,0,0
+Tlaxcala,2013,34,0,0,0,0
+Veracruz,2013,34,0,0,0,0
+Yucatán,2013,34,0,0,0,0
+Zacatecas,2013,34,0,0,0,1
+Aguascalientes,2013,35,0,0,0,0
+Baja California,2013,35,0,0,0,434
+Baja California Sur,2013,35,0,0,0,41
+Campeche,2013,35,0,0,0,2
+Coahuila,2013,35,0,0,0,167
+Colima,2013,35,0,0,0,0
+Chiapas,2013,35,0,0,0,0
+Chihuahua,2013,35,0,0,0,2
+Distrito Federal,2013,35,0,0,0,0
+Durango,2013,35,0,0,0,0
+Guanajuato,2013,35,0,0,0,4
+Guerrero,2013,35,0,0,0,6
+Hidalgo,2013,35,0,0,0,0
+Jalisco,2013,35,0,0,0,1
+México,2013,35,0,0,0,1
+Michoacán,2013,35,0,0,0,59
+Morelos,2013,35,0,0,0,3
+Nayarit,2013,35,0,0,0,0
+Nuevo León,2013,35,0,0,0,17
+Oaxaca,2013,35,0,0,0,0
+Puebla,2013,35,0,0,0,0
+Querétaro,2013,35,0,0,0,0
+Quintana Roo,2013,35,0,0,0,0
+San Luis Potosí,2013,35,0,0,0,0
+Sinaloa,2013,35,0,0,0,14
+Sonora,2013,35,0,0,0,59
+Tabasco,2013,35,0,0,0,0
+Tamaulipas,2013,35,0,0,0,0
+Tlaxcala,2013,35,0,0,0,0
+Veracruz,2013,35,0,0,0,0
+Yucatán,2013,35,0,0,0,0
+Zacatecas,2013,35,0,0,0,1
+Aguascalientes,2013,36,0,0,0,0
+Baja California,2013,36,0,0,0,454
+Baja California Sur,2013,36,0,0,0,42
+Campeche,2013,36,0,0,0,2
+Coahuila,2013,36,0,0,0,170
+Colima,2013,36,0,0,0,0
+Chiapas,2013,36,0,0,0,0
+Chihuahua,2013,36,0,0,0,2
+Distrito Federal,2013,36,0,0,0,0
+Durango,2013,36,0,0,0,0
+Guanajuato,2013,36,0,0,0,4
+Guerrero,2013,36,0,0,0,6
+Hidalgo,2013,36,0,0,0,0
+Jalisco,2013,36,0,0,0,1
+México,2013,36,0,0,0,1
+Michoacán,2013,36,0,0,0,61
+Morelos,2013,36,0,0,0,3
+Nayarit,2013,36,0,0,0,0
+Nuevo León,2013,36,0,0,0,19
+Oaxaca,2013,36,0,0,0,0
+Puebla,2013,36,0,0,0,0
+Querétaro,2013,36,0,0,0,0
+Quintana Roo,2013,36,0,0,0,0
+San Luis Potosí,2013,36,0,0,0,0
+Sinaloa,2013,36,0,0,0,14
+Sonora,2013,36,0,0,0,61
+Tabasco,2013,36,0,0,0,0
+Tamaulipas,2013,36,0,0,0,0
+Tlaxcala,2013,36,0,0,0,0
+Veracruz,2013,36,0,0,0,0
+Yucatán,2013,36,0,0,0,0
+Zacatecas,2013,36,0,0,0,1
+Aguascalientes,2013,37,0,0,0,0
+Baja California,2013,37,0,0,0,460
+Baja California Sur,2013,37,0,0,0,43
+Campeche,2013,37,0,0,0,2
+Coahuila,2013,37,0,0,0,174
+Colima,2013,37,0,0,0,0
+Chiapas,2013,37,0,0,0,0
+Chihuahua,2013,37,0,0,0,2
+Distrito Federal,2013,37,0,0,0,0
+Durango,2013,37,0,0,0,0
+Guanajuato,2013,37,0,0,0,4
+Guerrero,2013,37,0,0,0,6
+Hidalgo,2013,37,0,0,0,0
+Jalisco,2013,37,0,0,0,1
+México,2013,37,0,0,0,1
+Michoacán,2013,37,0,0,0,61
+Morelos,2013,37,0,0,0,3
+Nayarit,2013,37,0,0,0,0
+Nuevo León,2013,37,0,0,0,19
+Oaxaca,2013,37,0,0,0,0
+Puebla,2013,37,0,0,0,0
+Querétaro,2013,37,0,0,0,0
+Quintana Roo,2013,37,0,0,0,0
+San Luis Potosí,2013,37,0,0,0,0
+Sinaloa,2013,37,0,0,0,14
+Sonora,2013,37,0,0,0,62
+Tabasco,2013,37,0,0,0,0
+Tamaulipas,2013,37,0,0,0,0
+Tlaxcala,2013,37,0,0,0,0
+Veracruz,2013,37,0,0,0,0
+Yucatán,2013,37,0,0,0,0
+Zacatecas,2013,37,0,0,0,1
+Aguascalientes,2013,38,0,0,0,0
+Baja California,2013,38,0,0,0,466
+Baja California Sur,2013,38,0,0,0,44
+Campeche,2013,38,0,0,0,2
+Coahuila,2013,38,0,0,0,175
+Colima,2013,38,0,0,0,0
+Chiapas,2013,38,0,0,0,0
+Chihuahua,2013,38,0,0,0,2
+Distrito Federal,2013,38,0,0,0,0
+Durango,2013,38,0,0,0,1
+Guanajuato,2013,38,0,0,0,4
+Guerrero,2013,38,0,0,0,6
+Hidalgo,2013,38,0,0,0,0
+Jalisco,2013,38,0,0,0,1
+México,2013,38,0,0,0,1
+Michoacán,2013,38,0,0,0,62
+Morelos,2013,38,0,0,0,3
+Nayarit,2013,38,0,0,0,0
+Nuevo León,2013,38,0,0,0,19
+Oaxaca,2013,38,0,0,0,0
+Puebla,2013,38,0,0,0,0
+Querétaro,2013,38,0,0,0,0
+Quintana Roo,2013,38,0,0,0,0
+San Luis Potosí,2013,38,0,0,0,0
+Sinaloa,2013,38,0,0,0,15
+Sonora,2013,38,0,0,0,62
+Tabasco,2013,38,0,0,0,0
+Tamaulipas,2013,38,0,0,0,0
+Tlaxcala,2013,38,0,0,0,0
+Veracruz,2013,38,0,0,0,0
+Yucatán,2013,38,0,0,0,0
+Zacatecas,2013,38,0,0,0,1
+Aguascalientes,2013,39,0,0,0,0
+Baja California,2013,39,0,0,0,474
+Baja California Sur,2013,39,0,0,0,46
+Campeche,2013,39,0,0,0,2
+Coahuila,2013,39,0,0,0,175
+Colima,2013,39,0,0,0,0
+Chiapas,2013,39,0,0,0,0
+Chihuahua,2013,39,0,0,0,2
+Distrito Federal,2013,39,0,0,0,0
+Durango,2013,39,0,0,0,1
+Guanajuato,2013,39,0,0,0,4
+Guerrero,2013,39,0,0,0,6
+Hidalgo,2013,39,0,0,0,0
+Jalisco,2013,39,0,0,0,1
+México,2013,39,0,0,0,1
+Michoacán,2013,39,0,0,0,62
+Morelos,2013,39,0,0,0,3
+Nayarit,2013,39,0,0,0,0
+Nuevo León,2013,39,0,0,0,20
+Oaxaca,2013,39,0,0,0,0
+Puebla,2013,39,0,0,0,0
+Querétaro,2013,39,0,0,0,0
+Quintana Roo,2013,39,0,0,0,0
+San Luis Potosí,2013,39,0,0,0,0
+Sinaloa,2013,39,0,0,0,16
+Sonora,2013,39,0,0,0,64
+Tabasco,2013,39,0,0,0,0
+Tamaulipas,2013,39,0,0,0,0
+Tlaxcala,2013,39,0,0,0,0
+Veracruz,2013,39,0,0,0,0
+Yucatán,2013,39,0,0,0,0
+Zacatecas,2013,39,0,0,0,1
+Aguascalientes,2013,40,0,0,0,0
+Baja California,2013,40,0,0,0,480
+Baja California Sur,2013,40,0,0,0,47
+Campeche,2013,40,0,0,0,2
+Coahuila,2013,40,0,0,0,179
+Colima,2013,40,0,0,0,0
+Chiapas,2013,40,0,0,0,0
+Chihuahua,2013,40,0,0,0,2
+Distrito Federal,2013,40,0,0,0,0
+Durango,2013,40,0,0,0,1
+Guanajuato,2013,40,0,0,0,5
+Guerrero,2013,40,0,0,0,6
+Hidalgo,2013,40,0,0,0,0
+Jalisco,2013,40,0,0,0,1
+México,2013,40,0,0,0,1
+Michoacán,2013,40,0,0,0,62
+Morelos,2013,40,0,0,0,3
+Nayarit,2013,40,0,0,0,0
+Nuevo León,2013,40,0,0,0,22
+Oaxaca,2013,40,0,0,0,0
+Puebla,2013,40,0,0,0,0
+Querétaro,2013,40,0,0,0,0
+Quintana Roo,2013,40,0,0,0,0
+San Luis Potosí,2013,40,0,0,0,0
+Sinaloa,2013,40,0,0,0,16
+Sonora,2013,40,0,0,0,69
+Tabasco,2013,40,0,0,0,0
+Tamaulipas,2013,40,0,0,0,0
+Tlaxcala,2013,40,0,0,0,0
+Veracruz,2013,40,0,0,0,0
+Yucatán,2013,40,0,0,0,0
+Zacatecas,2013,40,0,0,0,1
+Aguascalientes,2013,41,0,0,0,0
+Baja California,2013,41,0,0,0,493
+Baja California Sur,2013,41,0,0,0,47
+Campeche,2013,41,0,0,0,2
+Coahuila,2013,41,0,0,0,179
+Colima,2013,41,0,0,0,0
+Chiapas,2013,41,0,0,0,0
+Chihuahua,2013,41,0,0,0,2
+Distrito Federal,2013,41,0,0,0,0
+Durango,2013,41,0,0,0,1
+Guanajuato,2013,41,0,0,0,5
+Guerrero,2013,41,0,0,0,6
+Hidalgo,2013,41,0,0,0,0
+Jalisco,2013,41,0,0,0,1
+México,2013,41,0,0,0,1
+Michoacán,2013,41,0,0,0,62
+Morelos,2013,41,0,0,0,3
+Nayarit,2013,41,0,0,0,0
+Nuevo León,2013,41,0,0,0,22
+Oaxaca,2013,41,0,0,0,0
+Puebla,2013,41,0,0,0,0
+Querétaro,2013,41,0,0,0,0
+Quintana Roo,2013,41,0,0,0,0
+San Luis Potosí,2013,41,0,0,0,0
+Sinaloa,2013,41,0,0,0,18
+Sonora,2013,41,0,0,0,71
+Tabasco,2013,41,0,0,0,0
+Tamaulipas,2013,41,0,0,0,0
+Tlaxcala,2013,41,0,0,0,0
+Veracruz,2013,41,0,0,0,0
+Yucatán,2013,41,0,0,0,0
+Zacatecas,2013,41,0,0,0,1
+Aguascalientes,2013,42,0,0,0,0
+Baja California,2013,42,0,0,0,502
+Baja California Sur,2013,42,0,0,0,48
+Campeche,2013,42,0,0,0,2
+Coahuila,2013,42,0,0,0,179
+Colima,2013,42,0,0,0,0
+Chiapas,2013,42,0,0,0,0
+Chihuahua,2013,42,0,0,0,2
+Distrito Federal,2013,42,0,0,0,0
+Durango,2013,42,0,0,0,1
+Guanajuato,2013,42,0,0,0,5
+Guerrero,2013,42,0,0,0,6
+Hidalgo,2013,42,0,0,0,0
+Jalisco,2013,42,0,0,0,1
+México,2013,42,0,0,0,1
+Michoacán,2013,42,0,0,0,62
+Morelos,2013,42,0,0,0,3
+Nayarit,2013,42,0,0,0,0
+Nuevo León,2013,42,0,0,0,22
+Oaxaca,2013,42,0,0,0,0
+Puebla,2013,42,0,0,0,0
+Querétaro,2013,42,0,0,0,0
+Quintana Roo,2013,42,0,0,0,0
+San Luis Potosí,2013,42,0,0,0,0
+Sinaloa,2013,42,0,0,0,18
+Sonora,2013,42,0,0,0,72
+Tabasco,2013,42,0,0,0,0
+Tamaulipas,2013,42,0,0,0,0
+Tlaxcala,2013,42,0,0,0,0
+Veracruz,2013,42,0,0,0,0
+Yucatán,2013,42,0,0,0,0
+Zacatecas,2013,42,0,0,0,2
+Aguascalientes,2013,43,0,0,0,0
+Baja California,2013,43,0,0,0,504
+Baja California Sur,2013,43,0,0,0,48
+Campeche,2013,43,0,0,0,2
+Coahuila,2013,43,0,0,0,182
+Colima,2013,43,0,0,0,0
+Chiapas,2013,43,0,0,0,0
+Chihuahua,2013,43,0,0,0,2
+Distrito Federal,2013,43,0,0,0,0
+Durango,2013,43,0,0,0,1
+Guanajuato,2013,43,0,0,0,5
+Guerrero,2013,43,0,0,0,6
+Hidalgo,2013,43,0,0,0,0
+Jalisco,2013,43,0,0,0,1
+México,2013,43,0,0,0,1
+Michoacán,2013,43,0,0,0,62
+Morelos,2013,43,0,0,0,3
+Nayarit,2013,43,0,0,0,0
+Nuevo León,2013,43,0,0,0,22
+Oaxaca,2013,43,0,0,0,0
+Puebla,2013,43,0,0,0,0
+Querétaro,2013,43,0,0,0,0
+Quintana Roo,2013,43,0,0,0,0
+San Luis Potosí,2013,43,0,0,0,0
+Sinaloa,2013,43,0,0,0,19
+Sonora,2013,43,0,0,0,74
+Tabasco,2013,43,0,0,0,0
+Tamaulipas,2013,43,0,0,0,0
+Tlaxcala,2013,43,0,0,0,0
+Veracruz,2013,43,0,0,0,0
+Yucatán,2013,43,0,0,0,0
+Zacatecas,2013,43,0,0,0,2
+Aguascalientes,2013,44,0,0,0,0
+Baja California,2013,44,0,0,0,510
+Baja California Sur,2013,44,0,0,0,49
+Campeche,2013,44,0,0,0,2
+Coahuila,2013,44,0,0,0,186
+Colima,2013,44,0,0,0,0
+Chiapas,2013,44,0,0,0,0
+Chihuahua,2013,44,0,0,0,2
+Distrito Federal,2013,44,0,0,0,0
+Durango,2013,44,0,0,0,1
+Guanajuato,2013,44,0,0,0,5
+Guerrero,2013,44,0,0,0,6
+Hidalgo,2013,44,0,0,0,0
+Jalisco,2013,44,0,0,0,1
+México,2013,44,0,0,0,1
+Michoacán,2013,44,0,0,0,62
+Morelos,2013,44,0,0,0,3
+Nayarit,2013,44,0,0,0,0
+Nuevo León,2013,44,0,0,0,23
+Oaxaca,2013,44,0,0,0,0
+Puebla,2013,44,0,0,0,0
+Querétaro,2013,44,0,0,0,0
+Quintana Roo,2013,44,0,0,0,1
+San Luis Potosí,2013,44,0,0,0,0
+Sinaloa,2013,44,0,0,0,21
+Sonora,2013,44,0,0,0,74
+Tabasco,2013,44,0,0,0,0
+Tamaulipas,2013,44,0,0,0,0
+Tlaxcala,2013,44,0,0,0,0
+Veracruz,2013,44,0,0,0,0
+Yucatán,2013,44,0,0,0,0
+Zacatecas,2013,44,0,0,0,2
+Aguascalientes,2013,45,0,0,0,0
+Baja California,2013,45,0,0,0,516
+Baja California Sur,2013,45,0,0,0,49
+Campeche,2013,45,0,0,0,2
+Coahuila,2013,45,0,0,0,187
+Colima,2013,45,0,0,0,0
+Chiapas,2013,45,0,0,0,0
+Chihuahua,2013,45,0,0,0,2
+Distrito Federal,2013,45,0,0,0,0
+Durango,2013,45,0,0,0,1
+Guanajuato,2013,45,0,0,0,5
+Guerrero,2013,45,0,0,0,6
+Hidalgo,2013,45,0,0,0,0
+Jalisco,2013,45,0,0,0,1
+México,2013,45,0,0,0,1
+Michoacán,2013,45,0,0,0,62
+Morelos,2013,45,0,0,0,3
+Nayarit,2013,45,0,0,0,0
+Nuevo León,2013,45,0,0,0,28
+Oaxaca,2013,45,0,0,0,0
+Puebla,2013,45,0,0,0,0
+Querétaro,2013,45,0,0,0,0
+Quintana Roo,2013,45,0,0,0,1
+San Luis Potosí,2013,45,0,0,0,0
+Sinaloa,2013,45,0,0,0,23
+Sonora,2013,45,0,0,0,75
+Tabasco,2013,45,0,0,0,0
+Tamaulipas,2013,45,0,0,0,0
+Tlaxcala,2013,45,0,0,0,0
+Veracruz,2013,45,0,0,0,0
+Yucatán,2013,45,0,0,0,0
+Zacatecas,2013,45,0,0,0,2
+Aguascalientes,2013,46,0,0,0,0
+Baja California,2013,46,0,0,0,520
+Baja California Sur,2013,46,0,0,0,52
+Campeche,2013,46,0,0,0,2
+Coahuila,2013,46,0,0,0,188
+Colima,2013,46,0,0,0,0
+Chiapas,2013,46,0,0,0,0
+Chihuahua,2013,46,0,0,0,2
+Distrito Federal,2013,46,0,0,0,0
+Durango,2013,46,0,0,0,1
+Guanajuato,2013,46,0,0,0,5
+Guerrero,2013,46,0,0,0,6
+Hidalgo,2013,46,0,0,0,0
+Jalisco,2013,46,0,0,0,1
+México,2013,46,0,0,0,1
+Michoacán,2013,46,0,0,0,62
+Morelos,2013,46,0,0,0,3
+Nayarit,2013,46,0,0,0,0
+Nuevo León,2013,46,0,0,0,28
+Oaxaca,2013,46,0,0,0,0
+Puebla,2013,46,0,0,0,0
+Querétaro,2013,46,0,0,0,0
+Quintana Roo,2013,46,0,0,0,1
+San Luis Potosí,2013,46,0,0,0,0
+Sinaloa,2013,46,0,0,0,23
+Sonora,2013,46,0,0,0,77
+Tabasco,2013,46,0,0,0,0
+Tamaulipas,2013,46,0,0,0,0
+Tlaxcala,2013,46,0,0,0,0
+Veracruz,2013,46,0,0,0,0
+Yucatán,2013,46,0,0,0,0
+Zacatecas,2013,46,0,0,0,2
+Aguascalientes,2013,47,0,0,0,0
+Baja California,2013,47,0,0,0,526
+Baja California Sur,2013,47,0,0,0,54
+Campeche,2013,47,0,0,0,2
+Coahuila,2013,47,0,0,0,192
+Colima,2013,47,0,0,0,0
+Chiapas,2013,47,0,0,0,0
+Chihuahua,2013,47,0,0,0,2
+Distrito Federal,2013,47,0,0,0,0
+Durango,2013,47,0,0,0,1
+Guanajuato,2013,47,0,0,0,5
+Guerrero,2013,47,0,0,0,6
+Hidalgo,2013,47,0,0,0,0
+Jalisco,2013,47,0,0,0,1
+México,2013,47,0,0,0,1
+Michoacán,2013,47,0,0,0,63
+Morelos,2013,47,0,0,0,3
+Nayarit,2013,47,0,0,0,0
+Nuevo León,2013,47,0,0,0,28
+Oaxaca,2013,47,0,0,0,0
+Puebla,2013,47,0,0,0,0
+Querétaro,2013,47,0,0,0,1
+Quintana Roo,2013,47,0,0,0,0
+San Luis Potosí,2013,47,0,0,0,23
+Sinaloa,2013,47,0,0,0,78
+Sonora,2013,47,0,0,0,0
+Tabasco,2013,47,0,0,0,0
+Tamaulipas,2013,47,0,0,0,0
+Tlaxcala,2013,47,0,0,0,0
+Veracruz,2013,47,0,0,0,0
+Yucatán,2013,47,0,0,0,2
+Zacatecas,2013,47,0,0,0,988
+Aguascalientes,2013,48,0,0,0,0
+Baja California,2013,48,0,0,0,529
+Baja California Sur,2013,48,0,0,0,54
+Campeche,2013,48,0,0,0,2
+Coahuila,2013,48,0,0,0,192
+Colima,2013,48,0,0,0,0
+Chiapas,2013,48,0,0,0,0
+Chihuahua,2013,48,0,0,0,2
+Distrito Federal,2013,48,0,0,0,0
+Durango,2013,48,0,0,0,1
+Guanajuato,2013,48,0,0,0,5
+Guerrero,2013,48,0,0,0,6
+Hidalgo,2013,48,0,0,0,0
+Jalisco,2013,48,0,0,0,1
+México,2013,48,0,0,0,1
+Michoacán,2013,48,0,0,0,64
+Morelos,2013,48,0,0,0,3
+Nayarit,2013,48,0,0,0,0
+Nuevo León,2013,48,0,0,0,28
+Oaxaca,2013,48,0,0,0,0
+Puebla,2013,48,0,0,0,0
+Querétaro,2013,48,0,0,0,0
+Quintana Roo,2013,48,0,0,0,1
+San Luis Potosí,2013,48,0,0,0,0
+Sinaloa,2013,48,0,0,0,23
+Sonora,2013,48,0,0,0,79
+Tabasco,2013,48,0,0,0,0
+Tamaulipas,2013,48,0,0,0,0
+Tlaxcala,2013,48,0,0,0,0
+Veracruz,2013,48,0,0,0,0
+Yucatán,2013,48,0,0,0,0
+Zacatecas,2013,48,0,0,0,2
+Aguascalientes,2013,49,0,0,0,0
+Baja California,2013,49,0,0,0,535
+Baja California Sur,2013,49,0,0,0,54
+Campeche,2013,49,0,0,0,2
+Coahuila,2013,49,0,0,0,192
+Colima,2013,49,0,0,0,0
+Chiapas,2013,49,0,0,0,0
+Chihuahua,2013,49,0,0,0,2
+Distrito Federal,2013,49,0,0,0,0
+Durango,2013,49,0,0,0,1
+Guanajuato,2013,49,0,0,0,5
+Guerrero,2013,49,0,0,0,7
+Hidalgo,2013,49,0,0,0,0
+Jalisco,2013,49,0,0,0,1
+México,2013,49,0,0,0,1
+Michoacán,2013,49,0,0,0,64
+Morelos,2013,49,0,0,0,3
+Nayarit,2013,49,0,0,0,0
+Nuevo León,2013,49,0,0,0,28
+Oaxaca,2013,49,0,0,0,0
+Puebla,2013,49,0,0,0,0
+Querétaro,2013,49,0,0,0,0
+Quintana Roo,2013,49,0,0,0,1
+San Luis Potosí,2013,49,0,0,0,0
+Sinaloa,2013,49,0,0,0,23
+Sonora,2013,49,0,0,0,81
+Tabasco,2013,49,0,0,0,0
+Tamaulipas,2013,49,0,0,0,0
+Tlaxcala,2013,49,0,0,0,0
+Veracruz,2013,49,0,0,0,0
+Yucatán,2013,49,0,0,0,0
+Zacatecas,2013,49,0,0,0,2
+Aguascalientes,2013,50,0,0,0,0
+Baja California,2013,50,0,0,0,543
+Baja California Sur,2013,50,0,0,0,54
+Campeche,2013,50,0,0,0,2
+Coahuila,2013,50,0,0,0,192
+Colima,2013,50,0,0,0,0
+Chiapas,2013,50,0,0,0,0
+Chihuahua,2013,50,0,0,0,2
+Distrito Federal,2013,50,0,0,0,0
+Durango,2013,50,0,0,0,1
+Guanajuato,2013,50,0,0,0,5
+Guerrero,2013,50,0,0,0,7
+Hidalgo,2013,50,0,0,0,0
+Jalisco,2013,50,0,0,0,1
+México,2013,50,0,0,0,1
+Michoacán,2013,50,0,0,0,67
+Morelos,2013,50,0,0,0,3
+Nayarit,2013,50,0,0,0,0
+Nuevo León,2013,50,0,0,0,28
+Oaxaca,2013,50,0,0,0,0
+Puebla,2013,50,0,0,0,0
+Querétaro,2013,50,0,0,0,0
+Quintana Roo,2013,50,0,0,0,1
+San Luis Potosí,2013,50,0,0,0,0
+Sinaloa,2013,50,0,0,0,23
+Sonora,2013,50,0,0,0,81
+Tabasco,2013,50,0,0,0,0
+Tamaulipas,2013,50,0,0,0,0
+Tlaxcala,2013,50,0,0,0,0
+Veracruz,2013,50,0,0,0,0
+Yucatán,2013,50,0,0,0,0
+Zacatecas,2013,50,0,0,0,2
+Aguascalientes,2013,51,0,0,0,0
+Baja California,2013,51,0,0,0,547
+Baja California Sur,2013,51,0,0,0,54
+Campeche,2013,51,0,0,0,2
+Coahuila,2013,51,0,0,0,192
+Colima,2013,51,0,0,0,0
+Chiapas,2013,51,0,0,0,0
+Chihuahua,2013,51,0,0,0,2
+Distrito Federal,2013,51,0,0,0,0
+Durango,2013,51,0,0,0,1
+Guanajuato,2013,51,0,0,0,5
+Guerrero,2013,51,0,0,0,7
+Hidalgo,2013,51,0,0,0,0
+Jalisco,2013,51,0,0,0,1
+México,2013,51,0,0,0,1
+Michoacán,2013,51,0,0,0,68
+Morelos,2013,51,0,0,0,3
+Nayarit,2013,51,0,0,0,0
+Nuevo León,2013,51,0,0,0,28
+Oaxaca,2013,51,0,0,0,0
+Puebla,2013,51,0,0,0,0
+Querétaro,2013,51,0,0,0,0
+Quintana Roo,2013,51,0,0,0,1
+San Luis Potosí,2013,51,0,0,0,0
+Sinaloa,2013,51,0,0,0,23
+Sonora,2013,51,0,0,0,81
+Tabasco,2013,51,0,0,0,0
+Tamaulipas,2013,51,0,0,0,0
+Tlaxcala,2013,51,0,0,0,0
+Veracruz,2013,51,0,0,0,0
+Yucatán,2013,51,0,0,0,0
+Zacatecas,2013,51,0,0,0,2
+Aguascalientes,2013,52,0,0,0,0
+Baja California,2013,52,0,0,0,555
+Baja California Sur,2013,52,0,0,0,54
+Campeche,2013,52,0,0,0,2
+Coahuila,2013,52,0,0,0,192
+Colima,2013,52,0,0,0,0
+Chiapas,2013,52,0,0,0,0
+Chihuahua,2013,52,0,0,0,2
+Distrito Federal,2013,52,0,0,0,0
+Durango,2013,52,0,0,0,1
+Guanajuato,2013,52,0,0,0,6
+Guerrero,2013,52,0,0,0,7
+Hidalgo,2013,52,0,0,0,0
+Jalisco,2013,52,0,0,0,1
+México,2013,52,0,0,0,1
+Michoacán,2013,52,0,0,0,68
+Morelos,2013,52,0,0,0,3
+Nayarit,2013,52,0,0,0,0
+Nuevo León,2013,52,0,0,0,28
+Oaxaca,2013,52,0,0,0,0
+Puebla,2013,52,0,0,0,0
+Querétaro,2013,52,0,0,0,0
+Quintana Roo,2013,52,0,0,0,1
+San Luis Potosí,2013,52,0,0,0,0
+Sinaloa,2013,52,0,0,0,23
+Sonora,2013,52,0,0,0,81
+Tabasco,2013,52,0,0,0,0
+Tamaulipas,2013,52,0,0,0,0
+Tlaxcala,2013,52,0,0,0,0
+Veracruz,2013,52,0,0,0,0
+Yucatán,2013,52,0,0,0,0
+Zacatecas,2013,52,0,0,0,2
+Aguascalientes,2013,53,0,0,0,0
+Baja California,2013,53,0,0,0,559
+Baja California Sur,2013,53,0,0,0,54
+Campeche,2013,53,0,0,0,2
+Coahuila,2013,53,0,0,0,193
+Colima,2013,53,0,0,0,0
+Chiapas,2013,53,0,0,0,0
+Chihuahua,2013,53,0,0,0,2
+Distrito Federal,2013,53,0,0,0,0
+Durango,2013,53,0,0,0,1
+Guanajuato,2013,53,0,0,0,6
+Guerrero,2013,53,0,0,0,7
+Hidalgo,2013,53,0,0,0,0
+Jalisco,2013,53,0,0,0,1
+México,2013,53,0,0,0,1
+Michoacán,2013,53,0,0,0,68
+Morelos,2013,53,0,0,0,3
+Nayarit,2013,53,0,0,0,0
+Nuevo León,2013,53,0,0,0,28
+Oaxaca,2013,53,0,0,0,0
+Puebla,2013,53,0,0,0,0
+Querétaro,2013,53,0,0,0,0
+Quintana Roo,2013,53,0,0,0,1
+San Luis Potosí,2013,53,0,0,0,0
+Sinaloa,2013,53,0,0,0,23
+Sonora,2013,53,0,0,0,81
+Tabasco,2013,53,0,0,0,0
+Tamaulipas,2013,53,0,0,0,0
+Tlaxcala,2013,53,0,0,0,0
+Veracruz,2013,53,0,0,0,0
+Yucatán,2013,53,0,0,0,0
+Zacatecas,2013,53,0,0,0,2
+Aguascalientes,2014,2,0,0,0,0
+Baja California,2014,2,2,2,2,0
+Baja California Sur,2014,2,0,0,0,0
+Campeche,2014,2,0,0,0,0
+Coahuila,2014,2,0,0,0,0
+Colima,2014,2,0,0,0,0
+Chiapas,2014,2,0,0,0,0
+Chihuahua,2014,2,0,0,0,0
+Distrito Federal,2014,2,0,0,0,0
+Durango,2014,2,0,0,0,0
+Guanajuato,2014,2,0,0,0,0
+Guerrero,2014,2,0,0,0,0
+Hidalgo,2014,2,0,0,0,0
+Jalisco,2014,2,0,0,0,0
+México,2014,2,0,0,0,0
+Michoacán,2014,2,1,1,1,0
+Morelos,2014,2,0,0,0,0
+Nayarit,2014,2,0,0,0,0
+Nuevo León,2014,2,0,0,0,0
+Oaxaca,2014,2,0,0,0,0
+Puebla,2014,2,0,0,0,0
+Querétaro,2014,2,0,0,0,0
+Quintana Roo,2014,2,0,0,0,0
+San Luis Potosí,2014,2,0,0,0,0
+Sinaloa,2014,2,0,0,0,0
+Sonora,2014,2,0,0,0,0
+Tabasco,2014,2,0,0,0,0
+Tamaulipas,2014,2,0,0,0,0
+Tlaxcala,2014,2,0,0,0,0
+Veracruz,2014,2,0,0,0,0
+Yucatán,2014,2,0,0,0,0
+Zacatecas,2014,2,0,0,0,0
+Aguascalientes,2014,3,0,0,0,0
+Baja California,2014,3,7,7,7,0
+Baja California Sur,2014,3,3,3,3,0
+Campeche,2014,3,0,0,0,0
+Coahuila,2014,3,0,0,0,0
+Colima,2014,3,0,0,0,0
+Chiapas,2014,3,0,0,0,0
+Chihuahua,2014,3,0,0,0,0
+Distrito Federal,2014,3,0,0,0,0
+Durango,2014,3,0,0,0,0
+Guanajuato,2014,3,0,0,0,0
+Guerrero,2014,3,0,0,0,0
+Hidalgo,2014,3,0,0,0,0
+Jalisco,2014,3,0,0,0,0
+México,2014,3,0,0,0,0
+Michoacán,2014,3,0,0,0,0
+Morelos,2014,3,0,0,0,0
+Nayarit,2014,3,0,0,0,0
+Nuevo León,2014,3,0,0,0,0
+Oaxaca,2014,3,0,0,0,0
+Puebla,2014,3,0,0,0,0
+Querétaro,2014,3,0,0,0,0
+Quintana Roo,2014,3,0,0,0,0
+San Luis Potosí,2014,3,0,0,0,0
+Sinaloa,2014,3,0,0,0,0
+Sonora,2014,3,0,0,0,0
+Tabasco,2014,3,0,0,0,0
+Tamaulipas,2014,3,0,0,0,0
+Tlaxcala,2014,3,0,0,0,0
+Veracruz,2014,3,0,0,0,0
+Yucatán,2014,3,0,0,0,0
+Zacatecas,2014,3,0,0,0,0
+Aguascalientes,2014,4,0,0,0,0
+Baja California,2014,4,6,6,6,0
+Baja California Sur,2014,4,0,0,0,0
+Campeche,2014,4,0,0,0,0
+Coahuila,2014,4,0,0,0,0
+Colima,2014,4,0,0,0,0
+Chiapas,2014,4,0,0,0,0
+Chihuahua,2014,4,0,0,0,0
+Distrito Federal,2014,4,0,0,0,0
+Durango,2014,4,0,0,0,0
+Guanajuato,2014,4,0,0,0,0
+Guerrero,2014,4,0,0,0,0
+Hidalgo,2014,4,0,0,0,0
+Jalisco,2014,4,0,0,0,0
+México,2014,4,0,0,0,0
+Michoacán,2014,4,0,0,0,0
+Morelos,2014,4,0,0,0,0
+Nayarit,2014,4,0,0,0,0
+Nuevo León,2014,4,0,0,0,0
+Oaxaca,2014,4,0,0,0,0
+Puebla,2014,4,0,0,0,0
+Querétaro,2014,4,0,0,0,0
+Quintana Roo,2014,4,0,0,0,0
+San Luis Potosí,2014,4,0,0,0,0
+Sinaloa,2014,4,0,0,0,0
+Sonora,2014,4,0,0,0,0
+Tabasco,2014,4,0,0,0,0
+Tamaulipas,2014,4,0,0,0,0
+Tlaxcala,2014,4,0,0,0,0
+Veracruz,2014,4,0,0,0,0
+Yucatán,2014,4,0,0,0,0
+Zacatecas,2014,4,0,0,0,0
+Aguascalientes,2014,5,0,0,0,0
+Baja California,2014,5,0,0,0,0
+Baja California Sur,2014,5,1,1,1,0
+Campeche,2014,5,0,0,0,0
+Coahuila,2014,5,0,0,0,0
+Colima,2014,5,0,0,0,0
+Chiapas,2014,5,0,0,0,0
+Chihuahua,2014,5,0,0,0,0
+Distrito Federal,2014,5,0,0,0,0
+Durango,2014,5,0,0,0,0
+Guanajuato,2014,5,0,0,0,0
+Guerrero,2014,5,0,0,0,0
+Hidalgo,2014,5,0,0,0,0
+Jalisco,2014,5,0,0,0,0
+México,2014,5,0,0,0,0
+Michoacán,2014,5,1,1,1,0
+Morelos,2014,5,0,0,0,0
+Nayarit,2014,5,0,0,0,0
+Nuevo León,2014,5,0,0,0,0
+Oaxaca,2014,5,0,0,0,0
+Puebla,2014,5,0,0,0,0
+Querétaro,2014,5,0,0,0,0
+Quintana Roo,2014,5,0,0,0,0
+San Luis Potosí,2014,5,0,0,0,0
+Sinaloa,2014,5,0,0,0,0
+Sonora,2014,5,0,0,0,0
+Tabasco,2014,5,0,0,0,0
+Tamaulipas,2014,5,0,0,0,0
+Tlaxcala,2014,5,0,0,0,0
+Veracruz,2014,5,0,0,0,0
+Yucatán,2014,5,0,0,0,0
+Zacatecas,2014,5,0,0,0,0
+Aguascalientes,2014,6,0,0,0,0
+Baja California,2014,6,3,3,3,0
+Baja California Sur,2014,6,0,0,0,0
+Campeche,2014,6,0,0,0,0
+Coahuila,2014,6,0,0,0,0
+Colima,2014,6,0,0,0,0
+Chiapas,2014,6,0,0,0,0
+Chihuahua,2014,6,0,0,0,0
+Distrito Federal,2014,6,0,0,0,0
+Durango,2014,6,0,0,0,0
+Guanajuato,2014,6,0,0,0,0
+Guerrero,2014,6,0,0,0,0
+Hidalgo,2014,6,0,0,0,0
+Jalisco,2014,6,0,0,0,0
+México,2014,6,0,0,0,0
+Michoacán,2014,6,3,3,3,0
+Morelos,2014,6,0,0,0,0
+Nayarit,2014,6,0,0,0,0
+Nuevo León,2014,6,0,0,0,0
+Oaxaca,2014,6,0,0,0,0
+Puebla,2014,6,0,0,0,0
+Querétaro,2014,6,0,0,0,0
+Quintana Roo,2014,6,0,0,0,0
+San Luis Potosí,2014,6,0,0,0,0
+Sinaloa,2014,6,0,0,0,0
+Sonora,2014,6,0,0,0,0
+Tabasco,2014,6,0,0,0,0
+Tamaulipas,2014,6,0,0,0,0
+Tlaxcala,2014,6,0,0,0,0
+Veracruz,2014,6,0,0,0,0
+Yucatán,2014,6,0,0,0,0
+Zacatecas,2014,6,0,0,0,0
+Aguascalientes,2014,7,0,0,0,0
+Baja California,2014,7,1,1,1,0
+Baja California Sur,2014,7,0,0,0,0
+Campeche,2014,7,0,0,0,0
+Coahuila,2014,7,0,0,0,0
+Colima,2014,7,0,0,0,0
+Chiapas,2014,7,0,0,0,0
+Chihuahua,2014,7,0,0,0,0
+Distrito Federal,2014,7,0,0,0,0
+Durango,2014,7,0,0,0,0
+Guanajuato,2014,7,0,0,0,0
+Guerrero,2014,7,0,0,0,0
+Hidalgo,2014,7,0,0,0,0
+Jalisco,2014,7,0,0,0,0
+México,2014,7,0,0,0,0
+Michoacán,2014,7,0,0,0,0
+Morelos,2014,7,0,0,0,0
+Nayarit,2014,7,0,0,0,0
+Nuevo León,2014,7,0,0,0,0
+Oaxaca,2014,7,0,0,0,0
+Puebla,2014,7,0,0,0,0
+Querétaro,2014,7,0,0,0,0
+Quintana Roo,2014,7,0,0,0,0
+San Luis Potosí,2014,7,0,0,0,0
+Sinaloa,2014,7,0,0,0,0
+Sonora,2014,7,0,0,0,0
+Tabasco,2014,7,0,0,0,0
+Tamaulipas,2014,7,0,0,0,0
+Tlaxcala,2014,7,0,0,0,0
+Veracruz,2014,7,0,0,0,0
+Yucatán,2014,7,0,0,0,0
+Zacatecas,2014,7,0,0,0,0
+Aguascalientes,2014,8,0,0,0,0
+Baja California,2014,8,0,0,0,0
+Baja California Sur,2014,8,0,0,0,0
+Campeche,2014,8,0,0,0,0
+Coahuila,2014,8,0,0,0,0
+Colima,2014,8,0,0,0,0
+Chiapas,2014,8,0,0,0,0
+Chihuahua,2014,8,0,0,0,0
+Distrito Federal,2014,8,0,0,0,0
+Durango,2014,8,0,0,0,0
+Guanajuato,2014,8,0,0,0,0
+Guerrero,2014,8,0,0,0,0
+Hidalgo,2014,8,0,0,0,0
+Jalisco,2014,8,0,0,0,0
+México,2014,8,0,0,0,0
+Michoacán,2014,8,0,0,0,0
+Morelos,2014,8,0,0,0,0
+Nayarit,2014,8,0,0,0,0
+Nuevo León,2014,8,0,0,0,0
+Oaxaca,2014,8,0,0,0,0
+Puebla,2014,8,0,0,0,0
+Querétaro,2014,8,0,0,0,0
+Quintana Roo,2014,8,0,0,0,0
+San Luis Potosí,2014,8,0,0,0,0
+Sinaloa,2014,8,0,0,0,0
+Sonora,2014,8,0,0,0,0
+Tabasco,2014,8,0,0,0,0
+Tamaulipas,2014,8,0,0,0,0
+Tlaxcala,2014,8,0,0,0,0
+Veracruz,2014,8,0,0,0,0
+Yucatán,2014,8,0,0,0,0
+Zacatecas,2014,8,0,0,0,0
+Aguascalientes,2014,9,0,0,0,0
+Baja California,2014,9,0,0,0,0
+Baja California Sur,2014,9,0,0,0,0
+Campeche,2014,9,0,0,0,0
+Coahuila,2014,9,0,0,0,0
+Colima,2014,9,0,0,0,0
+Chiapas,2014,9,0,0,0,0
+Chihuahua,2014,9,0,0,0,0
+Distrito Federal,2014,9,0,0,0,0
+Durango,2014,9,0,0,0,0
+Guanajuato,2014,9,0,0,0,0
+Guerrero,2014,9,0,0,0,0
+Hidalgo,2014,9,0,0,0,0
+Jalisco,2014,9,0,0,0,0
+México,2014,9,0,0,0,0
+Michoacán,2014,9,0,0,0,0
+Morelos,2014,9,0,0,0,0
+Nayarit,2014,9,0,0,0,0
+Nuevo León,2014,9,0,0,0,0
+Oaxaca,2014,9,0,0,0,0
+Puebla,2014,9,0,0,0,0
+Querétaro,2014,9,0,0,0,0
+Quintana Roo,2014,9,0,0,0,0
+San Luis Potosí,2014,9,0,0,0,0
+Sinaloa,2014,9,0,0,0,0
+Sonora,2014,9,0,0,0,0
+Tabasco,2014,9,0,0,0,0
+Tamaulipas,2014,9,0,0,0,0
+Tlaxcala,2014,9,0,0,0,0
+Veracruz,2014,9,0,0,0,0
+Yucatán,2014,9,0,0,0,0
+Zacatecas,2014,9,0,0,0,0
+Aguascalientes,2014,10,0,0,0,0
+Baja California,2014,10,0,0,0,0
+Baja California Sur,2014,10,0,0,0,0
+Campeche,2014,10,0,0,0,0
+Coahuila,2014,10,4,4,4,0
+Colima,2014,10,0,0,0,0
+Chiapas,2014,10,0,0,0,0
+Chihuahua,2014,10,0,0,0,0
+Distrito Federal,2014,10,0,0,0,0
+Durango,2014,10,0,0,0,0
+Guanajuato,2014,10,0,0,0,0
+Guerrero,2014,10,0,0,0,0
+Hidalgo,2014,10,0,0,0,0
+Jalisco,2014,10,0,0,0,0
+México,2014,10,0,0,0,0
+Michoacán,2014,10,0,0,0,0
+Morelos,2014,10,0,0,0,0
+Nayarit,2014,10,0,0,0,0
+Nuevo León,2014,10,1,1,1,0
+Oaxaca,2014,10,0,0,0,0
+Puebla,2014,10,0,0,0,0
+Querétaro,2014,10,0,0,0,0
+Quintana Roo,2014,10,0,0,0,0
+San Luis Potosí,2014,10,0,0,0,0
+Sinaloa,2014,10,0,0,0,0
+Sonora,2014,10,1,1,1,0
+Tabasco,2014,10,0,0,0,0
+Tamaulipas,2014,10,0,0,0,0
+Tlaxcala,2014,10,0,0,0,0
+Veracruz,2014,10,0,0,0,0
+Yucatán,2014,10,0,0,0,0
+Zacatecas,2014,10,0,0,0,0
+Aguascalientes,2014,11,0,0,0,0
+Baja California,2014,11,0,0,0,0
+Baja California Sur,2014,11,0,0,0,0
+Campeche,2014,11,0,0,0,0
+Coahuila,2014,11,1,1,1,0
+Colima,2014,11,0,0,0,0
+Chiapas,2014,11,0,0,0,0
+Chihuahua,2014,11,0,0,0,0
+Distrito Federal,2014,11,0,0,0,0
+Durango,2014,11,0,0,0,0
+Guanajuato,2014,11,0,0,0,0
+Guerrero,2014,11,0,0,0,0
+Hidalgo,2014,11,0,0,0,0
+Jalisco,2014,11,0,0,0,0
+México,2014,11,0,0,0,0
+Michoacán,2014,11,0,0,0,0
+Morelos,2014,11,0,0,0,0
+Nayarit,2014,11,0,0,0,0
+Nuevo León,2014,11,0,0,0,0
+Oaxaca,2014,11,0,0,0,0
+Puebla,2014,11,0,0,0,0
+Querétaro,2014,11,0,0,0,0
+Quintana Roo,2014,11,0,0,0,0
+San Luis Potosí,2014,11,0,0,0,0
+Sinaloa,2014,11,0,0,0,0
+Sonora,2014,11,3,3,3,0
+Tabasco,2014,11,0,0,0,0
+Tamaulipas,2014,11,0,0,0,0
+Tlaxcala,2014,11,0,0,0,0
+Veracruz,2014,11,0,0,0,0
+Yucatán,2014,11,0,0,0,0
+Zacatecas,2014,11,0,0,0,0
+Aguascalientes,2014,12,0,0,0,0
+Baja California,2014,12,0,0,0,0
+Baja California Sur,2014,12,0,0,0,0
+Campeche,2014,12,0,0,0,0
+Coahuila,2014,12,2,2,2,0
+Colima,2014,12,0,0,0,0
+Chiapas,2014,12,0,0,0,0
+Chihuahua,2014,12,0,0,0,0
+Distrito Federal,2014,12,0,0,0,0
+Durango,2014,12,0,0,0,0
+Guanajuato,2014,12,0,0,0,0
+Guerrero,2014,12,0,0,0,0
+Hidalgo,2014,12,0,0,0,0
+Jalisco,2014,12,0,0,0,0
+México,2014,12,0,0,0,0
+Michoacán,2014,12,0,0,0,0
+Morelos,2014,12,0,0,0,0
+Nayarit,2014,12,0,0,0,0
+Nuevo León,2014,12,0,0,0,0
+Oaxaca,2014,12,0,0,0,0
+Puebla,2014,12,0,0,0,0
+Querétaro,2014,12,0,0,0,0
+Quintana Roo,2014,12,0,0,0,0
+San Luis Potosí,2014,12,0,0,0,0
+Sinaloa,2014,12,0,0,0,0
+Sonora,2014,12,0,0,0,0
+Tabasco,2014,12,0,0,0,0
+Tamaulipas,2014,12,0,0,0,0
+Tlaxcala,2014,12,0,0,0,0
+Veracruz,2014,12,0,0,0,0
+Yucatán,2014,12,0,0,0,0
+Zacatecas,2014,12,0,0,0,0
+Aguascalientes,2014,13,0,0,0,0
+Baja California,2014,13,0,0,0,0
+Baja California Sur,2014,13,0,0,0,0
+Campeche,2014,13,0,0,0,0
+Coahuila,2014,13,2,2,2,0
+Colima,2014,13,0,0,0,0
+Chiapas,2014,13,0,0,0,0
+Chihuahua,2014,13,0,0,0,0
+Distrito Federal,2014,13,0,0,0,0
+Durango,2014,13,0,0,0,0
+Guanajuato,2014,13,0,0,0,0
+Guerrero,2014,13,1,1,1,0
+Hidalgo,2014,13,0,0,0,0
+Jalisco,2014,13,0,0,0,0
+México,2014,13,0,0,0,0
+Michoacán,2014,13,0,0,0,0
+Morelos,2014,13,0,0,0,0
+Nayarit,2014,13,0,0,0,0
+Nuevo León,2014,13,0,0,0,0
+Oaxaca,2014,13,0,0,0,0
+Puebla,2014,13,0,0,0,0
+Querétaro,2014,13,0,0,0,0
+Quintana Roo,2014,13,0,0,0,0
+San Luis Potosí,2014,13,0,0,0,0
+Sinaloa,2014,13,0,0,0,0
+Sonora,2014,13,2,2,2,0
+Tabasco,2014,13,0,0,0,0
+Tamaulipas,2014,13,0,0,0,0
+Tlaxcala,2014,13,0,0,0,0
+Veracruz,2014,13,0,0,0,0
+Yucatán,2014,13,0,0,0,0
+Zacatecas,2014,13,0,0,0,0
+Aguascalientes,2014,14,0,0,0,0
+Baja California,2014,14,0,0,0,0
+Baja California Sur,2014,14,0,0,0,0
+Campeche,2014,14,0,0,0,0
+Coahuila,2014,14,2,2,2,0
+Colima,2014,14,0,0,0,0
+Chiapas,2014,14,0,0,0,0
+Chihuahua,2014,14,0,0,0,0
+Distrito Federal,2014,14,0,0,0,0
+Durango,2014,14,0,0,0,0
+Guanajuato,2014,14,0,0,0,0
+Guerrero,2014,14,0,0,0,0
+Hidalgo,2014,14,0,0,0,0
+Jalisco,2014,14,0,0,0,0
+México,2014,14,0,0,0,0
+Michoacán,2014,14,0,0,0,0
+Morelos,2014,14,0,0,0,0
+Nayarit,2014,14,0,0,0,0
+Nuevo León,2014,14,0,0,0,0
+Oaxaca,2014,14,0,0,0,0
+Puebla,2014,14,0,0,0,0
+Querétaro,2014,14,0,0,0,0
+Quintana Roo,2014,14,0,0,0,0
+San Luis Potosí,2014,14,0,0,0,0
+Sinaloa,2014,14,0,0,0,0
+Sonora,2014,14,0,0,0,0
+Tabasco,2014,14,0,0,0,0
+Tamaulipas,2014,14,0,0,0,0
+Tlaxcala,2014,14,0,0,0,0
+Veracruz,2014,14,0,0,0,0
+Yucatán,2014,14,0,0,0,0
+Zacatecas,2014,14,0,0,0,0
+Aguascalientes,2014,15,0,0,0,0
+Baja California,2014,15,0,0,0,0
+Baja California Sur,2014,15,0,0,0,0
+Campeche,2014,15,0,0,0,0
+Coahuila,2014,15,3,3,3,0
+Colima,2014,15,0,0,0,0
+Chiapas,2014,15,0,0,0,0
+Chihuahua,2014,15,0,0,0,0
+Distrito Federal,2014,15,0,0,0,0
+Durango,2014,15,0,0,0,0
+Guanajuato,2014,15,0,0,0,0
+Guerrero,2014,15,0,0,0,0
+Hidalgo,2014,15,0,0,0,0
+Jalisco,2014,15,0,0,0,0
+México,2014,15,0,0,0,0
+Michoacán,2014,15,0,0,0,0
+Morelos,2014,15,0,0,0,0
+Nayarit,2014,15,0,0,0,0
+Nuevo León,2014,15,0,0,0,0
+Oaxaca,2014,15,0,0,0,0
+Puebla,2014,15,0,0,0,0
+Querétaro,2014,15,0,0,0,0
+Quintana Roo,2014,15,0,0,0,0
+San Luis Potosí,2014,15,0,0,0,0
+Sinaloa,2014,15,0,0,0,0
+Sonora,2014,15,1,1,1,0
+Tabasco,2014,15,0,0,0,0
+Tamaulipas,2014,15,0,0,0,0
+Tlaxcala,2014,15,0,0,0,0
+Veracruz,2014,15,0,0,0,0
+Yucatán,2014,15,0,0,0,0
+Zacatecas,2014,15,0,0,0,0
+Aguascalientes,2014,16,0,0,0,0
+Baja California,2014,16,0,0,0,0
+Baja California Sur,2014,16,0,0,0,0
+Campeche,2014,16,0,0,0,0
+Coahuila,2014,16,1,1,1,0
+Colima,2014,16,0,0,0,0
+Chiapas,2014,16,0,0,0,0
+Chihuahua,2014,16,0,0,0,0
+Distrito Federal,2014,16,0,0,0,0
+Durango,2014,16,0,0,0,0
+Guanajuato,2014,16,0,0,0,0
+Guerrero,2014,16,0,0,0,0
+Hidalgo,2014,16,0,0,0,0
+Jalisco,2014,16,0,0,0,0
+México,2014,16,0,0,0,0
+Michoacán,2014,16,0,0,0,0
+Morelos,2014,16,0,0,0,0
+Nayarit,2014,16,0,0,0,0
+Nuevo León,2014,16,0,0,0,0
+Oaxaca,2014,16,0,0,0,0
+Puebla,2014,16,0,0,0,0
+Querétaro,2014,16,0,0,0,0
+Quintana Roo,2014,16,0,0,0,0
+San Luis Potosí,2014,16,0,0,0,0
+Sinaloa,2014,16,0,0,0,0
+Sonora,2014,16,2,2,2,0
+Tabasco,2014,16,0,0,0,0
+Tamaulipas,2014,16,0,0,0,0
+Tlaxcala,2014,16,0,0,0,0
+Veracruz,2014,16,0,0,0,0
+Yucatán,2014,16,0,0,0,0
+Zacatecas,2014,16,0,0,0,0
+Aguascalientes,2014,17,0,0,0,0
+Baja California,2014,17,0,0,0,0
+Baja California Sur,2014,17,0,0,0,0
+Campeche,2014,17,0,0,0,0
+Coahuila,2014,17,2,2,2,0
+Colima,2014,17,0,0,0,0
+Chiapas,2014,17,0,0,0,0
+Chihuahua,2014,17,0,0,0,0
+Distrito Federal,2014,17,0,0,0,0
+Durango,2014,17,0,0,0,0
+Guanajuato,2014,17,0,0,0,0
+Guerrero,2014,17,0,0,0,0
+Hidalgo,2014,17,0,0,0,0
+Jalisco,2014,17,0,0,0,0
+México,2014,17,0,0,0,0
+Michoacán,2014,17,0,0,0,0
+Morelos,2014,17,0,0,0,0
+Nayarit,2014,17,0,0,0,0
+Nuevo León,2014,17,0,0,0,0
+Oaxaca,2014,17,0,0,0,0
+Puebla,2014,17,0,0,0,0
+Querétaro,2014,17,0,0,0,0
+Quintana Roo,2014,17,0,0,0,0
+San Luis Potosí,2014,17,0,0,0,0
+Sinaloa,2014,17,0,0,0,0
+Sonora,2014,17,1,1,1,0
+Tabasco,2014,17,0,0,0,0
+Tamaulipas,2014,17,0,0,0,0
+Tlaxcala,2014,17,0,0,0,0
+Veracruz,2014,17,0,0,0,0
+Yucatán,2014,17,0,0,0,0
+Zacatecas,2014,17,0,0,0,0
+Aguascalientes,2014,18,0,0,0,0
+Baja California,2014,18,0,0,0,0
+Baja California Sur,2014,18,1,1,1,0
+Campeche,2014,18,0,0,0,0
+Coahuila,2014,18,2,2,2,0
+Colima,2014,18,0,0,0,0
+Chiapas,2014,18,0,0,0,0
+Chihuahua,2014,18,0,0,0,0
+Distrito Federal,2014,18,0,0,0,0
+Durango,2014,18,0,0,0,0
+Guanajuato,2014,18,0,0,0,0
+Guerrero,2014,18,1,1,1,0
+Hidalgo,2014,18,0,0,0,0
+Jalisco,2014,18,0,0,0,0
+México,2014,18,0,0,0,0
+Michoacán,2014,18,0,0,0,0
+Morelos,2014,18,0,0,0,0
+Nayarit,2014,18,0,0,0,0
+Nuevo León,2014,18,0,0,0,0
+Oaxaca,2014,18,0,0,0,0
+Puebla,2014,18,0,0,0,0
+Querétaro,2014,18,0,0,0,0
+Quintana Roo,2014,18,0,0,0,0
+San Luis Potosí,2014,18,0,0,0,0
+Sinaloa,2014,18,0,0,0,0
+Sonora,2014,18,1,1,1,0
+Tabasco,2014,18,0,0,0,0
+Tamaulipas,2014,18,0,0,0,0
+Tlaxcala,2014,18,0,0,0,0
+Veracruz,2014,18,0,0,0,0
+Yucatán,2014,18,0,0,0,0
+Zacatecas,2014,18,0,0,0,0
+Aguascalientes,2014,19,0,0,0,0
+Baja California,2014,19,0,0,0,0
+Baja California Sur,2014,19,0,0,0,0
+Campeche,2014,19,0,0,0,0
+Coahuila,2014,19,1,1,1,0
+Colima,2014,19,0,0,0,0
+Chiapas,2014,19,0,0,0,0
+Chihuahua,2014,19,0,0,0,0
+Distrito Federal,2014,19,0,0,0,0
+Durango,2014,19,0,0,0,0
+Guanajuato,2014,19,0,0,0,0
+Guerrero,2014,19,0,0,0,0
+Hidalgo,2014,19,0,0,0,0
+Jalisco,2014,19,0,0,0,0
+México,2014,19,0,0,0,0
+Michoacán,2014,19,0,0,0,0
+Morelos,2014,19,0,0,0,0
+Nayarit,2014,19,0,0,0,0
+Nuevo León,2014,19,0,0,0,0
+Oaxaca,2014,19,0,0,0,0
+Puebla,2014,19,0,0,0,0
+Querétaro,2014,19,0,0,0,0
+Quintana Roo,2014,19,0,0,0,0
+San Luis Potosí,2014,19,0,0,0,0
+Sinaloa,2014,19,0,0,0,0
+Sonora,2014,19,1,1,1,0
+Tabasco,2014,19,0,0,0,0
+Tamaulipas,2014,19,0,0,0,0
+Tlaxcala,2014,19,0,0,0,0
+Veracruz,2014,19,0,0,0,0
+Yucatán,2014,19,0,0,0,0
+Zacatecas,2014,19,0,0,0,0
+Aguascalientes,2014,20,0,0,0,0
+Baja California,2014,20,3,3,3,0
+Baja California Sur,2014,20,1,1,1,0
+Campeche,2014,20,0,0,0,0
+Coahuila,2014,20,1,1,1,0
+Colima,2014,20,0,0,0,0
+Chiapas,2014,20,0,0,0,0
+Chihuahua,2014,20,0,0,0,0
+Distrito Federal,2014,20,0,0,0,0
+Durango,2014,20,0,0,0,0
+Guanajuato,2014,20,0,0,0,0
+Guerrero,2014,20,0,0,0,0
+Hidalgo,2014,20,0,0,0,0
+Jalisco,2014,20,0,0,0,0
+México,2014,20,0,0,0,0
+Michoacán,2014,20,0,0,0,0
+Morelos,2014,20,0,0,0,0
+Nayarit,2014,20,0,0,0,0
+Nuevo León,2014,20,0,0,0,0
+Oaxaca,2014,20,0,0,0,0
+Puebla,2014,20,0,0,0,0
+Querétaro,2014,20,0,0,0,0
+Quintana Roo,2014,20,0,0,0,0
+San Luis Potosí,2014,20,0,0,0,0
+Sinaloa,2014,20,0,0,0,0
+Sonora,2014,20,0,0,0,0
+Tabasco,2014,20,0,0,0,0
+Tamaulipas,2014,20,0,0,0,0
+Tlaxcala,2014,20,0,0,0,0
+Veracruz,2014,20,0,0,0,0
+Yucatán,2014,20,0,0,0,0
+Zacatecas,2014,20,0,0,0,0
+Aguascalientes,2014,21,0,0,0,0
+Baja California,2014,21,0,0,0,0
+Baja California Sur,2014,21,0,0,0,0
+Campeche,2014,21,0,0,0,0
+Coahuila,2014,21,1,1,1,0
+Colima,2014,21,0,0,0,0
+Chiapas,2014,21,0,0,0,0
+Chihuahua,2014,21,0,0,0,0
+Distrito Federal,2014,21,0,0,0,0
+Durango,2014,21,0,0,0,0
+Guanajuato,2014,21,0,0,0,0
+Guerrero,2014,21,0,0,0,0
+Hidalgo,2014,21,0,0,0,0
+Jalisco,2014,21,0,0,0,0
+México,2014,21,0,0,0,0
+Michoacán,2014,21,0,0,0,0
+Morelos,2014,21,0,0,0,0
+Nayarit,2014,21,0,0,0,0
+Nuevo León,2014,21,0,0,0,0
+Oaxaca,2014,21,0,0,0,0
+Puebla,2014,21,0,0,0,0
+Querétaro,2014,21,0,0,0,0
+Quintana Roo,2014,21,0,0,0,0
+San Luis Potosí,2014,21,0,0,0,0
+Sinaloa,2014,21,0,0,0,0
+Sonora,2014,21,0,0,0,0
+Tabasco,2014,21,0,0,0,0
+Tamaulipas,2014,21,0,0,0,0
+Tlaxcala,2014,21,0,0,0,0
+Veracruz,2014,21,0,0,0,0
+Yucatán,2014,21,0,0,0,0
+Zacatecas,2014,21,0,0,0,0
+Aguascalientes,2014,22,0,0,0,0
+Baja California,2014,22,3,3,3,0
+Baja California Sur,2014,22,0,0,0,0
+Campeche,2014,22,0,0,0,0
+Coahuila,2014,22,2,2,2,0
+Colima,2014,22,0,0,0,0
+Chiapas,2014,22,0,0,0,0
+Chihuahua,2014,22,0,0,0,0
+Distrito Federal,2014,22,0,0,0,0
+Durango,2014,22,0,0,0,0
+Guanajuato,2014,22,0,0,0,0
+Guerrero,2014,22,0,0,0,0
+Hidalgo,2014,22,0,0,0,0
+Jalisco,2014,22,0,0,0,0
+México,2014,22,0,0,0,0
+Michoacán,2014,22,0,0,0,0
+Morelos,2014,22,0,0,0,0
+Nayarit,2014,22,0,0,0,0
+Nuevo León,2014,22,0,0,0,0
+Oaxaca,2014,22,0,0,0,0
+Puebla,2014,22,0,0,0,0
+Querétaro,2014,22,0,0,0,0
+Quintana Roo,2014,22,0,0,0,0
+San Luis Potosí,2014,22,0,0,0,0
+Sinaloa,2014,22,0,0,0,0
+Sonora,2014,22,2,2,2,0
+Tabasco,2014,22,0,0,0,0
+Tamaulipas,2014,22,0,0,0,0
+Tlaxcala,2014,22,0,0,0,0
+Veracruz,2014,22,0,0,0,0
+Yucatán,2014,22,0,0,0,0
+Zacatecas,2014,22,0,0,0,0
+Aguascalientes,2014,23,0,0,0,0
+Baja California,2014,23,0,0,0,0
+Baja California Sur,2014,23,1,1,1,0
+Campeche,2014,23,0,0,0,0
+Coahuila,2014,23,4,4,4,0
+Colima,2014,23,0,0,0,0
+Chiapas,2014,23,0,0,0,0
+Chihuahua,2014,23,0,0,0,0
+Distrito Federal,2014,23,0,0,0,0
+Durango,2014,23,0,0,0,0
+Guanajuato,2014,23,0,0,0,0
+Guerrero,2014,23,0,0,0,0
+Hidalgo,2014,23,0,0,0,0
+Jalisco,2014,23,0,0,0,0
+México,2014,23,0,0,0,0
+Michoacán,2014,23,0,0,0,0
+Morelos,2014,23,0,0,0,0
+Nayarit,2014,23,0,0,0,0
+Nuevo León,2014,23,0,0,0,0
+Oaxaca,2014,23,0,0,0,0
+Puebla,2014,23,0,0,0,0
+Querétaro,2014,23,0,0,0,0
+Quintana Roo,2014,23,0,0,0,0
+San Luis Potosí,2014,23,0,0,0,0
+Sinaloa,2014,23,0,0,0,0
+Sonora,2014,23,3,3,3,0
+Tabasco,2014,23,0,0,0,0
+Tamaulipas,2014,23,0,0,0,0
+Tlaxcala,2014,23,0,0,0,0
+Veracruz,2014,23,0,0,0,0
+Yucatán,2014,23,0,0,0,0
+Zacatecas,2014,23,0,0,0,0
+Aguascalientes,2014,24,0,0,0,0
+Baja California,2014,24,3,3,3,0
+Baja California Sur,2014,24,2,2,2,0
+Campeche,2014,24,0,0,0,0
+Coahuila,2014,24,0,0,0,0
+Colima,2014,24,0,0,0,0
+Chiapas,2014,24,0,0,0,0
+Chihuahua,2014,24,0,0,0,0
+Distrito Federal,2014,24,0,0,0,0
+Durango,2014,24,0,0,0,0
+Guanajuato,2014,24,0,0,0,0
+Guerrero,2014,24,0,0,0,0
+Hidalgo,2014,24,0,0,0,0
+Jalisco,2014,24,0,0,0,0
+México,2014,24,0,0,0,0
+Michoacán,2014,24,0,0,0,0
+Morelos,2014,24,0,0,0,0
+Nayarit,2014,24,0,0,0,0
+Nuevo León,2014,24,0,0,0,0
+Oaxaca,2014,24,0,0,0,0
+Puebla,2014,24,0,0,0,0
+Querétaro,2014,24,0,0,0,0
+Quintana Roo,2014,24,0,0,0,0
+San Luis Potosí,2014,24,0,0,0,0
+Sinaloa,2014,24,0,0,0,0
+Sonora,2014,24,2,2,2,0
+Tabasco,2014,24,0,0,0,0
+Tamaulipas,2014,24,0,0,0,0
+Tlaxcala,2014,24,0,0,0,0
+Veracruz,2014,24,0,0,0,0
+Yucatán,2014,24,0,0,0,0
+Zacatecas,2014,24,0,0,0,0
+Aguascalientes,2014,25,0,0,0,0
+Baja California,2014,25,1,1,1,0
+Baja California Sur,2014,25,0,0,0,0
+Campeche,2014,25,0,0,0,0
+Coahuila,2014,25,1,1,1,0
+Colima,2014,25,0,0,0,0
+Chiapas,2014,25,0,0,0,0
+Chihuahua,2014,25,0,0,0,0
+Distrito Federal,2014,25,0,0,0,0
+Durango,2014,25,0,0,0,0
+Guanajuato,2014,25,0,0,0,0
+Guerrero,2014,25,0,0,0,0
+Hidalgo,2014,25,0,0,0,0
+Jalisco,2014,25,0,0,0,0
+México,2014,25,0,0,0,0
+Michoacán,2014,25,0,0,0,0
+Morelos,2014,25,0,0,0,0
+Nayarit,2014,25,0,0,0,0
+Nuevo León,2014,25,0,0,0,0
+Oaxaca,2014,25,0,0,0,0
+Puebla,2014,25,0,0,0,0
+Querétaro,2014,25,0,0,0,0
+Quintana Roo,2014,25,0,0,0,0
+San Luis Potosí,2014,25,0,0,0,0
+Sinaloa,2014,25,0,0,0,0
+Sonora,2014,25,2,2,2,0
+Tabasco,2014,25,0,0,0,0
+Tamaulipas,2014,25,0,0,0,0
+Tlaxcala,2014,25,0,0,0,0
+Veracruz,2014,25,0,0,0,0
+Yucatán,2014,25,0,0,0,0
+Zacatecas,2014,25,0,0,0,0
+Aguascalientes,2014,26,0,0,0,0
+Baja California,2014,26,0,0,0,0
+Baja California Sur,2014,26,0,0,0,0
+Campeche,2014,26,0,0,0,0
+Coahuila,2014,26,1,1,1,0
+Colima,2014,26,0,0,0,0
+Chiapas,2014,26,0,0,0,0
+Chihuahua,2014,26,0,0,0,0
+Distrito Federal,2014,26,0,0,0,0
+Durango,2014,26,0,0,0,0
+Guanajuato,2014,26,0,0,0,0
+Guerrero,2014,26,0,0,0,0
+Hidalgo,2014,26,0,0,0,0
+Jalisco,2014,26,0,0,0,0
+México,2014,26,0,0,0,0
+Michoacán,2014,26,0,0,0,0
+Morelos,2014,26,0,0,0,0
+Nayarit,2014,26,0,0,0,0
+Nuevo León,2014,26,0,0,0,0
+Oaxaca,2014,26,0,0,0,0
+Puebla,2014,26,0,0,0,0
+Querétaro,2014,26,0,0,0,0
+Quintana Roo,2014,26,0,0,0,0
+San Luis Potosí,2014,26,0,0,0,0
+Sinaloa,2014,26,0,0,0,0
+Sonora,2014,26,1,1,1,0
+Tabasco,2014,26,0,0,0,0
+Tamaulipas,2014,26,0,0,0,0
+Tlaxcala,2014,26,0,0,0,0
+Veracruz,2014,26,0,0,0,0
+Yucatán,2014,26,0,0,0,0
+Zacatecas,2014,26,0,0,0,0
+Aguascalientes,2014,27,0,0,0,0
+Baja California,2014,27,2,2,2,0
+Baja California Sur,2014,27,2,2,2,0
+Campeche,2014,27,0,0,0,0
+Coahuila,2014,27,0,0,0,0
+Colima,2014,27,0,0,0,0
+Chiapas,2014,27,0,0,0,0
+Chihuahua,2014,27,0,0,0,0
+Distrito Federal,2014,27,0,0,0,0
+Durango,2014,27,0,0,0,0
+Guanajuato,2014,27,0,0,0,0
+Guerrero,2014,27,0,0,0,0
+Hidalgo,2014,27,0,0,0,0
+Jalisco,2014,27,0,0,0,0
+México,2014,27,0,0,0,0
+Michoacán,2014,27,0,0,0,0
+Morelos,2014,27,0,0,0,0
+Nayarit,2014,27,0,0,0,0
+Nuevo León,2014,27,0,0,0,0
+Oaxaca,2014,27,0,0,0,0
+Puebla,2014,27,0,0,0,0
+Querétaro,2014,27,0,0,0,0
+Quintana Roo,2014,27,0,0,0,0
+San Luis Potosí,2014,27,0,0,0,0
+Sinaloa,2014,27,0,0,0,0
+Sonora,2014,27,8,8,8,0
+Tabasco,2014,27,0,0,0,0
+Tamaulipas,2014,27,0,0,0,0
+Tlaxcala,2014,27,0,0,0,0
+Veracruz,2014,27,0,0,0,0
+Yucatán,2014,27,0,0,0,0
+Zacatecas,2014,27,0,0,0,0
+Aguascalientes,2014,28,0,0,0,0
+Baja California,2014,28,1,1,1,0
+Baja California Sur,2014,28,5,5,5,0
+Campeche,2014,28,0,0,0,0
+Coahuila,2014,28,1,1,1,0
+Colima,2014,28,0,0,0,0
+Chiapas,2014,28,0,0,0,0
+Chihuahua,2014,28,0,0,0,0
+Distrito Federal,2014,28,0,0,0,0
+Durango,2014,28,0,0,0,0
+Guanajuato,2014,28,0,0,0,0
+Guerrero,2014,28,0,0,0,0
+Hidalgo,2014,28,0,0,0,0
+Jalisco,2014,28,0,0,0,0
+México,2014,28,0,0,0,0
+Michoacán,2014,28,0,0,0,0
+Morelos,2014,28,0,0,0,0
+Nayarit,2014,28,0,0,0,0
+Nuevo León,2014,28,0,0,0,0
+Oaxaca,2014,28,0,0,0,0
+Puebla,2014,28,0,0,0,0
+Querétaro,2014,28,0,0,0,0
+Quintana Roo,2014,28,0,0,0,0
+San Luis Potosí,2014,28,0,0,0,0
+Sinaloa,2014,28,0,0,0,0
+Sonora,2014,28,1,1,1,0
+Tabasco,2014,28,0,0,0,0
+Tamaulipas,2014,28,0,0,0,0
+Tlaxcala,2014,28,0,0,0,0
+Veracruz,2014,28,0,0,0,0
+Yucatán,2014,28,0,0,0,0
+Zacatecas,2014,28,0,0,0,0
+Aguascalientes,2014,29,0,0,0,0
+Baja California,2014,29,0,0,0,0
+Baja California Sur,2014,29,1,1,1,0
+Campeche,2014,29,0,0,0,0
+Coahuila,2014,29,2,2,2,0
+Colima,2014,29,0,0,0,0
+Chiapas,2014,29,0,0,0,0
+Chihuahua,2014,29,0,0,0,0
+Distrito Federal,2014,29,0,0,0,0
+Durango,2014,29,0,0,0,0
+Guanajuato,2014,29,0,0,0,0
+Guerrero,2014,29,0,0,0,0
+Hidalgo,2014,29,0,0,0,0
+Jalisco,2014,29,0,0,0,0
+México,2014,29,0,0,0,0
+Michoacán,2014,29,0,0,0,0
+Morelos,2014,29,0,0,0,0
+Nayarit,2014,29,0,0,0,0
+Nuevo León,2014,29,0,0,0,0
+Oaxaca,2014,29,0,0,0,0
+Puebla,2014,29,0,0,0,0
+Querétaro,2014,29,0,0,0,0
+Quintana Roo,2014,29,0,0,0,0
+San Luis Potosí,2014,29,0,0,0,0
+Sinaloa,2014,29,0,0,0,0
+Sonora,2014,29,2,2,2,0
+Tabasco,2014,29,0,0,0,0
+Tamaulipas,2014,29,0,0,0,0
+Tlaxcala,2014,29,0,0,0,0
+Veracruz,2014,29,0,0,0,0
+Yucatán,2014,29,0,0,0,0
+Zacatecas,2014,29,0,0,0,0
+Aguascalientes,2014,30,0,0,0,0
+Baja California,2014,30,0,0,0,0
+Baja California Sur,2014,30,1,1,1,0
+Campeche,2014,30,0,0,0,0
+Coahuila,2014,30,0,0,0,0
+Colima,2014,30,0,0,0,0
+Chiapas,2014,30,0,0,0,0
+Chihuahua,2014,30,0,0,0,0
+Distrito Federal,2014,30,0,0,0,0
+Durango,2014,30,0,0,0,0
+Guanajuato,2014,30,0,0,0,0
+Guerrero,2014,30,0,0,0,0
+Hidalgo,2014,30,0,0,0,0
+Jalisco,2014,30,0,0,0,0
+México,2014,30,0,0,0,0
+Michoacán,2014,30,0,0,0,0
+Morelos,2014,30,0,0,0,0
+Nayarit,2014,30,0,0,0,0
+Nuevo León,2014,30,0,0,0,0
+Oaxaca,2014,30,0,0,0,0
+Puebla,2014,30,0,0,0,0
+Querétaro,2014,30,0,0,0,0
+Quintana Roo,2014,30,0,0,0,0
+San Luis Potosí,2014,30,0,0,0,0
+Sinaloa,2014,30,0,0,0,0
+Sonora,2014,30,0,0,0,0
+Tabasco,2014,30,0,0,0,0
+Tamaulipas,2014,30,0,0,0,0
+Tlaxcala,2014,30,0,0,0,0
+Veracruz,2014,30,0,0,0,0
+Yucatán,2014,30,0,0,0,0
+Zacatecas,2014,30,0,0,0,0
+Aguascalientes,2014,31,0,0,0,0
+Baja California,2014,31,1,1,1,0
+Baja California Sur,2014,31,0,0,0,0
+Campeche,2014,31,0,0,0,0
+Coahuila,2014,31,0,0,0,0
+Colima,2014,31,0,0,0,0
+Chiapas,2014,31,0,0,0,0
+Chihuahua,2014,31,0,0,0,0
+Distrito Federal,2014,31,0,0,0,0
+Durango,2014,31,0,0,0,0
+Guanajuato,2014,31,1,1,1,0
+Guerrero,2014,31,0,0,0,0
+Hidalgo,2014,31,0,0,0,0
+Jalisco,2014,31,0,0,0,0
+México,2014,31,0,0,0,0
+Michoacán,2014,31,0,0,0,0
+Morelos,2014,31,0,0,0,0
+Nayarit,2014,31,0,0,0,0
+Nuevo León,2014,31,0,0,0,0
+Oaxaca,2014,31,0,0,0,0
+Puebla,2014,31,0,0,0,0
+Querétaro,2014,31,0,0,0,0
+Quintana Roo,2014,31,0,0,0,0
+San Luis Potosí,2014,31,0,0,0,0
+Sinaloa,2014,31,0,0,0,0
+Sonora,2014,31,3,3,3,0
+Tabasco,2014,31,0,0,0,0
+Tamaulipas,2014,31,0,0,0,0
+Tlaxcala,2014,31,0,0,0,0
+Veracruz,2014,31,0,0,0,0
+Yucatán,2014,31,0,0,0,0
+Zacatecas,2014,31,0,0,0,0
+Aguascalientes,2014,32,0,0,0,0
+Baja California,2014,32,0,0,0,0
+Baja California Sur,2014,32,1,1,1,0
+Campeche,2014,32,0,0,0,0
+Coahuila,2014,32,1,1,1,0
+Colima,2014,32,0,0,0,0
+Chiapas,2014,32,0,0,0,0
+Chihuahua,2014,32,0,0,0,0
+Distrito Federal,2014,32,0,0,0,0
+Durango,2014,32,0,0,0,0
+Guanajuato,2014,32,0,0,0,0
+Guerrero,2014,32,2,2,2,0
+Hidalgo,2014,32,0,0,0,0
+Jalisco,2014,32,0,0,0,0
+México,2014,32,0,0,0,0
+Michoacán,2014,32,0,0,0,0
+Morelos,2014,32,0,0,0,0
+Nayarit,2014,32,0,0,0,0
+Nuevo León,2014,32,0,0,0,0
+Oaxaca,2014,32,0,0,0,0
+Puebla,2014,32,0,0,0,0
+Querétaro,2014,32,0,0,0,0
+Quintana Roo,2014,32,0,0,0,0
+San Luis Potosí,2014,32,0,0,0,0
+Sinaloa,2014,32,0,0,0,0
+Sonora,2014,32,4,4,4,0
+Tabasco,2014,32,0,0,0,0
+Tamaulipas,2014,32,0,0,0,0
+Tlaxcala,2014,32,0,0,0,0
+Veracruz,2014,32,0,0,0,0
+Yucatán,2014,32,0,0,0,0
+Zacatecas,2014,32,0,0,0,0
+Aguascalientes,2014,33,0,0,0,0
+Baja California,2014,33,0,0,0,0
+Baja California Sur,2014,33,1,1,1,0
+Campeche,2014,33,0,0,0,0
+Coahuila,2014,33,0,0,0,0
+Colima,2014,33,0,0,0,0
+Chiapas,2014,33,0,0,0,0
+Chihuahua,2014,33,0,0,0,0
+Distrito Federal,2014,33,0,0,0,0
+Durango,2014,33,0,0,0,0
+Guanajuato,2014,33,0,0,0,0
+Guerrero,2014,33,0,0,0,0
+Hidalgo,2014,33,0,0,0,0
+Jalisco,2014,33,0,0,0,0
+México,2014,33,0,0,0,0
+Michoacán,2014,33,0,0,0,0
+Morelos,2014,33,0,0,0,0
+Nayarit,2014,33,0,0,0,0
+Nuevo León,2014,33,0,0,0,0
+Oaxaca,2014,33,0,0,0,0
+Puebla,2014,33,0,0,0,0
+Querétaro,2014,33,0,0,0,0
+Quintana Roo,2014,33,0,0,0,0
+San Luis Potosí,2014,33,0,0,0,0
+Sinaloa,2014,33,1,1,1,0
+Sonora,2014,33,1,1,1,0
+Tabasco,2014,33,0,0,0,0
+Tamaulipas,2014,33,0,0,0,0
+Tlaxcala,2014,33,0,0,0,0
+Veracruz,2014,33,0,0,0,0
+Yucatán,2014,33,0,0,0,0
+Zacatecas,2014,33,0,0,0,0
+Aguascalientes,2014,34,0,0,0,0
+Baja California,2014,34,0,0,0,0
+Baja California Sur,2014,34,1,1,1,0
+Campeche,2014,34,0,0,0,0
+Coahuila,2014,34,0,0,0,0
+Colima,2014,34,0,0,0,0
+Chiapas,2014,34,0,0,0,0
+Chihuahua,2014,34,0,0,0,0
+Distrito Federal,2014,34,0,0,0,0
+Durango,2014,34,0,0,0,0
+Guanajuato,2014,34,0,0,0,0
+Guerrero,2014,34,0,0,0,0
+Hidalgo,2014,34,0,0,0,0
+Jalisco,2014,34,0,0,0,0
+México,2014,34,0,0,0,0
+Michoacán,2014,34,0,0,0,0
+Morelos,2014,34,0,0,0,0
+Nayarit,2014,34,0,0,0,0
+Nuevo León,2014,34,0,0,0,0
+Oaxaca,2014,34,0,0,0,0
+Puebla,2014,34,0,0,0,0
+Querétaro,2014,34,0,0,0,0
+Quintana Roo,2014,34,0,0,0,0
+San Luis Potosí,2014,34,0,0,0,0
+Sinaloa,2014,34,0,0,0,0
+Sonora,2014,34,3,3,3,0
+Tabasco,2014,34,0,0,0,0
+Tamaulipas,2014,34,0,0,0,0
+Tlaxcala,2014,34,0,0,0,0
+Veracruz,2014,34,0,0,0,0
+Yucatán,2014,34,0,0,0,0
+Zacatecas,2014,34,0,0,0,0
+Aguascalientes,2014,35,0,0,0,0
+Baja California,2014,35,0,0,0,0
+Baja California Sur,2014,35,0,0,0,0
+Campeche,2014,35,0,0,0,0
+Coahuila,2014,35,0,0,0,0
+Colima,2014,35,0,0,0,0
+Chiapas,2014,35,0,0,0,0
+Chihuahua,2014,35,0,0,0,0
+Distrito Federal,2014,35,0,0,0,0
+Durango,2014,35,0,0,0,0
+Guanajuato,2014,35,0,0,0,0
+Guerrero,2014,35,0,0,0,0
+Hidalgo,2014,35,0,0,0,0
+Jalisco,2014,35,0,0,0,0
+México,2014,35,0,0,0,0
+Michoacán,2014,35,0,0,0,0
+Morelos,2014,35,0,0,0,0
+Nayarit,2014,35,0,0,0,0
+Nuevo León,2014,35,0,0,0,0
+Oaxaca,2014,35,0,0,0,0
+Puebla,2014,35,0,0,0,0
+Querétaro,2014,35,0,0,0,0
+Quintana Roo,2014,35,0,0,0,0
+San Luis Potosí,2014,35,0,0,0,0
+Sinaloa,2014,35,0,0,0,0
+Sonora,2014,35,3,3,3,0
+Tabasco,2014,35,0,0,0,0
+Tamaulipas,2014,35,0,0,0,0
+Tlaxcala,2014,35,0,0,0,0
+Veracruz,2014,35,0,0,0,0
+Yucatán,2014,35,0,0,0,0
+Zacatecas,2014,35,0,0,0,0
+Aguascalientes,2014,36,0,0,0,0
+Baja California,2014,36,0,0,0,0
+Baja California Sur,2014,36,1,1,1,0
+Campeche,2014,36,0,0,0,0
+Coahuila,2014,36,2,2,2,0
+Colima,2014,36,0,0,0,0
+Chiapas,2014,36,0,0,0,0
+Chihuahua,2014,36,1,1,1,0
+Distrito Federal,2014,36,0,0,0,0
+Durango,2014,36,0,0,0,0
+Guanajuato,2014,36,0,0,0,0
+Guerrero,2014,36,0,0,0,0
+Hidalgo,2014,36,0,0,0,0
+Jalisco,2014,36,0,0,0,0
+México,2014,36,0,0,0,0
+Michoacán,2014,36,0,0,0,0
+Morelos,2014,36,0,0,0,0
+Nayarit,2014,36,0,0,0,0
+Nuevo León,2014,36,0,0,0,0
+Oaxaca,2014,36,0,0,0,0
+Puebla,2014,36,0,0,0,0
+Querétaro,2014,36,0,0,0,0
+Quintana Roo,2014,36,0,0,0,0
+San Luis Potosí,2014,36,0,0,0,0
+Sinaloa,2014,36,1,1,1,0
+Sonora,2014,36,0,0,0,0
+Tabasco,2014,36,0,0,0,0
+Tamaulipas,2014,36,0,0,0,0
+Tlaxcala,2014,36,0,0,0,0
+Veracruz,2014,36,0,0,0,0
+Yucatán,2014,36,0,0,0,0
+Zacatecas,2014,36,0,0,0,0
+Aguascalientes,2014,37,0,0,0,0
+Baja California,2014,37,0,0,0,0
+Baja California Sur,2014,37,1,1,1,0
+Campeche,2014,37,0,0,0,0
+Coahuila,2014,37,1,1,1,0
+Colima,2014,37,0,0,0,0
+Chiapas,2014,37,0,0,0,0
+Chihuahua,2014,37,0,0,0,0
+Distrito Federal,2014,37,0,0,0,0
+Durango,2014,37,0,0,0,0
+Guanajuato,2014,37,0,0,0,0
+Guerrero,2014,37,0,0,0,0
+Hidalgo,2014,37,0,0,0,0
+Jalisco,2014,37,0,0,0,0
+México,2014,37,0,0,0,0
+Michoacán,2014,37,0,0,0,0
+Morelos,2014,37,0,0,0,0
+Nayarit,2014,37,0,0,0,0
+Nuevo León,2014,37,0,0,0,0
+Oaxaca,2014,37,0,0,0,0
+Puebla,2014,37,0,0,0,0
+Querétaro,2014,37,0,0,0,0
+Quintana Roo,2014,37,0,0,0,0
+San Luis Potosí,2014,37,0,0,0,0
+Sinaloa,2014,37,1,1,1,0
+Sonora,2014,37,1,1,1,0
+Tabasco,2014,37,0,0,0,0
+Tamaulipas,2014,37,0,0,0,0
+Tlaxcala,2014,37,0,0,0,0
+Veracruz,2014,37,0,0,0,0
+Yucatán,2014,37,0,0,0,0
+Zacatecas,2014,37,0,0,0,0
+Aguascalientes,2014,38,0,0,0,0
+Baja California,2014,38,5,5,5,0
+Baja California Sur,2014,38,0,0,0,0
+Campeche,2014,38,0,0,0,0
+Coahuila,2014,38,2,2,2,0
+Colima,2014,38,0,0,0,0
+Chiapas,2014,38,0,0,0,0
+Chihuahua,2014,38,0,0,0,0
+Distrito Federal,2014,38,0,0,0,0
+Durango,2014,38,0,0,0,0
+Guanajuato,2014,38,0,0,0,0
+Guerrero,2014,38,0,0,0,0
+Hidalgo,2014,38,0,0,0,0
+Jalisco,2014,38,0,0,0,0
+México,2014,38,0,0,0,0
+Michoacán,2014,38,0,0,0,0
+Morelos,2014,38,0,0,0,0
+Nayarit,2014,38,0,0,0,0
+Nuevo León,2014,38,1,1,1,0
+Oaxaca,2014,38,0,0,0,0
+Puebla,2014,38,0,0,0,0
+Querétaro,2014,38,0,0,0,0
+Quintana Roo,2014,38,0,0,0,0
+San Luis Potosí,2014,38,0,0,0,0
+Sinaloa,2014,38,0,0,0,0
+Sonora,2014,38,3,3,3,0
+Tabasco,2014,38,0,0,0,0
+Tamaulipas,2014,38,0,0,0,0
+Tlaxcala,2014,38,0,0,0,0
+Veracruz,2014,38,0,0,0,0
+Yucatán,2014,38,0,0,0,0
+Zacatecas,2014,38,0,0,0,0
+Aguascalientes,2014,39,0,0,0,0
+Baja California,2014,39,1,1,1,0
+Baja California Sur,2014,39,1,1,1,0
+Campeche,2014,39,0,0,0,0
+Coahuila,2014,39,1,1,1,0
+Colima,2014,39,0,0,0,0
+Chiapas,2014,39,0,0,0,0
+Chihuahua,2014,39,0,0,0,0
+Distrito Federal,2014,39,0,0,0,0
+Durango,2014,39,0,0,0,0
+Guanajuato,2014,39,0,0,0,0
+Guerrero,2014,39,0,0,0,0
+Hidalgo,2014,39,0,0,0,0
+Jalisco,2014,39,0,0,0,0
+México,2014,39,0,0,0,0
+Michoacán,2014,39,0,0,0,0
+Morelos,2014,39,0,0,0,0
+Nayarit,2014,39,0,0,0,0
+Nuevo León,2014,39,0,0,0,0
+Oaxaca,2014,39,0,0,0,0
+Puebla,2014,39,0,0,0,0
+Querétaro,2014,39,0,0,0,0
+Quintana Roo,2014,39,3,3,3,0
+San Luis Potosí,2014,39,0,0,0,0
+Sinaloa,2014,39,0,0,0,0
+Sonora,2014,39,1,1,1,0
+Tabasco,2014,39,0,0,0,0
+Tamaulipas,2014,39,0,0,0,0
+Tlaxcala,2014,39,0,0,0,0
+Veracruz,2014,39,0,0,0,0
+Yucatán,2014,39,0,0,0,0
+Zacatecas,2014,39,0,0,0,0
+Aguascalientes,2014,40,0,0,0,0
+Baja California,2014,40,1,1,1,0
+Baja California Sur,2014,40,2,2,2,0
+Campeche,2014,40,0,0,0,0
+Coahuila,2014,40,0,0,0,0
+Colima,2014,40,0,0,0,0
+Chiapas,2014,40,0,0,0,0
+Chihuahua,2014,40,0,0,0,0
+Distrito Federal,2014,40,0,0,0,0
+Durango,2014,40,1,1,1,0
+Guanajuato,2014,40,0,0,0,0
+Guerrero,2014,40,0,0,0,0
+Hidalgo,2014,40,0,0,0,0
+Jalisco,2014,40,0,0,0,0
+México,2014,40,0,0,0,0
+Michoacán,2014,40,0,0,0,0
+Morelos,2014,40,0,0,0,0
+Nayarit,2014,40,0,0,0,0
+Nuevo León,2014,40,0,0,0,0
+Oaxaca,2014,40,0,0,0,0
+Puebla,2014,40,0,0,0,0
+Querétaro,2014,40,0,0,0,0
+Quintana Roo,2014,40,0,0,0,0
+San Luis Potosí,2014,40,0,0,0,0
+Sinaloa,2014,40,0,0,0,0
+Sonora,2014,40,1,1,1,0
+Tabasco,2014,40,0,0,0,0
+Tamaulipas,2014,40,0,0,0,0
+Tlaxcala,2014,40,0,0,0,0
+Veracruz,2014,40,0,0,0,0
+Yucatán,2014,40,0,0,0,0
+Zacatecas,2014,40,0,0,0,0
+Aguascalientes,2014,41,0,0,0,0
+Baja California,2014,41,0,0,0,0
+Baja California Sur,2014,41,2,2,2,0
+Campeche,2014,41,0,0,0,0
+Coahuila,2014,41,0,0,0,0
+Colima,2014,41,0,0,0,0
+Chiapas,2014,41,0,0,0,0
+Chihuahua,2014,41,0,0,0,0
+Distrito Federal,2014,41,0,0,0,0
+Durango,2014,41,0,0,0,0
+Guanajuato,2014,41,0,0,0,0
+Guerrero,2014,41,0,0,0,0
+Hidalgo,2014,41,0,0,0,0
+Jalisco,2014,41,0,0,0,0
+México,2014,41,0,0,0,0
+Michoacán,2014,41,0,0,0,0
+Morelos,2014,41,0,0,0,0
+Nayarit,2014,41,0,0,0,0
+Nuevo León,2014,41,0,0,0,0
+Oaxaca,2014,41,0,0,0,0
+Puebla,2014,41,0,0,0,0
+Querétaro,2014,41,0,0,0,0
+Quintana Roo,2014,41,0,0,0,0
+San Luis Potosí,2014,41,0,0,0,0
+Sinaloa,2014,41,0,0,0,0
+Sonora,2014,41,1,1,1,0
+Tabasco,2014,41,0,0,0,0
+Tamaulipas,2014,41,0,0,0,0
+Tlaxcala,2014,41,0,0,0,0
+Veracruz,2014,41,0,0,0,0
+Yucatán,2014,41,0,0,0,0
+Zacatecas,2014,41,0,0,0,0
+Aguascalientes,2014,42,0,0,0,0
+Baja California,2014,42,0,0,0,0
+Baja California Sur,2014,42,2,2,2,0
+Campeche,2014,42,0,0,0,0
+Coahuila,2014,42,1,1,1,0
+Colima,2014,42,0,0,0,0
+Chiapas,2014,42,0,0,0,0
+Chihuahua,2014,42,0,0,0,0
+Distrito Federal,2014,42,0,0,0,0
+Durango,2014,42,0,0,0,0
+Guanajuato,2014,42,0,0,0,0
+Guerrero,2014,42,0,0,0,0
+Hidalgo,2014,42,0,0,0,0
+Jalisco,2014,42,0,0,0,0
+México,2014,42,0,0,0,0
+Michoacán,2014,42,0,0,0,0
+Morelos,2014,42,0,0,0,0
+Nayarit,2014,42,0,0,0,0
+Nuevo León,2014,42,0,0,0,0
+Oaxaca,2014,42,0,0,0,0
+Puebla,2014,42,0,0,0,0
+Querétaro,2014,42,0,0,0,0
+Quintana Roo,2014,42,0,0,0,0
+San Luis Potosí,2014,42,0,0,0,0
+Sinaloa,2014,42,0,0,0,0
+Sonora,2014,42,0,0,0,0
+Tabasco,2014,42,0,0,0,0
+Tamaulipas,2014,42,0,0,0,0
+Tlaxcala,2014,42,0,0,0,0
+Veracruz,2014,42,0,0,0,0
+Yucatán,2014,42,0,0,0,0
+Zacatecas,2014,42,0,0,0,0
+Aguascalientes,2014,43,0,0,0,0
+Baja California,2014,43,0,0,0,0
+Baja California Sur,2014,43,1,1,1,0
+Campeche,2014,43,0,0,0,0
+Coahuila,2014,43,1,1,1,0
+Colima,2014,43,0,0,0,0
+Chiapas,2014,43,0,0,0,0
+Chihuahua,2014,43,0,0,0,0
+Distrito Federal,2014,43,0,0,0,0
+Durango,2014,43,0,0,0,0
+Guanajuato,2014,43,0,0,0,0
+Guerrero,2014,43,0,0,0,0
+Hidalgo,2014,43,0,0,0,0
+Jalisco,2014,43,0,0,0,0
+México,2014,43,0,0,0,0
+Michoacán,2014,43,0,0,0,0
+Morelos,2014,43,0,0,0,0
+Nayarit,2014,43,0,0,0,0
+Nuevo León,2014,43,0,0,0,0
+Oaxaca,2014,43,0,0,0,0
+Puebla,2014,43,0,0,0,0
+Querétaro,2014,43,0,0,0,0
+Quintana Roo,2014,43,0,0,0,0
+San Luis Potosí,2014,43,0,0,0,0
+Sinaloa,2014,43,0,0,0,0
+Sonora,2014,43,0,0,0,0
+Tabasco,2014,43,0,0,0,0
+Tamaulipas,2014,43,0,0,0,0
+Tlaxcala,2014,43,0,0,0,0
+Veracruz,2014,43,0,0,0,0
+Yucatán,2014,43,0,0,0,0
+Zacatecas,2014,43,0,0,0,0
+Aguascalientes,2014,44,0,0,0,0
+Baja California,2014,44,0,0,0,0
+Baja California Sur,2014,44,1,1,1,0
+Campeche,2014,44,0,0,0,0
+Coahuila,2014,44,1,1,1,0
+Colima,2014,44,0,0,0,0
+Chiapas,2014,44,0,0,0,0
+Chihuahua,2014,44,0,0,0,0
+Distrito Federal,2014,44,0,0,0,0
+Durango,2014,44,0,0,0,0
+Guanajuato,2014,44,0,0,0,0
+Guerrero,2014,44,0,0,0,0
+Hidalgo,2014,44,0,0,0,0
+Jalisco,2014,44,0,0,0,0
+México,2014,44,0,0,0,0
+Michoacán,2014,44,0,0,0,0
+Morelos,2014,44,0,0,0,0
+Nayarit,2014,44,0,0,0,0
+Nuevo León,2014,44,0,0,0,0
+Oaxaca,2014,44,0,0,0,0
+Puebla,2014,44,0,0,0,0
+Querétaro,2014,44,0,0,0,0
+Quintana Roo,2014,44,0,0,0,0
+San Luis Potosí,2014,44,0,0,0,0
+Sinaloa,2014,44,0,0,0,0
+Sonora,2014,44,1,1,1,0
+Tabasco,2014,44,0,0,0,0
+Tamaulipas,2014,44,0,0,0,0
+Tlaxcala,2014,44,0,0,0,0
+Veracruz,2014,44,0,0,0,0
+Yucatán,2014,44,0,0,0,0
+Zacatecas,2014,44,0,0,0,0
+Aguascalientes,2014,45,0,0,0,0
+Baja California,2014,45,0,0,0,0
+Baja California Sur,2014,45,2,2,2,0
+Campeche,2014,45,0,0,0,0
+Coahuila,2014,45,0,0,0,0
+Colima,2014,45,0,0,0,0
+Chiapas,2014,45,0,0,0,0
+Chihuahua,2014,45,0,0,0,0
+Distrito Federal,2014,45,0,0,0,0
+Durango,2014,45,0,0,0,0
+Guanajuato,2014,45,0,0,0,0
+Guerrero,2014,45,0,0,0,0
+Hidalgo,2014,45,0,0,0,0
+Jalisco,2014,45,0,0,0,0
+México,2014,45,0,0,0,0
+Michoacán,2014,45,0,0,0,0
+Morelos,2014,45,0,0,0,0
+Nayarit,2014,45,0,0,0,0
+Nuevo León,2014,45,0,0,0,0
+Oaxaca,2014,45,0,0,0,0
+Puebla,2014,45,0,0,0,0
+Querétaro,2014,45,0,0,0,0
+Quintana Roo,2014,45,0,0,0,0
+San Luis Potosí,2014,45,0,0,0,0
+Sinaloa,2014,45,0,0,0,0
+Sonora,2014,45,1,1,1,0
+Tabasco,2014,45,0,0,0,0
+Tamaulipas,2014,45,0,0,0,0
+Tlaxcala,2014,45,0,0,0,0
+Veracruz,2014,45,0,0,0,0
+Yucatán,2014,45,0,0,0,0
+Zacatecas,2014,45,0,0,0,0
+Aguascalientes,2014,46,0,0,0,0
+Baja California,2014,46,0,0,0,0
+Baja California Sur,2014,46,1,1,1,0
+Campeche,2014,46,0,0,0,0
+Coahuila,2014,46,1,1,1,0
+Colima,2014,46,0,0,0,0
+Chiapas,2014,46,0,0,0,0
+Chihuahua,2014,46,0,0,0,0
+Distrito Federal,2014,46,0,0,0,0
+Durango,2014,46,0,0,0,0
+Guanajuato,2014,46,0,0,0,0
+Guerrero,2014,46,0,0,0,0
+Hidalgo,2014,46,0,0,0,0
+Jalisco,2014,46,0,0,0,0
+México,2014,46,0,0,0,0
+Michoacán,2014,46,0,0,0,0
+Morelos,2014,46,0,0,0,0
+Nayarit,2014,46,0,0,0,0
+Nuevo León,2014,46,0,0,0,0
+Oaxaca,2014,46,0,0,0,0
+Puebla,2014,46,0,0,0,0
+Querétaro,2014,46,0,0,0,0
+Quintana Roo,2014,46,0,0,0,0
+San Luis Potosí,2014,46,0,0,0,0
+Sinaloa,2014,46,3,3,3,0
+Sonora,2014,46,0,0,0,0
+Tabasco,2014,46,0,0,0,0
+Tamaulipas,2014,46,0,0,0,0
+Tlaxcala,2014,46,0,0,0,0
+Veracruz,2014,46,0,0,0,0
+Yucatán,2014,46,0,0,0,0
+Zacatecas,2014,46,0,0,0,0
+Aguascalientes,2014,47,0,0,0,0
+Baja California,2014,47,0,0,0,0
+Baja California Sur,2014,47,1,1,1,0
+Campeche,2014,47,0,0,0,0
+Coahuila,2014,47,0,0,0,0
+Colima,2014,47,0,0,0,0
+Chiapas,2014,47,0,0,0,0
+Chihuahua,2014,47,0,0,0,0
+Distrito Federal,2014,47,0,0,0,0
+Durango,2014,47,0,0,0,0
+Guanajuato,2014,47,0,0,0,0
+Guerrero,2014,47,0,0,0,0
+Hidalgo,2014,47,0,0,0,0
+Jalisco,2014,47,0,0,0,0
+México,2014,47,0,0,0,0
+Michoacán,2014,47,0,0,0,0
+Morelos,2014,47,0,0,0,0
+Nayarit,2014,47,0,0,0,0
+Nuevo León,2014,47,0,0,0,0
+Oaxaca,2014,47,0,0,0,0
+Puebla,2014,47,0,0,0,0
+Querétaro,2014,47,0,0,0,0
+Quintana Roo,2014,47,0,0,0,0
+San Luis Potosí,2014,47,1,1,1,0
+Sinaloa,2014,47,1,1,1,0
+Sonora,2014,47,0,0,0,0
+Tabasco,2014,47,0,0,0,0
+Tamaulipas,2014,47,0,0,0,0
+Tlaxcala,2014,47,0,0,0,0
+Veracruz,2014,47,0,0,0,0
+Yucatán,2014,47,0,0,0,0
+Zacatecas,2014,47,3,3,3,0
+Aguascalientes,2014,48,0,0,0,0
+Baja California,2014,48,0,0,0,0
+Baja California Sur,2014,48,0,0,0,0
+Campeche,2014,48,0,0,0,0
+Coahuila,2014,48,0,0,0,0
+Colima,2014,48,0,0,0,0
+Chiapas,2014,48,0,0,0,0
+Chihuahua,2014,48,0,0,0,0
+Distrito Federal,2014,48,0,0,0,0
+Durango,2014,48,0,0,0,0
+Guanajuato,2014,48,1,1,1,0
+Guerrero,2014,48,0,0,0,0
+Hidalgo,2014,48,0,0,0,0
+Jalisco,2014,48,0,0,0,0
+México,2014,48,0,0,0,0
+Michoacán,2014,48,0,0,0,0
+Morelos,2014,48,0,0,0,0
+Nayarit,2014,48,0,0,0,0
+Nuevo León,2014,48,0,0,0,0
+Oaxaca,2014,48,0,0,0,0
+Puebla,2014,48,0,0,0,0
+Querétaro,2014,48,0,0,0,0
+Quintana Roo,2014,48,0,0,0,0
+San Luis Potosí,2014,48,0,0,0,0
+Sinaloa,2014,48,0,0,0,0
+Sonora,2014,48,0,0,0,0
+Tabasco,2014,48,0,0,0,0
+Tamaulipas,2014,48,0,0,0,0
+Tlaxcala,2014,48,0,0,0,0
+Veracruz,2014,48,0,0,0,0
+Yucatán,2014,48,0,0,0,0
+Zacatecas,2014,48,0,0,0,0
+Aguascalientes,2014,49,0,0,0,0
+Baja California,2014,49,0,0,0,0
+Baja California Sur,2014,49,0,0,0,0
+Campeche,2014,49,0,0,0,0
+Coahuila,2014,49,1,1,1,0
+Colima,2014,49,0,0,0,0
+Chiapas,2014,49,0,0,0,0
+Chihuahua,2014,49,0,0,0,0
+Distrito Federal,2014,49,0,0,0,0
+Durango,2014,49,0,0,0,0
+Guanajuato,2014,49,0,0,0,0
+Guerrero,2014,49,0,0,0,0
+Hidalgo,2014,49,0,0,0,0
+Jalisco,2014,49,0,0,0,0
+México,2014,49,0,0,0,0
+Michoacán,2014,49,0,0,0,0
+Morelos,2014,49,0,0,0,0
+Nayarit,2014,49,0,0,0,0
+Nuevo León,2014,49,0,0,0,0
+Oaxaca,2014,49,0,0,0,0
+Puebla,2014,49,0,0,0,0
+Querétaro,2014,49,0,0,0,0
+Quintana Roo,2014,49,0,0,0,0
+San Luis Potosí,2014,49,0,0,0,0
+Sinaloa,2014,49,0,0,0,0
+Sonora,2014,49,0,0,0,0
+Tabasco,2014,49,0,0,0,0
+Tamaulipas,2014,49,0,0,0,0
+Tlaxcala,2014,49,0,0,0,0
+Veracruz,2014,49,0,0,0,0
+Yucatán,2014,49,0,0,0,0
+Zacatecas,2014,49,0,0,0,0
+Aguascalientes,2014,50,0,0,0,0
+Baja California,2014,50,0,0,0,0
+Baja California Sur,2014,50,1,1,1,0
+Campeche,2014,50,0,0,0,0
+Coahuila,2014,50,0,0,0,0
+Colima,2014,50,0,0,0,0
+Chiapas,2014,50,0,0,0,0
+Chihuahua,2014,50,0,0,0,0
+Distrito Federal,2014,50,0,0,0,0
+Durango,2014,50,0,0,0,0
+Guanajuato,2014,50,0,0,0,0
+Guerrero,2014,50,0,0,0,0
+Hidalgo,2014,50,0,0,0,0
+Jalisco,2014,50,0,0,0,0
+México,2014,50,0,0,0,0
+Michoacán,2014,50,0,0,0,0
+Morelos,2014,50,0,0,0,0
+Nayarit,2014,50,0,0,0,0
+Nuevo León,2014,50,1,1,1,0
+Oaxaca,2014,50,0,0,0,0
+Puebla,2014,50,0,0,0,0
+Querétaro,2014,50,0,0,0,0
+Quintana Roo,2014,50,0,0,0,0
+San Luis Potosí,2014,50,0,0,0,0
+Sinaloa,2014,50,0,0,0,0
+Sonora,2014,50,0,0,0,0
+Tabasco,2014,50,0,0,0,0
+Tamaulipas,2014,50,0,0,0,0
+Tlaxcala,2014,50,0,0,0,0
+Veracruz,2014,50,0,0,0,0
+Yucatán,2014,50,0,0,0,0
+Zacatecas,2014,50,0,0,0,0
+Aguascalientes,2014,51,0,0,0,0
+Baja California,2014,51,0,0,0,0
+Baja California Sur,2014,51,0,0,0,0
+Campeche,2014,51,0,0,0,0
+Coahuila,2014,51,0,0,0,0
+Colima,2014,51,0,0,0,0
+Chiapas,2014,51,0,0,0,0
+Chihuahua,2014,51,0,0,0,0
+Distrito Federal,2014,51,0,0,0,0
+Durango,2014,51,0,0,0,0
+Guanajuato,2014,51,0,0,0,0
+Guerrero,2014,51,0,0,0,0
+Hidalgo,2014,51,0,0,0,0
+Jalisco,2014,51,0,0,0,0
+México,2014,51,0,0,0,0
+Michoacán,2014,51,0,0,0,0
+Morelos,2014,51,0,0,0,0
+Nayarit,2014,51,0,0,0,0
+Nuevo León,2014,51,0,0,0,0
+Oaxaca,2014,51,0,0,0,0
+Puebla,2014,51,0,0,0,0
+Querétaro,2014,51,0,0,0,0
+Quintana Roo,2014,51,0,0,0,0
+San Luis Potosí,2014,51,0,0,0,0
+Sinaloa,2014,51,0,0,0,0
+Sonora,2014,51,2,2,2,0
+Tabasco,2014,51,0,0,0,0
+Tamaulipas,2014,51,0,0,0,0
+Tlaxcala,2014,51,0,0,0,0
+Veracruz,2014,51,0,0,0,0
+Yucatán,2014,51,0,0,0,0
+Zacatecas,2014,51,0,0,0,0
+Aguascalientes,2014,52,0,0,0,0
+Baja California,2014,52,0,0,0,0
+Baja California Sur,2014,52,0,0,0,0
+Campeche,2014,52,0,0,0,0
+Coahuila,2014,52,0,0,0,0
+Colima,2014,52,0,0,0,0
+Chiapas,2014,52,0,0,0,0
+Chihuahua,2014,52,0,0,0,0
+Distrito Federal,2014,52,0,0,0,0
+Durango,2014,52,0,0,0,0
+Guanajuato,2014,52,0,0,0,0
+Guerrero,2014,52,0,0,0,0
+Hidalgo,2014,52,0,0,0,0
+Jalisco,2014,52,0,0,0,0
+México,2014,52,0,0,0,0
+Michoacán,2014,52,0,0,0,0
+Morelos,2014,52,0,0,0,0
+Nayarit,2014,52,0,0,0,0
+Nuevo León,2014,52,0,0,0,0
+Oaxaca,2014,52,0,0,0,0
+Puebla,2014,52,0,0,0,0
+Querétaro,2014,52,0,0,0,0
+Quintana Roo,2014,52,0,0,0,0
+San Luis Potosí,2014,52,0,0,0,0
+Sinaloa,2014,52,1,1,1,0
+Sonora,2014,52,0,0,0,0
+Tabasco,2014,52,0,0,0,0
+Tamaulipas,2014,52,0,0,0,0
+Tlaxcala,2014,52,0,0,0,0
+Veracruz,2014,52,0,0,0,0
+Yucatán,2014,52,0,0,0,0
+Zacatecas,2014,52,0,0,0,0
+Aguascalientes,2014,53,0,0,0,0
+Baja California,2014,53,0,0,0,0
+Baja California Sur,2014,53,0,0,0,0
+Campeche,2014,53,0,0,0,0
+Coahuila,2014,53,0,0,0,0
+Colima,2014,53,0,0,0,0
+Chiapas,2014,53,0,0,0,0
+Chihuahua,2014,53,0,0,0,0
+Distrito Federal,2014,53,0,0,0,0
+Durango,2014,53,0,0,0,0
+Guanajuato,2014,53,0,0,0,0
+Guerrero,2014,53,0,0,0,0
+Hidalgo,2014,53,0,0,0,0
+Jalisco,2014,53,0,0,0,0
+México,2014,53,0,0,0,0
+Michoacán,2014,53,0,0,0,0
+Morelos,2014,53,0,0,0,0
+Nayarit,2014,53,0,0,0,0
+Nuevo León,2014,53,0,0,0,0
+Oaxaca,2014,53,0,0,0,0
+Puebla,2014,53,0,0,0,0
+Querétaro,2014,53,0,0,0,0
+Quintana Roo,2014,53,0,0,0,0
+San Luis Potosí,2014,53,0,0,0,0
+Sinaloa,2014,53,0,0,0,0
+Sonora,2014,53,2,2,2,0
+Tabasco,2014,53,0,0,0,0
+Tamaulipas,2014,53,0,0,0,0
+Tlaxcala,2014,53,0,0,0,0
+Veracruz,2014,53,0,0,0,0
+Yucatán,2014,53,0,0,0,0
+Zacatecas,2014,53,0,0,0,0
+Aguascalientes,2015,2,0,0,0,0
+Baja California,2015,2,0,0,0,0
+Baja California Sur,2015,2,0,0,0,0
+Campeche,2015,2,0,0,0,0
+Coahuila,2015,2,0,0,0,0
+Colima,2015,2,0,0,0,0
+Chiapas,2015,2,0,0,0,0
+Chihuahua,2015,2,0,0,0,0
+Ciudad de México,2015,2,0,0,0,0
+Durango,2015,2,0,0,0,0
+Guanajuato,2015,2,0,0,0,0
+Guerrero,2015,2,0,0,0,0
+Hidalgo,2015,2,0,0,0,0
+Jalisco,2015,2,0,0,0,0
+México,2015,2,0,0,0,0
+Michoacán,2015,2,0,0,0,0
+Morelos,2015,2,0,0,0,0
+Nayarit,2015,2,0,0,0,0
+Nuevo León,2015,2,0,0,0,0
+Oaxaca,2015,2,0,0,0,0
+Puebla,2015,2,0,0,0,0
+Querétaro,2015,2,0,0,0,0
+Quintana Roo,2015,2,0,0,0,0
+San Luis Potosí,2015,2,0,0,0,0
+Sinaloa,2015,2,0,0,0,0
+Sonora,2015,2,0,0,0,0
+Tabasco,2015,2,0,0,0,0
+Tamaulipas,2015,2,0,0,0,0
+Tlaxcala,2015,2,0,0,0,0
+Veracruz,2015,2,0,0,0,0
+Yucatán,2015,2,0,0,0,0
+Zacatecas,2015,2,0,0,0,0
+Aguascalientes,2015,3,0,0,0,0
+Baja California,2015,3,1,1,1,0
+Baja California Sur,2015,3,0,0,0,0
+Campeche,2015,3,0,0,0,0
+Coahuila,2015,3,0,0,0,0
+Colima,2015,3,0,0,0,0
+Chiapas,2015,3,0,0,0,0
+Chihuahua,2015,3,0,0,0,0
+Ciudad de México,2015,3,0,0,0,0
+Durango,2015,3,0,0,0,0
+Guanajuato,2015,3,0,0,0,0
+Guerrero,2015,3,0,0,0,0
+Hidalgo,2015,3,0,0,0,0
+Jalisco,2015,3,0,0,0,0
+México,2015,3,0,0,0,0
+Michoacán,2015,3,0,0,0,0
+Morelos,2015,3,0,0,0,0
+Nayarit,2015,3,0,0,0,0
+Nuevo León,2015,3,0,0,0,0
+Oaxaca,2015,3,0,0,0,0
+Puebla,2015,3,0,0,0,0
+Querétaro,2015,3,0,0,0,0
+Quintana Roo,2015,3,0,0,0,0
+San Luis Potosí,2015,3,0,0,0,0
+Sinaloa,2015,3,0,0,0,0
+Sonora,2015,3,5,5,5,0
+Tabasco,2015,3,0,0,0,0
+Tamaulipas,2015,3,0,0,0,0
+Tlaxcala,2015,3,0,0,0,0
+Veracruz,2015,3,0,0,0,0
+Yucatán,2015,3,0,0,0,0
+Zacatecas,2015,3,0,0,0,0
+Aguascalientes,2015,4,0,0,0,0
+Baja California,2015,4,0,0,0,0
+Baja California Sur,2015,4,0,0,0,0
+Campeche,2015,4,0,0,0,0
+Coahuila,2015,4,0,0,0,0
+Colima,2015,4,0,0,0,0
+Chiapas,2015,4,0,0,0,0
+Chihuahua,2015,4,0,0,0,0
+Ciudad de México,2015,4,0,0,0,0
+Durango,2015,4,0,0,0,0
+Guanajuato,2015,4,0,0,0,0
+Guerrero,2015,4,0,0,0,0
+Hidalgo,2015,4,0,0,0,0
+Jalisco,2015,4,0,0,0,0
+México,2015,4,0,0,0,0
+Michoacán,2015,4,0,0,0,0
+Morelos,2015,4,0,0,0,0
+Nayarit,2015,4,0,0,0,0
+Nuevo León,2015,4,0,0,0,0
+Oaxaca,2015,4,0,0,0,0
+Puebla,2015,4,0,0,0,0
+Querétaro,2015,4,0,0,0,0
+Quintana Roo,2015,4,0,0,0,0
+San Luis Potosí,2015,4,0,0,0,0
+Sinaloa,2015,4,0,0,0,0
+Sonora,2015,4,0,0,0,0
+Tabasco,2015,4,0,0,0,0
+Tamaulipas,2015,4,0,0,0,0
+Tlaxcala,2015,4,0,0,0,0
+Veracruz,2015,4,0,0,0,0
+Yucatán,2015,4,0,0,0,0
+Zacatecas,2015,4,0,0,0,0
+Aguascalientes,2015,5,0,0,0,0
+Baja California,2015,5,0,0,0,0
+Baja California Sur,2015,5,0,0,0,0
+Campeche,2015,5,0,0,0,0
+Coahuila,2015,5,0,0,0,0
+Colima,2015,5,0,0,0,0
+Chiapas,2015,5,0,0,0,0
+Chihuahua,2015,5,0,0,0,0
+Ciudad de México,2015,5,0,0,0,0
+Durango,2015,5,0,0,0,0
+Guanajuato,2015,5,0,0,0,0
+Guerrero,2015,5,0,0,0,0
+Hidalgo,2015,5,0,0,0,0
+Jalisco,2015,5,0,0,0,0
+México,2015,5,0,0,0,0
+Michoacán,2015,5,0,0,0,0
+Morelos,2015,5,0,0,0,0
+Nayarit,2015,5,0,0,0,0
+Nuevo León,2015,5,0,0,0,0
+Oaxaca,2015,5,0,0,0,0
+Puebla,2015,5,0,0,0,0
+Querétaro,2015,5,0,0,0,0
+Quintana Roo,2015,5,0,0,0,0
+San Luis Potosí,2015,5,0,0,0,0
+Sinaloa,2015,5,0,0,0,0
+Sonora,2015,5,2,2,2,0
+Tabasco,2015,5,0,0,0,0
+Tamaulipas,2015,5,0,0,0,0
+Tlaxcala,2015,5,0,0,0,0
+Veracruz,2015,5,0,0,0,0
+Yucatán,2015,5,0,0,0,0
+Zacatecas,2015,5,0,0,0,0
+Aguascalientes,2015,6,0,0,0,0
+Baja California,2015,6,0,0,0,0
+Baja California Sur,2015,6,0,0,0,0
+Campeche,2015,6,0,0,0,0
+Coahuila,2015,6,0,0,0,0
+Colima,2015,6,0,0,0,0
+Chiapas,2015,6,0,0,0,0
+Chihuahua,2015,6,0,0,0,0
+Ciudad de México,2015,6,0,0,0,0
+Durango,2015,6,0,0,0,0
+Guanajuato,2015,6,0,0,0,0
+Guerrero,2015,6,0,0,0,0
+Hidalgo,2015,6,0,0,0,0
+Jalisco,2015,6,0,0,0,0
+México,2015,6,0,0,0,0
+Michoacán,2015,6,0,0,0,0
+Morelos,2015,6,0,0,0,0
+Nayarit,2015,6,0,0,0,0
+Nuevo León,2015,6,1,1,1,0
+Oaxaca,2015,6,0,0,0,0
+Puebla,2015,6,0,0,0,0
+Querétaro,2015,6,0,0,0,0
+Quintana Roo,2015,6,0,0,0,0
+San Luis Potosí,2015,6,0,0,0,0
+Sinaloa,2015,6,0,0,0,0
+Sonora,2015,6,0,0,0,0
+Tabasco,2015,6,0,0,0,0
+Tamaulipas,2015,6,0,0,0,0
+Tlaxcala,2015,6,0,0,0,0
+Veracruz,2015,6,0,0,0,0
+Yucatán,2015,6,0,0,0,0
+Zacatecas,2015,6,0,0,0,0
+Aguascalientes,2015,7,0,0,0,0
+Baja California,2015,7,0,0,0,0
+Baja California Sur,2015,7,0,0,0,0
+Campeche,2015,7,0,0,0,0
+Coahuila,2015,7,0,0,0,0
+Colima,2015,7,0,0,0,0
+Chiapas,2015,7,0,0,0,0
+Chihuahua,2015,7,0,0,0,0
+Ciudad de México,2015,7,0,0,0,0
+Durango,2015,7,0,0,0,0
+Guanajuato,2015,7,0,0,0,0
+Guerrero,2015,7,0,0,0,0
+Hidalgo,2015,7,0,0,0,0
+Jalisco,2015,7,0,0,0,0
+México,2015,7,0,0,0,0
+Michoacán,2015,7,0,0,0,0
+Morelos,2015,7,0,0,0,0
+Nayarit,2015,7,0,0,0,0
+Nuevo León,2015,7,0,0,0,0
+Oaxaca,2015,7,0,0,0,0
+Puebla,2015,7,0,0,0,0
+Querétaro,2015,7,0,0,0,0
+Quintana Roo,2015,7,0,0,0,0
+San Luis Potosí,2015,7,0,0,0,0
+Sinaloa,2015,7,0,0,0,0
+Sonora,2015,7,1,1,1,0
+Tabasco,2015,7,0,0,0,0
+Tamaulipas,2015,7,0,0,0,0
+Tlaxcala,2015,7,0,0,0,0
+Veracruz,2015,7,0,0,0,0
+Yucatán,2015,7,0,0,0,0
+Zacatecas,2015,7,0,0,0,0
+Aguascalientes,2015,8,0,0,0,0
+Baja California,2015,8,0,0,0,0
+Baja California Sur,2015,8,0,0,0,0
+Campeche,2015,8,0,0,0,0
+Coahuila,2015,8,1,1,1,0
+Colima,2015,8,0,0,0,0
+Chiapas,2015,8,0,0,0,0
+Chihuahua,2015,8,0,0,0,0
+Ciudad de México,2015,8,0,0,0,0
+Durango,2015,8,0,0,0,0
+Guanajuato,2015,8,1,1,1,0
+Guerrero,2015,8,0,0,0,0
+Hidalgo,2015,8,0,0,0,0
+Jalisco,2015,8,0,0,0,0
+México,2015,8,0,0,0,0
+Michoacán,2015,8,0,0,0,0
+Morelos,2015,8,0,0,0,0
+Nayarit,2015,8,0,0,0,0
+Nuevo León,2015,8,0,0,0,0
+Oaxaca,2015,8,0,0,0,0
+Puebla,2015,8,0,0,0,0
+Querétaro,2015,8,0,0,0,0
+Quintana Roo,2015,8,0,0,0,0
+San Luis Potosí,2015,8,0,0,0,0
+Sinaloa,2015,8,0,0,0,0
+Sonora,2015,8,2,2,2,0
+Tabasco,2015,8,0,0,0,0
+Tamaulipas,2015,8,0,0,0,0
+Tlaxcala,2015,8,0,0,0,0
+Veracruz,2015,8,0,0,0,0
+Yucatán,2015,8,0,0,0,0
+Zacatecas,2015,8,0,0,0,0
+Aguascalientes,2015,9,0,0,0,0
+Baja California,2015,9,0,0,0,0
+Baja California Sur,2015,9,0,0,0,0
+Campeche,2015,9,0,0,0,0
+Coahuila,2015,9,0,0,0,0
+Colima,2015,9,0,0,0,0
+Chiapas,2015,9,0,0,0,0
+Chihuahua,2015,9,0,0,0,0
+Ciudad de México,2015,9,0,0,0,0
+Durango,2015,9,0,0,0,0
+Guanajuato,2015,9,0,0,0,0
+Guerrero,2015,9,0,0,0,0
+Hidalgo,2015,9,0,0,0,0
+Jalisco,2015,9,0,0,0,0
+México,2015,9,0,0,0,0
+Michoacán,2015,9,0,0,0,0
+Morelos,2015,9,0,0,0,0
+Nayarit,2015,9,0,0,0,0
+Nuevo León,2015,9,0,0,0,0
+Oaxaca,2015,9,0,0,0,0
+Puebla,2015,9,0,0,0,0
+Querétaro,2015,9,0,0,0,0
+Quintana Roo,2015,9,0,0,0,0
+San Luis Potosí,2015,9,0,0,0,0
+Sinaloa,2015,9,1,1,1,0
+Sonora,2015,9,1,1,1,0
+Tabasco,2015,9,0,0,0,0
+Tamaulipas,2015,9,0,0,0,0
+Tlaxcala,2015,9,0,0,0,0
+Veracruz,2015,9,0,0,0,0
+Yucatán,2015,9,0,0,0,0
+Zacatecas,2015,9,0,0,0,0
+Aguascalientes,2015,10,0,0,0,0
+Baja California,2015,10,3,3,3,0
+Baja California Sur,2015,10,0,0,0,0
+Campeche,2015,10,0,0,0,0
+Coahuila,2015,10,0,0,0,0
+Colima,2015,10,0,0,0,0
+Chiapas,2015,10,0,0,0,0
+Chihuahua,2015,10,0,0,0,0
+Ciudad de México,2015,10,0,0,0,0
+Durango,2015,10,0,0,0,0
+Guanajuato,2015,10,1,1,1,0
+Guerrero,2015,10,0,0,0,0
+Hidalgo,2015,10,0,0,0,0
+Jalisco,2015,10,0,0,0,0
+México,2015,10,0,0,0,0
+Michoacán,2015,10,0,0,0,0
+Morelos,2015,10,0,0,0,0
+Nayarit,2015,10,0,0,0,0
+Nuevo León,2015,10,0,0,0,0
+Oaxaca,2015,10,0,0,0,0
+Puebla,2015,10,0,0,0,0
+Querétaro,2015,10,0,0,0,0
+Quintana Roo,2015,10,0,0,0,0
+San Luis Potosí,2015,10,0,0,0,0
+Sinaloa,2015,10,0,0,0,0
+Sonora,2015,10,1,1,1,0
+Tabasco,2015,10,0,0,0,0
+Tamaulipas,2015,10,0,0,0,0
+Tlaxcala,2015,10,0,0,0,0
+Veracruz,2015,10,0,0,0,0
+Yucatán,2015,10,0,0,0,0
+Zacatecas,2015,10,0,0,0,0
+Aguascalientes,2015,11,0,0,0,0
+Baja California,2015,11,0,0,0,0
+Baja California Sur,2015,11,0,0,0,0
+Campeche,2015,11,0,0,0,0
+Coahuila,2015,11,1,1,1,0
+Colima,2015,11,0,0,0,0
+Chiapas,2015,11,0,0,0,0
+Chihuahua,2015,11,0,0,0,0
+Ciudad de México,2015,11,0,0,0,0
+Durango,2015,11,0,0,0,0
+Guanajuato,2015,11,0,0,0,0
+Guerrero,2015,11,0,0,0,0
+Hidalgo,2015,11,0,0,0,0
+Jalisco,2015,11,0,0,0,0
+México,2015,11,0,0,0,0
+Michoacán,2015,11,0,0,0,0
+Morelos,2015,11,0,0,0,0
+Nayarit,2015,11,0,0,0,0
+Nuevo León,2015,11,0,0,0,0
+Oaxaca,2015,11,0,0,0,0
+Puebla,2015,11,0,0,0,0
+Querétaro,2015,11,0,0,0,0
+Quintana Roo,2015,11,0,0,0,0
+San Luis Potosí,2015,11,0,0,0,0
+Sinaloa,2015,11,0,0,0,0
+Sonora,2015,11,3,3,3,0
+Tabasco,2015,11,0,0,0,0
+Tamaulipas,2015,11,0,0,0,0
+Tlaxcala,2015,11,0,0,0,0
+Veracruz,2015,11,0,0,0,0
+Yucatán,2015,11,0,0,0,0
+Zacatecas,2015,11,0,0,0,0
+Aguascalientes,2015,12,0,0,0,0
+Baja California,2015,12,0,0,0,0
+Baja California Sur,2015,12,0,0,0,0
+Campeche,2015,12,0,0,0,0
+Coahuila,2015,12,0,0,0,0
+Colima,2015,12,0,0,0,0
+Chiapas,2015,12,0,0,0,0
+Chihuahua,2015,12,0,0,0,0
+Ciudad de México,2015,12,0,0,0,0
+Durango,2015,12,0,0,0,0
+Guanajuato,2015,12,0,0,0,0
+Guerrero,2015,12,0,0,0,0
+Hidalgo,2015,12,0,0,0,0
+Jalisco,2015,12,0,0,0,0
+México,2015,12,0,0,0,0
+Michoacán,2015,12,0,0,0,0
+Morelos,2015,12,0,0,0,0
+Nayarit,2015,12,0,0,0,0
+Nuevo León,2015,12,0,0,0,0
+Oaxaca,2015,12,0,0,0,0
+Puebla,2015,12,0,0,0,0
+Querétaro,2015,12,0,0,0,0
+Quintana Roo,2015,12,0,0,0,0
+San Luis Potosí,2015,12,0,0,0,0
+Sinaloa,2015,12,1,1,1,0
+Sonora,2015,12,0,0,0,0
+Tabasco,2015,12,0,0,0,0
+Tamaulipas,2015,12,0,0,0,0
+Tlaxcala,2015,12,0,0,0,0
+Veracruz,2015,12,0,0,0,0
+Yucatán,2015,12,0,0,0,0
+Zacatecas,2015,12,0,0,0,0
+Aguascalientes,2015,13,0,0,0,0
+Baja California,2015,13,0,0,0,0
+Baja California Sur,2015,13,0,0,0,0
+Campeche,2015,13,0,0,0,0
+Coahuila,2015,13,0,0,0,0
+Colima,2015,13,0,0,0,0
+Chiapas,2015,13,0,0,0,0
+Chihuahua,2015,13,0,0,0,0
+Ciudad de México,2015,13,0,0,0,0
+Durango,2015,13,0,0,0,0
+Guanajuato,2015,13,0,0,0,0
+Guerrero,2015,13,0,0,0,0
+Hidalgo,2015,13,0,0,0,0
+Jalisco,2015,13,0,0,0,0
+México,2015,13,0,0,0,0
+Michoacán,2015,13,0,0,0,0
+Morelos,2015,13,0,0,0,0
+Nayarit,2015,13,0,0,0,0
+Nuevo León,2015,13,0,0,0,0
+Oaxaca,2015,13,0,0,0,0
+Puebla,2015,13,0,0,0,0
+Querétaro,2015,13,0,0,0,0
+Quintana Roo,2015,13,0,0,0,0
+San Luis Potosí,2015,13,0,0,0,0
+Sinaloa,2015,13,1,1,1,0
+Sonora,2015,13,0,0,0,0
+Tabasco,2015,13,0,0,0,0
+Tamaulipas,2015,13,0,0,0,0
+Tlaxcala,2015,13,0,0,0,0
+Veracruz,2015,13,0,0,0,0
+Yucatán,2015,13,0,0,0,0
+Zacatecas,2015,13,0,0,0,0
+Aguascalientes,2015,14,0,0,0,0
+Baja California,2015,14,0,0,0,0
+Baja California Sur,2015,14,0,0,0,0
+Campeche,2015,14,0,0,0,0
+Coahuila,2015,14,0,0,0,0
+Colima,2015,14,2,2,2,0
+Chiapas,2015,14,0,0,0,0
+Chihuahua,2015,14,0,0,0,0
+Ciudad de México,2015,14,0,0,0,0
+Durango,2015,14,0,0,0,0
+Guanajuato,2015,14,0,0,0,0
+Guerrero,2015,14,0,0,0,0
+Hidalgo,2015,14,0,0,0,0
+Jalisco,2015,14,0,0,0,0
+México,2015,14,0,0,0,0
+Michoacán,2015,14,0,0,0,0
+Morelos,2015,14,0,0,0,0
+Nayarit,2015,14,0,0,0,0
+Nuevo León,2015,14,0,0,0,0
+Oaxaca,2015,14,0,0,0,0
+Puebla,2015,14,0,0,0,0
+Querétaro,2015,14,0,0,0,0
+Quintana Roo,2015,14,0,0,0,0
+San Luis Potosí,2015,14,0,0,0,0
+Sinaloa,2015,14,0,0,0,0
+Sonora,2015,14,0,0,0,0
+Tabasco,2015,14,0,0,0,0
+Tamaulipas,2015,14,0,0,0,0
+Tlaxcala,2015,14,0,0,0,0
+Veracruz,2015,14,0,0,0,0
+Yucatán,2015,14,0,0,0,0
+Zacatecas,2015,14,0,0,0,0
+Aguascalientes,2015,16,0,0,0,0
+Baja California,2015,16,0,0,0,0
+Baja California Sur,2015,16,0,0,0,0
+Campeche,2015,16,0,0,0,0
+Coahuila,2015,16,1,1,1,0
+Colima,2015,16,0,0,0,0
+Chiapas,2015,16,0,0,0,0
+Chihuahua,2015,16,0,0,0,0
+Ciudad de México,2015,16,0,0,0,0
+Durango,2015,16,0,0,0,0
+Guanajuato,2015,16,0,0,0,0
+Guerrero,2015,16,0,0,0,0
+Hidalgo,2015,16,0,0,0,0
+Jalisco,2015,16,0,0,0,0
+México,2015,16,0,0,0,0
+Michoacán,2015,16,0,0,0,0
+Morelos,2015,16,0,0,0,0
+Nayarit,2015,16,0,0,0,0
+Nuevo León,2015,16,0,0,0,0
+Oaxaca,2015,16,0,0,0,0
+Puebla,2015,16,0,0,0,0
+Querétaro,2015,16,0,0,0,0
+Quintana Roo,2015,16,0,0,0,0
+San Luis Potosí,2015,16,0,0,0,0
+Sinaloa,2015,16,0,0,0,0
+Sonora,2015,16,2,2,2,0
+Tabasco,2015,16,0,0,0,0
+Tamaulipas,2015,16,0,0,0,0
+Tlaxcala,2015,16,0,0,0,0
+Veracruz,2015,16,0,0,0,0
+Yucatán,2015,16,0,0,0,0
+Zacatecas,2015,16,0,0,0,0
+Aguascalientes,2015,17,0,0,0,0
+Baja California,2015,17,1,1,1,0
+Baja California Sur,2015,17,0,0,0,0
+Campeche,2015,17,0,0,0,0
+Coahuila,2015,17,1,1,1,0
+Colima,2015,17,0,0,0,0
+Chiapas,2015,17,0,0,0,0
+Chihuahua,2015,17,0,0,0,0
+Ciudad de México,2015,17,0,0,0,0
+Durango,2015,17,0,0,0,0
+Guanajuato,2015,17,0,0,0,0
+Guerrero,2015,17,0,0,0,0
+Hidalgo,2015,17,0,0,0,0
+Jalisco,2015,17,0,0,0,0
+México,2015,17,0,0,0,0
+Michoacán,2015,17,1,1,1,0
+Morelos,2015,17,0,0,0,0
+Nayarit,2015,17,0,0,0,0
+Nuevo León,2015,17,0,0,0,0
+Oaxaca,2015,17,0,0,0,0
+Puebla,2015,17,0,0,0,0
+Querétaro,2015,17,0,0,0,0
+Quintana Roo,2015,17,0,0,0,0
+San Luis Potosí,2015,17,0,0,0,0
+Sinaloa,2015,17,0,0,0,0
+Sonora,2015,17,1,1,1,0
+Tabasco,2015,17,0,0,0,0
+Tamaulipas,2015,17,0,0,0,0
+Tlaxcala,2015,17,0,0,0,0
+Veracruz,2015,17,0,0,0,0
+Yucatán,2015,17,0,0,0,0
+Zacatecas,2015,17,0,0,0,0
+Aguascalientes,2015,18,0,0,0,0
+Baja California,2015,18,2,2,2,0
+Baja California Sur,2015,18,0,0,0,0
+Campeche,2015,18,0,0,0,0
+Coahuila,2015,18,1,1,1,0
+Colima,2015,18,0,0,0,0
+Chiapas,2015,18,0,0,0,0
+Chihuahua,2015,18,0,0,0,0
+Ciudad de México,2015,18,0,0,0,0
+Durango,2015,18,0,0,0,0
+Guanajuato,2015,18,0,0,0,0
+Guerrero,2015,18,0,0,0,0
+Hidalgo,2015,18,0,0,0,0
+Jalisco,2015,18,0,0,0,0
+México,2015,18,0,0,0,0
+Michoacán,2015,18,0,0,0,0
+Morelos,2015,18,0,0,0,0
+Nayarit,2015,18,0,0,0,0
+Nuevo León,2015,18,0,0,0,0
+Oaxaca,2015,18,0,0,0,0
+Puebla,2015,18,0,0,0,0
+Querétaro,2015,18,0,0,0,0
+Quintana Roo,2015,18,0,0,0,0
+San Luis Potosí,2015,18,0,0,0,0
+Sinaloa,2015,18,0,0,0,0
+Sonora,2015,18,1,1,1,0
+Tabasco,2015,18,0,0,0,0
+Tamaulipas,2015,18,0,0,0,0
+Tlaxcala,2015,18,0,0,0,0
+Veracruz,2015,18,0,0,0,0
+Yucatán,2015,18,0,0,0,0
+Zacatecas,2015,18,0,0,0,0
+Aguascalientes,2015,19,0,0,0,0
+Baja California,2015,19,0,0,0,0
+Baja California Sur,2015,19,0,0,0,0
+Campeche,2015,19,0,0,0,0
+Coahuila,2015,19,0,0,0,0
+Colima,2015,19,0,0,0,0
+Chiapas,2015,19,0,0,0,0
+Chihuahua,2015,19,0,0,0,0
+Ciudad de México,2015,19,0,0,0,0
+Durango,2015,19,0,0,0,0
+Guanajuato,2015,19,0,0,0,0
+Guerrero,2015,19,0,0,0,0
+Hidalgo,2015,19,0,0,0,0
+Jalisco,2015,19,0,0,0,0
+México,2015,19,0,0,0,0
+Michoacán,2015,19,0,0,0,0
+Morelos,2015,19,0,0,0,0
+Nayarit,2015,19,0,0,0,0
+Nuevo León,2015,19,0,0,0,0
+Oaxaca,2015,19,0,0,0,0
+Puebla,2015,19,0,0,0,0
+Querétaro,2015,19,0,0,0,0
+Quintana Roo,2015,19,0,0,0,0
+San Luis Potosí,2015,19,0,0,0,0
+Sinaloa,2015,19,0,0,0,0
+Sonora,2015,19,3,3,3,0
+Tabasco,2015,19,0,0,0,0
+Tamaulipas,2015,19,0,0,0,0
+Tlaxcala,2015,19,0,0,0,0
+Veracruz,2015,19,0,0,0,0
+Yucatán,2015,19,0,0,0,0
+Zacatecas,2015,19,0,0,0,0
+Aguascalientes,2015,20,0,0,0,0
+Baja California,2015,20,1,1,1,0
+Baja California Sur,2015,20,0,0,0,0
+Campeche,2015,20,0,0,0,0
+Coahuila,2015,20,0,0,0,0
+Colima,2015,20,0,0,0,0
+Chiapas,2015,20,0,0,0,0
+Chihuahua,2015,20,0,0,0,0
+Ciudad de México,2015,20,0,0,0,0
+Durango,2015,20,0,0,0,0
+Guanajuato,2015,20,0,0,0,0
+Guerrero,2015,20,0,0,0,0
+Hidalgo,2015,20,0,0,0,0
+Jalisco,2015,20,0,0,0,0
+México,2015,20,0,0,0,0
+Michoacán,2015,20,0,0,0,0
+Morelos,2015,20,0,0,0,0
+Nayarit,2015,20,0,0,0,0
+Nuevo León,2015,20,0,0,0,0
+Oaxaca,2015,20,0,0,0,0
+Puebla,2015,20,0,0,0,0
+Querétaro,2015,20,0,0,0,0
+Quintana Roo,2015,20,0,0,0,0
+San Luis Potosí,2015,20,0,0,0,0
+Sinaloa,2015,20,0,0,0,0
+Sonora,2015,20,0,0,0,0
+Tabasco,2015,20,0,0,0,0
+Tamaulipas,2015,20,0,0,0,0
+Tlaxcala,2015,20,0,0,0,0
+Veracruz,2015,20,0,0,0,0
+Yucatán,2015,20,0,0,0,0
+Zacatecas,2015,20,0,0,0,0
+Aguascalientes,2015,21,0,0,0,0
+Baja California,2015,21,0,0,0,0
+Baja California Sur,2015,21,1,1,1,0
+Campeche,2015,21,0,0,0,0
+Coahuila,2015,21,0,0,0,0
+Colima,2015,21,0,0,0,0
+Chiapas,2015,21,0,0,0,0
+Chihuahua,2015,21,0,0,0,0
+Ciudad de México,2015,21,0,0,0,0
+Durango,2015,21,0,0,0,0
+Guanajuato,2015,21,0,0,0,0
+Guerrero,2015,21,0,0,0,0
+Hidalgo,2015,21,0,0,0,0
+Jalisco,2015,21,0,0,0,0
+México,2015,21,0,0,0,0
+Michoacán,2015,21,0,0,0,0
+Morelos,2015,21,0,0,0,0
+Nayarit,2015,21,0,0,0,0
+Nuevo León,2015,21,0,0,0,0
+Oaxaca,2015,21,0,0,0,0
+Puebla,2015,21,0,0,0,0
+Querétaro,2015,21,0,0,0,0
+Quintana Roo,2015,21,0,0,0,0
+San Luis Potosí,2015,21,0,0,0,0
+Sinaloa,2015,21,0,0,0,0
+Sonora,2015,21,3,3,3,0
+Tabasco,2015,21,0,0,0,0
+Tamaulipas,2015,21,0,0,0,0
+Tlaxcala,2015,21,0,0,0,0
+Veracruz,2015,21,0,0,0,0
+Yucatán,2015,21,0,0,0,0
+Zacatecas,2015,21,0,0,0,0
+Aguascalientes,2015,22,0,0,0,0
+Baja California,2015,22,0,0,0,0
+Baja California Sur,2015,22,0,0,0,0
+Campeche,2015,22,0,0,0,0
+Coahuila,2015,22,1,1,1,0
+Colima,2015,22,0,0,0,0
+Chiapas,2015,22,0,0,0,0
+Chihuahua,2015,22,0,0,0,0
+Ciudad de México,2015,22,0,0,0,0
+Durango,2015,22,0,0,0,0
+Guanajuato,2015,22,0,0,0,0
+Guerrero,2015,22,0,0,0,0
+Hidalgo,2015,22,0,0,0,0
+Jalisco,2015,22,0,0,0,0
+México,2015,22,0,0,0,0
+Michoacán,2015,22,0,0,0,0
+Morelos,2015,22,0,0,0,0
+Nayarit,2015,22,0,0,0,0
+Nuevo León,2015,22,0,0,0,0
+Oaxaca,2015,22,0,0,0,0
+Puebla,2015,22,0,0,0,0
+Querétaro,2015,22,0,0,0,0
+Quintana Roo,2015,22,0,0,0,0
+San Luis Potosí,2015,22,0,0,0,0
+Sinaloa,2015,22,0,0,0,0
+Sonora,2015,22,2,2,2,0
+Tabasco,2015,22,0,0,0,0
+Tamaulipas,2015,22,0,0,0,0
+Tlaxcala,2015,22,0,0,0,0
+Veracruz,2015,22,0,0,0,0
+Yucatán,2015,22,0,0,0,0
+Zacatecas,2015,22,0,0,0,0
+Aguascalientes,2015,23,0,0,0,0
+Baja California,2015,23,1,1,1,0
+Baja California Sur,2015,23,0,0,0,0
+Campeche,2015,23,0,0,0,0
+Coahuila,2015,23,0,0,0,0
+Colima,2015,23,0,0,0,0
+Chiapas,2015,23,0,0,0,0
+Chihuahua,2015,23,0,0,0,0
+Ciudad de México,2015,23,0,0,0,0
+Durango,2015,23,0,0,0,0
+Guanajuato,2015,23,0,0,0,0
+Guerrero,2015,23,0,0,0,0
+Hidalgo,2015,23,0,0,0,0
+Jalisco,2015,23,0,0,0,0
+México,2015,23,0,0,0,0
+Michoacán,2015,23,0,0,0,0
+Morelos,2015,23,0,0,0,0
+Nayarit,2015,23,0,0,0,0
+Nuevo León,2015,23,0,0,0,0
+Oaxaca,2015,23,0,0,0,0
+Puebla,2015,23,0,0,0,0
+Querétaro,2015,23,0,0,0,0
+Quintana Roo,2015,23,0,0,0,0
+San Luis Potosí,2015,23,0,0,0,0
+Sinaloa,2015,23,0,0,0,0
+Sonora,2015,23,4,4,4,0
+Tabasco,2015,23,0,0,0,0
+Tamaulipas,2015,23,0,0,0,0
+Tlaxcala,2015,23,0,0,0,0
+Veracruz,2015,23,0,0,0,0
+Yucatán,2015,23,0,0,0,0
+Zacatecas,2015,23,0,0,0,0
+Aguascalientes,2015,24,0,0,0,0
+Baja California,2015,24,2,2,2,0
+Baja California Sur,2015,24,0,0,0,0
+Campeche,2015,24,0,0,0,0
+Coahuila,2015,24,1,1,1,0
+Colima,2015,24,0,0,0,0
+Chiapas,2015,24,0,0,0,0
+Chihuahua,2015,24,0,0,0,0
+Ciudad de México,2015,24,0,0,0,0
+Durango,2015,24,0,0,0,0
+Guanajuato,2015,24,0,0,0,0
+Guerrero,2015,24,0,0,0,0
+Hidalgo,2015,24,0,0,0,0
+Jalisco,2015,24,0,0,0,0
+México,2015,24,0,0,0,0
+Michoacán,2015,24,0,0,0,0
+Morelos,2015,24,0,0,0,0
+Nayarit,2015,24,0,0,0,0
+Nuevo León,2015,24,0,0,0,0
+Oaxaca,2015,24,0,0,0,0
+Puebla,2015,24,0,0,0,0
+Querétaro,2015,24,0,0,0,0
+Quintana Roo,2015,24,1,1,1,0
+San Luis Potosí,2015,24,0,0,0,0
+Sinaloa,2015,24,0,0,0,0
+Sonora,2015,24,4,4,4,0
+Tabasco,2015,24,0,0,0,0
+Tamaulipas,2015,24,0,0,0,0
+Tlaxcala,2015,24,0,0,0,0
+Veracruz,2015,24,0,0,0,0
+Yucatán,2015,24,0,0,0,0
+Zacatecas,2015,24,0,0,0,0
+Aguascalientes,2015,25,0,0,0,0
+Baja California,2015,25,3,3,3,0
+Baja California Sur,2015,25,0,0,0,0
+Campeche,2015,25,0,0,0,0
+Coahuila,2015,25,2,2,2,0
+Colima,2015,25,0,0,0,0
+Chiapas,2015,25,0,0,0,0
+Chihuahua,2015,25,0,0,0,0
+Ciudad de México,2015,25,0,0,0,0
+Durango,2015,25,0,0,0,0
+Guanajuato,2015,25,0,0,0,0
+Guerrero,2015,25,0,0,0,0
+Hidalgo,2015,25,0,0,0,0
+Jalisco,2015,25,0,0,0,0
+México,2015,25,0,0,0,0
+Michoacán,2015,25,0,0,0,0
+Morelos,2015,25,0,0,0,0
+Nayarit,2015,25,0,0,0,0
+Nuevo León,2015,25,0,0,0,0
+Oaxaca,2015,25,0,0,0,0
+Puebla,2015,25,0,0,0,0
+Querétaro,2015,25,0,0,0,0
+Quintana Roo,2015,25,0,0,0,0
+San Luis Potosí,2015,25,0,0,0,0
+Sinaloa,2015,25,0,0,0,0
+Sonora,2015,25,2,2,2,0
+Tabasco,2015,25,0,0,0,0
+Tamaulipas,2015,25,0,0,0,0
+Tlaxcala,2015,25,0,0,0,0
+Veracruz,2015,25,0,0,0,0
+Yucatán,2015,25,0,0,0,0
+Zacatecas,2015,25,0,0,0,0
+Aguascalientes,2015,26,0,0,0,0
+Baja California,2015,26,2,2,2,0
+Baja California Sur,2015,26,0,0,0,0
+Campeche,2015,26,0,0,0,0
+Coahuila,2015,26,1,1,1,0
+Colima,2015,26,0,0,0,0
+Chiapas,2015,26,0,0,0,0
+Chihuahua,2015,26,0,0,0,0
+Ciudad de México,2015,26,0,0,0,0
+Durango,2015,26,0,0,0,0
+Guanajuato,2015,26,0,0,0,0
+Guerrero,2015,26,0,0,0,0
+Hidalgo,2015,26,0,0,0,0
+Jalisco,2015,26,0,0,0,0
+México,2015,26,0,0,0,0
+Michoacán,2015,26,0,0,0,0
+Morelos,2015,26,0,0,0,0
+Nayarit,2015,26,0,0,0,0
+Nuevo León,2015,26,0,0,0,0
+Oaxaca,2015,26,0,0,0,0
+Puebla,2015,26,0,0,0,0
+Querétaro,2015,26,0,0,0,0
+Quintana Roo,2015,26,0,0,0,0
+San Luis Potosí,2015,26,0,0,0,0
+Sinaloa,2015,26,0,0,0,0
+Sonora,2015,26,0,0,0,0
+Tabasco,2015,26,0,0,0,0
+Tamaulipas,2015,26,0,0,0,0
+Tlaxcala,2015,26,0,0,0,0
+Veracruz,2015,26,0,0,0,0
+Yucatán,2015,26,0,0,0,0
+Zacatecas,2015,26,0,0,0,0
+Aguascalientes,2015,27,0,0,0,0
+Baja California,2015,27,4,4,4,0
+Baja California Sur,2015,27,0,0,0,0
+Campeche,2015,27,0,0,0,0
+Coahuila,2015,27,0,0,0,0
+Colima,2015,27,0,0,0,0
+Chiapas,2015,27,0,0,0,0
+Chihuahua,2015,27,0,0,0,0
+Ciudad de México,2015,27,0,0,0,0
+Durango,2015,27,0,0,0,0
+Guanajuato,2015,27,0,0,0,0
+Guerrero,2015,27,0,0,0,0
+Hidalgo,2015,27,0,0,0,0
+Jalisco,2015,27,0,0,0,0
+México,2015,27,0,0,0,0
+Michoacán,2015,27,0,0,0,0
+Morelos,2015,27,0,0,0,0
+Nayarit,2015,27,0,0,0,0
+Nuevo León,2015,27,0,0,0,0
+Oaxaca,2015,27,0,0,0,0
+Puebla,2015,27,0,0,0,0
+Querétaro,2015,27,0,0,0,0
+Quintana Roo,2015,27,0,0,0,0
+San Luis Potosí,2015,27,0,0,0,0
+Sinaloa,2015,27,0,0,0,0
+Sonora,2015,27,6,6,6,0
+Tabasco,2015,27,0,0,0,0
+Tamaulipas,2015,27,0,0,0,0
+Tlaxcala,2015,27,0,0,0,0
+Veracruz,2015,27,0,0,0,0
+Yucatán,2015,27,0,0,0,0
+Zacatecas,2015,27,0,0,0,0
+Aguascalientes,2015,28,0,0,0,0
+Baja California,2015,28,4,4,4,0
+Baja California Sur,2015,28,0,0,0,0
+Campeche,2015,28,0,0,0,0
+Coahuila,2015,28,0,0,0,0
+Colima,2015,28,0,0,0,0
+Chiapas,2015,28,0,0,0,0
+Chihuahua,2015,28,0,0,0,0
+Ciudad de México,2015,28,0,0,0,0
+Durango,2015,28,0,0,0,0
+Guanajuato,2015,28,0,0,0,0
+Guerrero,2015,28,0,0,0,0
+Hidalgo,2015,28,0,0,0,0
+Jalisco,2015,28,0,0,0,0
+México,2015,28,0,0,0,0
+Michoacán,2015,28,0,0,0,0
+Morelos,2015,28,0,0,0,0
+Nayarit,2015,28,0,0,0,0
+Nuevo León,2015,28,0,0,0,0
+Oaxaca,2015,28,0,0,0,0
+Puebla,2015,28,0,0,0,0
+Querétaro,2015,28,0,0,0,0
+Quintana Roo,2015,28,0,0,0,0
+San Luis Potosí,2015,28,0,0,0,0
+Sinaloa,2015,28,2,2,2,0
+Sonora,2015,28,2,2,2,0
+Tabasco,2015,28,0,0,0,0
+Tamaulipas,2015,28,0,0,0,0
+Tlaxcala,2015,28,0,0,0,0
+Veracruz,2015,28,0,0,0,0
+Yucatán,2015,28,0,0,0,0
+Zacatecas,2015,28,0,0,0,0
+Aguascalientes,2015,29,0,0,0,0
+Baja California,2015,29,8,8,8,0
+Baja California Sur,2015,29,0,0,0,0
+Campeche,2015,29,0,0,0,0
+Coahuila,2015,29,1,1,1,0
+Colima,2015,29,0,0,0,0
+Chiapas,2015,29,0,0,0,0
+Chihuahua,2015,29,0,0,0,0
+Ciudad de México,2015,29,0,0,0,0
+Durango,2015,29,0,0,0,0
+Guanajuato,2015,29,1,1,1,0
+Guerrero,2015,29,0,0,0,0
+Hidalgo,2015,29,0,0,0,0
+Jalisco,2015,29,0,0,0,0
+México,2015,29,0,0,0,0
+Michoacán,2015,29,0,0,0,0
+Morelos,2015,29,0,0,0,0
+Nayarit,2015,29,0,0,0,0
+Nuevo León,2015,29,0,0,0,0
+Oaxaca,2015,29,0,0,0,0
+Puebla,2015,29,0,0,0,0
+Querétaro,2015,29,0,0,0,0
+Quintana Roo,2015,29,0,0,0,0
+San Luis Potosí,2015,29,0,0,0,0
+Sinaloa,2015,29,0,0,0,0
+Sonora,2015,29,1,1,1,0
+Tabasco,2015,29,0,0,0,0
+Tamaulipas,2015,29,0,0,0,0
+Tlaxcala,2015,29,0,0,0,0
+Veracruz,2015,29,0,0,0,0
+Yucatán,2015,29,0,0,0,0
+Zacatecas,2015,29,0,0,0,0
+Aguascalientes,2015,30,0,0,0,0
+Baja California,2015,30,9,9,9,0
+Baja California Sur,2015,30,1,1,1,0
+Campeche,2015,30,0,0,0,0
+Coahuila,2015,30,0,0,0,0
+Colima,2015,30,0,0,0,0
+Chiapas,2015,30,0,0,0,0
+Chihuahua,2015,30,0,0,0,0
+Ciudad de México,2015,30,0,0,0,0
+Durango,2015,30,0,0,0,0
+Guanajuato,2015,30,0,0,0,0
+Guerrero,2015,30,0,0,0,0
+Hidalgo,2015,30,0,0,0,0
+Jalisco,2015,30,0,0,0,0
+México,2015,30,0,0,0,0
+Michoacán,2015,30,0,0,0,0
+Morelos,2015,30,0,0,0,0
+Nayarit,2015,30,0,0,0,0
+Nuevo León,2015,30,0,0,0,0
+Oaxaca,2015,30,0,0,0,0
+Puebla,2015,30,0,0,0,0
+Querétaro,2015,30,0,0,0,0
+Quintana Roo,2015,30,0,0,0,0
+San Luis Potosí,2015,30,0,0,0,0
+Sinaloa,2015,30,0,0,0,0
+Sonora,2015,30,2,2,2,0
+Tabasco,2015,30,0,0,0,0
+Tamaulipas,2015,30,0,0,0,0
+Tlaxcala,2015,30,0,0,0,0
+Veracruz,2015,30,0,0,0,0
+Yucatán,2015,30,0,0,0,0
+Zacatecas,2015,30,0,0,0,0
+Aguascalientes,2015,31,0,0,0,0
+Baja California,2015,31,5,5,5,0
+Baja California Sur,2015,31,0,0,0,0
+Campeche,2015,31,0,0,0,0
+Coahuila,2015,31,0,0,0,0
+Colima,2015,31,0,0,0,0
+Chiapas,2015,31,0,0,0,0
+Chihuahua,2015,31,0,0,0,0
+Ciudad de México,2015,31,0,0,0,0
+Durango,2015,31,0,0,0,0
+Guanajuato,2015,31,1,1,1,0
+Guerrero,2015,31,0,0,0,0
+Hidalgo,2015,31,0,0,0,0
+Jalisco,2015,31,0,0,0,0
+México,2015,31,0,0,0,0
+Michoacán,2015,31,0,0,0,0
+Morelos,2015,31,0,0,0,0
+Nayarit,2015,31,0,0,0,0
+Nuevo León,2015,31,0,0,0,0
+Oaxaca,2015,31,0,0,0,0
+Puebla,2015,31,0,0,0,0
+Querétaro,2015,31,0,0,0,0
+Quintana Roo,2015,31,0,0,0,0
+San Luis Potosí,2015,31,0,0,0,0
+Sinaloa,2015,31,1,1,1,0
+Sonora,2015,31,1,1,1,0
+Tabasco,2015,31,0,0,0,0
+Tamaulipas,2015,31,0,0,0,0
+Tlaxcala,2015,31,0,0,0,0
+Veracruz,2015,31,0,0,0,0
+Yucatán,2015,31,0,0,0,0
+Zacatecas,2015,31,0,0,0,0
+Aguascalientes,2015,32,0,0,0,0
+Baja California,2015,32,7,7,7,0
+Baja California Sur,2015,32,0,0,0,0
+Campeche,2015,32,0,0,0,0
+Coahuila,2015,32,0,0,0,0
+Colima,2015,32,0,0,0,0
+Chiapas,2015,32,0,0,0,0
+Chihuahua,2015,32,0,0,0,0
+Ciudad de México,2015,32,0,0,0,0
+Durango,2015,32,0,0,0,0
+Guanajuato,2015,32,0,0,0,0
+Guerrero,2015,32,0,0,0,0
+Hidalgo,2015,32,0,0,0,0
+Jalisco,2015,32,0,0,0,0
+México,2015,32,0,0,0,0
+Michoacán,2015,32,0,0,0,0
+Morelos,2015,32,0,0,0,0
+Nayarit,2015,32,0,0,0,0
+Nuevo León,2015,32,0,0,0,0
+Oaxaca,2015,32,0,0,0,0
+Puebla,2015,32,0,0,0,0
+Querétaro,2015,32,0,0,0,0
+Quintana Roo,2015,32,0,0,0,0
+San Luis Potosí,2015,32,0,0,0,0
+Sinaloa,2015,32,0,0,0,0
+Sonora,2015,32,6,6,6,0
+Tabasco,2015,32,0,0,0,0
+Tamaulipas,2015,32,0,0,0,0
+Tlaxcala,2015,32,0,0,0,0
+Veracruz,2015,32,0,0,0,0
+Yucatán,2015,32,0,0,0,0
+Zacatecas,2015,32,0,0,0,0
+Aguascalientes,2015,33,0,0,0,0
+Baja California,2015,33,4,4,4,0
+Baja California Sur,2015,33,0,0,0,0
+Campeche,2015,33,1,1,1,0
+Coahuila,2015,33,0,0,0,0
+Colima,2015,33,0,0,0,0
+Chiapas,2015,33,0,0,0,0
+Chihuahua,2015,33,1,1,1,0
+Ciudad de México,2015,33,0,0,0,0
+Durango,2015,33,0,0,0,0
+Guanajuato,2015,33,1,1,1,0
+Guerrero,2015,33,0,0,0,0
+Hidalgo,2015,33,0,0,0,0
+Jalisco,2015,33,0,0,0,0
+México,2015,33,0,0,0,0
+Michoacán,2015,33,0,0,0,0
+Morelos,2015,33,0,0,0,0
+Nayarit,2015,33,0,0,0,0
+Nuevo León,2015,33,0,0,0,0
+Oaxaca,2015,33,0,0,0,0
+Puebla,2015,33,0,0,0,0
+Querétaro,2015,33,0,0,0,0
+Quintana Roo,2015,33,0,0,0,0
+San Luis Potosí,2015,33,0,0,0,0
+Sinaloa,2015,33,0,0,0,0
+Sonora,2015,33,5,5,5,0
+Tabasco,2015,33,0,0,0,0
+Tamaulipas,2015,33,0,0,0,0
+Tlaxcala,2015,33,0,0,0,0
+Veracruz,2015,33,0,0,0,0
+Yucatán,2015,33,0,0,0,0
+Zacatecas,2015,33,0,0,0,0
+Aguascalientes,2015,34,0,0,0,0
+Baja California,2015,34,4,4,4,0
+Baja California Sur,2015,34,0,0,0,0
+Campeche,2015,34,0,0,0,0
+Coahuila,2015,34,0,0,0,0
+Colima,2015,34,0,0,0,0
+Chiapas,2015,34,0,0,0,0
+Chihuahua,2015,34,0,0,0,0
+Ciudad de México,2015,34,0,0,0,0
+Durango,2015,34,0,0,0,0
+Guanajuato,2015,34,4,4,4,0
+Guerrero,2015,34,0,0,0,0
+Hidalgo,2015,34,0,0,0,0
+Jalisco,2015,34,0,0,0,0
+México,2015,34,0,0,0,0
+Michoacán,2015,34,0,0,0,0
+Morelos,2015,34,0,0,0,0
+Nayarit,2015,34,0,0,0,0
+Nuevo León,2015,34,0,0,0,0
+Oaxaca,2015,34,0,0,0,0
+Puebla,2015,34,0,0,0,0
+Querétaro,2015,34,0,0,0,0
+Quintana Roo,2015,34,0,0,0,0
+San Luis Potosí,2015,34,0,0,0,0
+Sinaloa,2015,34,0,0,0,0
+Sonora,2015,34,10,10,10,0
+Tabasco,2015,34,0,0,0,0
+Tamaulipas,2015,34,1,1,1,0
+Tlaxcala,2015,34,0,0,0,0
+Veracruz,2015,34,0,0,0,0
+Yucatán,2015,34,0,0,0,0
+Zacatecas,2015,34,0,0,0,0
+Aguascalientes,2015,35,0,0,0,0
+Baja California,2015,35,8,8,8,0
+Baja California Sur,2015,35,0,0,0,0
+Campeche,2015,35,0,0,0,0
+Coahuila,2015,35,0,0,0,0
+Colima,2015,35,0,0,0,0
+Chiapas,2015,35,0,0,0,0
+Chihuahua,2015,35,0,0,0,0
+Ciudad de México,2015,35,0,0,0,0
+Durango,2015,35,0,0,0,0
+Guanajuato,2015,35,0,0,0,0
+Guerrero,2015,35,0,0,0,0
+Hidalgo,2015,35,0,0,0,0
+Jalisco,2015,35,1,1,1,0
+México,2015,35,0,0,0,0
+Michoacán,2015,35,0,0,0,0
+Morelos,2015,35,0,0,0,0
+Nayarit,2015,35,0,0,0,0
+Nuevo León,2015,35,0,0,0,0
+Oaxaca,2015,35,0,0,0,0
+Puebla,2015,35,0,0,0,0
+Querétaro,2015,35,0,0,0,0
+Quintana Roo,2015,35,0,0,0,0
+San Luis Potosí,2015,35,0,0,0,0
+Sinaloa,2015,35,0,0,0,0
+Sonora,2015,35,5,5,5,0
+Tabasco,2015,35,0,0,0,0
+Tamaulipas,2015,35,0,0,0,0
+Tlaxcala,2015,35,0,0,0,0
+Veracruz,2015,35,0,0,0,0
+Yucatán,2015,35,0,0,0,0
+Zacatecas,2015,35,0,0,0,0
+Aguascalientes,2015,36,0,0,0,0
+Baja California,2015,36,7,7,7,0
+Baja California Sur,2015,36,0,0,0,0
+Campeche,2015,36,0,0,0,0
+Coahuila,2015,36,1,1,1,0
+Colima,2015,36,0,0,0,0
+Chiapas,2015,36,0,0,0,0
+Chihuahua,2015,36,0,0,0,0
+Ciudad de México,2015,36,0,0,0,0
+Durango,2015,36,0,0,0,0
+Guanajuato,2015,36,0,0,0,0
+Guerrero,2015,36,0,0,0,0
+Hidalgo,2015,36,0,0,0,0
+Jalisco,2015,36,0,0,0,0
+México,2015,36,0,0,0,0
+Michoacán,2015,36,0,0,0,0
+Morelos,2015,36,0,0,0,0
+Nayarit,2015,36,0,0,0,0
+Nuevo León,2015,36,0,0,0,0
+Oaxaca,2015,36,0,0,0,0
+Puebla,2015,36,0,0,0,0
+Querétaro,2015,36,0,0,0,0
+Quintana Roo,2015,36,0,0,0,0
+San Luis Potosí,2015,36,0,0,0,0
+Sinaloa,2015,36,0,0,0,0
+Sonora,2015,36,5,5,5,0
+Tabasco,2015,36,0,0,0,0
+Tamaulipas,2015,36,0,0,0,0
+Tlaxcala,2015,36,0,0,0,0
+Veracruz,2015,36,0,0,0,0
+Yucatán,2015,36,0,0,0,0
+Zacatecas,2015,36,0,0,0,0
+Aguascalientes,2015,37,0,0,0,0
+Baja California,2015,37,7,7,7,0
+Baja California Sur,2015,37,0,0,0,0
+Campeche,2015,37,0,0,0,0
+Coahuila,2015,37,3,3,3,0
+Colima,2015,37,0,0,0,0
+Chiapas,2015,37,0,0,0,0
+Chihuahua,2015,37,0,0,0,0
+Ciudad de México,2015,37,0,0,0,0
+Durango,2015,37,0,0,0,0
+Guanajuato,2015,37,0,0,0,0
+Guerrero,2015,37,0,0,0,0
+Hidalgo,2015,37,0,0,0,0
+Jalisco,2015,37,0,0,0,0
+México,2015,37,0,0,0,0
+Michoacán,2015,37,0,0,0,0
+Morelos,2015,37,0,0,0,0
+Nayarit,2015,37,0,0,0,0
+Nuevo León,2015,37,0,0,0,0
+Oaxaca,2015,37,0,0,0,0
+Puebla,2015,37,0,0,0,0
+Querétaro,2015,37,0,0,0,0
+Quintana Roo,2015,37,0,0,0,0
+San Luis Potosí,2015,37,0,0,0,0
+Sinaloa,2015,37,0,0,0,0
+Sonora,2015,37,6,6,6,0
+Tabasco,2015,37,0,0,0,0
+Tamaulipas,2015,37,0,0,0,0
+Tlaxcala,2015,37,0,0,0,0
+Veracruz,2015,37,0,0,0,0
+Yucatán,2015,37,0,0,0,0
+Zacatecas,2015,37,0,0,0,0
+Aguascalientes,2015,38,0,0,0,0
+Baja California,2015,38,16,16,16,0
+Baja California Sur,2015,38,0,0,0,0
+Campeche,2015,38,0,0,0,0
+Coahuila,2015,38,0,0,0,0
+Colima,2015,38,0,0,0,0
+Chiapas,2015,38,0,0,0,0
+Chihuahua,2015,38,0,0,0,0
+Ciudad de México,2015,38,0,0,0,0
+Durango,2015,38,0,0,0,0
+Guanajuato,2015,38,0,0,0,0
+Guerrero,2015,38,0,0,0,0
+Hidalgo,2015,38,0,0,0,0
+Jalisco,2015,38,0,0,0,0
+México,2015,38,0,0,0,0
+Michoacán,2015,38,0,0,0,0
+Morelos,2015,38,0,0,0,0
+Nayarit,2015,38,0,0,0,0
+Nuevo León,2015,38,1,1,1,0
+Oaxaca,2015,38,0,0,0,0
+Puebla,2015,38,0,0,0,0
+Querétaro,2015,38,0,0,0,0
+Quintana Roo,2015,38,0,0,0,0
+San Luis Potosí,2015,38,0,0,0,0
+Sinaloa,2015,38,0,0,0,0
+Sonora,2015,38,4,4,4,0
+Tabasco,2015,38,0,0,0,0
+Tamaulipas,2015,38,0,0,0,0
+Tlaxcala,2015,38,0,0,0,0
+Veracruz,2015,38,0,0,0,0
+Yucatán,2015,38,0,0,0,0
+Zacatecas,2015,38,0,0,0,0
+Aguascalientes,2015,39,0,0,0,0
+Baja California,2015,39,21,21,21,0
+Baja California Sur,2015,39,0,0,0,0
+Campeche,2015,39,0,0,0,0
+Coahuila,2015,39,1,1,1,0
+Colima,2015,39,0,0,0,0
+Chiapas,2015,39,0,0,0,0
+Chihuahua,2015,39,0,0,0,0
+Ciudad de México,2015,39,0,0,0,0
+Durango,2015,39,0,0,0,0
+Guanajuato,2015,39,0,0,0,0
+Guerrero,2015,39,0,0,0,0
+Hidalgo,2015,39,0,0,0,0
+Jalisco,2015,39,0,0,0,0
+México,2015,39,0,0,0,0
+Michoacán,2015,39,0,0,0,0
+Morelos,2015,39,0,0,0,0
+Nayarit,2015,39,0,0,0,0
+Nuevo León,2015,39,0,0,0,0
+Oaxaca,2015,39,0,0,0,0
+Puebla,2015,39,0,0,0,0
+Querétaro,2015,39,0,0,0,0
+Quintana Roo,2015,39,0,0,0,0
+San Luis Potosí,2015,39,0,0,0,0
+Sinaloa,2015,39,1,1,1,0
+Sonora,2015,39,6,6,6,0
+Tabasco,2015,39,0,0,0,0
+Tamaulipas,2015,39,0,0,0,0
+Tlaxcala,2015,39,0,0,0,0
+Veracruz,2015,39,0,0,0,0
+Yucatán,2015,39,0,0,0,0
+Zacatecas,2015,39,0,0,0,0
+Aguascalientes,2015,40,0,0,0,0
+Baja California,2015,40,21,21,21,0
+Baja California Sur,2015,40,0,0,0,0
+Campeche,2015,40,0,0,0,0
+Coahuila,2015,40,0,0,0,0
+Colima,2015,40,0,0,0,0
+Chiapas,2015,40,0,0,0,0
+Chihuahua,2015,40,0,0,0,0
+Ciudad de México,2015,40,0,0,0,0
+Durango,2015,40,0,0,0,0
+Guanajuato,2015,40,0,0,0,0
+Guerrero,2015,40,0,0,0,0
+Hidalgo,2015,40,0,0,0,0
+Jalisco,2015,40,0,0,0,0
+México,2015,40,0,0,0,0
+Michoacán,2015,40,0,0,0,0
+Morelos,2015,40,0,0,0,0
+Nayarit,2015,40,0,0,0,0
+Nuevo León,2015,40,0,0,0,0
+Oaxaca,2015,40,0,0,0,0
+Puebla,2015,40,0,0,0,0
+Querétaro,2015,40,0,0,0,0
+Quintana Roo,2015,40,0,0,0,0
+San Luis Potosí,2015,40,0,0,0,0
+Sinaloa,2015,40,0,0,0,0
+Sonora,2015,40,5,5,5,0
+Tabasco,2015,40,0,0,0,0
+Tamaulipas,2015,40,0,0,0,0
+Tlaxcala,2015,40,0,0,0,0
+Veracruz,2015,40,0,0,0,0
+Yucatán,2015,40,0,0,0,0
+Zacatecas,2015,40,0,0,0,0
+Aguascalientes,2015,41,0,0,0,0
+Baja California,2015,41,11,11,11,0
+Baja California Sur,2015,41,0,0,0,0
+Campeche,2015,41,0,0,0,0
+Coahuila,2015,41,1,1,1,0
+Colima,2015,41,0,0,0,0
+Chiapas,2015,41,0,0,0,0
+Chihuahua,2015,41,0,0,0,0
+Ciudad de México,2015,41,0,0,0,0
+Durango,2015,41,0,0,0,0
+Guanajuato,2015,41,0,0,0,0
+Guerrero,2015,41,0,0,0,0
+Hidalgo,2015,41,0,0,0,0
+Jalisco,2015,41,0,0,0,0
+México,2015,41,0,0,0,0
+Michoacán,2015,41,0,0,0,0
+Morelos,2015,41,0,0,0,0
+Nayarit,2015,41,0,0,0,0
+Nuevo León,2015,41,0,0,0,0
+Oaxaca,2015,41,0,0,0,0
+Puebla,2015,41,0,0,0,0
+Querétaro,2015,41,0,0,0,0
+Quintana Roo,2015,41,0,0,0,0
+San Luis Potosí,2015,41,0,0,0,0
+Sinaloa,2015,41,0,0,0,0
+Sonora,2015,41,4,4,4,0
+Tabasco,2015,41,0,0,0,0
+Tamaulipas,2015,41,0,0,0,0
+Tlaxcala,2015,41,0,0,0,0
+Veracruz,2015,41,0,0,0,0
+Yucatán,2015,41,0,0,0,0
+Zacatecas,2015,41,0,0,0,0
+Aguascalientes,2015,42,0,0,0,0
+Baja California,2015,42,25,25,25,0
+Baja California Sur,2015,42,0,0,0,0
+Campeche,2015,42,0,0,0,0
+Coahuila,2015,42,0,0,0,0
+Colima,2015,42,0,0,0,0
+Chiapas,2015,42,0,0,0,0
+Chihuahua,2015,42,0,0,0,0
+Ciudad de México,2015,42,0,0,0,0
+Durango,2015,42,0,0,0,0
+Guanajuato,2015,42,0,0,0,0
+Guerrero,2015,42,0,0,0,0
+Hidalgo,2015,42,0,0,0,0
+Jalisco,2015,42,0,0,0,0
+México,2015,42,0,0,0,0
+Michoacán,2015,42,0,0,0,0
+Morelos,2015,42,0,0,0,0
+Nayarit,2015,42,0,0,0,0
+Nuevo León,2015,42,0,0,0,0
+Oaxaca,2015,42,0,0,0,0
+Puebla,2015,42,0,0,0,0
+Querétaro,2015,42,0,0,0,0
+Quintana Roo,2015,42,0,0,0,0
+San Luis Potosí,2015,42,0,0,0,0
+Sinaloa,2015,42,0,0,0,0
+Sonora,2015,42,3,3,3,0
+Tabasco,2015,42,0,0,0,0
+Tamaulipas,2015,42,0,0,0,0
+Tlaxcala,2015,42,0,0,0,0
+Veracruz,2015,42,0,0,0,0
+Yucatán,2015,42,0,0,0,0
+Zacatecas,2015,42,0,0,0,0
+Aguascalientes,2015,43,0,0,0,0
+Baja California,2015,43,33,33,33,0
+Baja California Sur,2015,43,0,0,0,0
+Campeche,2015,43,0,0,0,0
+Coahuila,2015,43,1,1,1,0
+Colima,2015,43,0,0,0,0
+Chiapas,2015,43,0,0,0,0
+Chihuahua,2015,43,0,0,0,0
+Ciudad de México,2015,43,0,0,0,0
+Durango,2015,43,0,0,0,0
+Guanajuato,2015,43,0,0,0,0
+Guerrero,2015,43,0,0,0,0
+Hidalgo,2015,43,0,0,0,0
+Jalisco,2015,43,0,0,0,0
+México,2015,43,0,0,0,0
+Michoacán,2015,43,0,0,0,0
+Morelos,2015,43,0,0,0,0
+Nayarit,2015,43,0,0,0,0
+Nuevo León,2015,43,0,0,0,0
+Oaxaca,2015,43,0,0,0,0
+Puebla,2015,43,0,0,0,0
+Querétaro,2015,43,0,0,0,0
+Quintana Roo,2015,43,0,0,0,0
+San Luis Potosí,2015,43,0,0,0,0
+Sinaloa,2015,43,0,0,0,0
+Sonora,2015,43,1,1,1,0
+Tabasco,2015,43,0,0,0,0
+Tamaulipas,2015,43,0,0,0,0
+Tlaxcala,2015,43,0,0,0,0
+Veracruz,2015,43,0,0,0,0
+Yucatán,2015,43,0,0,0,0
+Zacatecas,2015,43,0,0,0,0
+Aguascalientes,2015,44,0,0,0,0
+Baja California,2015,44,33,33,33,0
+Baja California Sur,2015,44,1,1,1,0
+Campeche,2015,44,0,0,0,0
+Coahuila,2015,44,3,3,3,0
+Colima,2015,44,0,0,0,0
+Chiapas,2015,44,0,0,0,0
+Chihuahua,2015,44,0,0,0,0
+Ciudad de México,2015,44,0,0,0,0
+Durango,2015,44,0,0,0,0
+Guanajuato,2015,44,0,0,0,0
+Guerrero,2015,44,0,0,0,0
+Hidalgo,2015,44,0,0,0,0
+Jalisco,2015,44,0,0,0,0
+México,2015,44,0,0,0,0
+Michoacán,2015,44,0,0,0,0
+Morelos,2015,44,0,0,0,0
+Nayarit,2015,44,0,0,0,0
+Nuevo León,2015,44,0,0,0,0
+Oaxaca,2015,44,0,0,0,0
+Puebla,2015,44,0,0,0,0
+Querétaro,2015,44,0,0,0,0
+Quintana Roo,2015,44,0,0,0,0
+San Luis Potosí,2015,44,0,0,0,0
+Sinaloa,2015,44,0,0,0,0
+Sonora,2015,44,6,6,6,0
+Tabasco,2015,44,0,0,0,0
+Tamaulipas,2015,44,0,0,0,0
+Tlaxcala,2015,44,0,0,0,0
+Veracruz,2015,44,0,0,0,0
+Yucatán,2015,44,0,0,0,0
+Zacatecas,2015,44,0,0,0,0
+Aguascalientes,2015,45,0,0,0,0
+Baja California,2015,45,22,22,22,0
+Baja California Sur,2015,45,0,0,0,0
+Campeche,2015,45,0,0,0,0
+Coahuila,2015,45,0,0,0,0
+Colima,2015,45,0,0,0,0
+Chiapas,2015,45,0,0,0,0
+Chihuahua,2015,45,0,0,0,0
+Ciudad de México,2015,45,0,0,0,0
+Durango,2015,45,0,0,0,0
+Guanajuato,2015,45,0,0,0,0
+Guerrero,2015,45,0,0,0,0
+Hidalgo,2015,45,0,0,0,0
+Jalisco,2015,45,0,0,0,0
+México,2015,45,0,0,0,0
+Michoacán,2015,45,0,0,0,0
+Morelos,2015,45,0,0,0,0
+Nayarit,2015,45,0,0,0,0
+Nuevo León,2015,45,0,0,0,0
+Oaxaca,2015,45,0,0,0,0
+Puebla,2015,45,0,0,0,0
+Querétaro,2015,45,0,0,0,0
+Quintana Roo,2015,45,0,0,0,0
+San Luis Potosí,2015,45,0,0,0,0
+Sinaloa,2015,45,1,1,1,0
+Sonora,2015,45,4,4,4,0
+Tabasco,2015,45,0,0,0,0
+Tamaulipas,2015,45,0,0,0,0
+Tlaxcala,2015,45,0,0,0,0
+Veracruz,2015,45,0,0,0,0
+Yucatán,2015,45,0,0,0,0
+Zacatecas,2015,45,0,0,0,0
+Aguascalientes,2015,46,0,0,0,0
+Baja California,2015,46,21,21,21,0
+Baja California Sur,2015,46,2,2,2,0
+Campeche,2015,46,0,0,0,0
+Coahuila,2015,46,0,0,0,0
+Colima,2015,46,0,0,0,0
+Chiapas,2015,46,0,0,0,0
+Chihuahua,2015,46,0,0,0,0
+Ciudad de México,2015,46,0,0,0,0
+Durango,2015,46,0,0,0,0
+Guanajuato,2015,46,0,0,0,0
+Guerrero,2015,46,0,0,0,0
+Hidalgo,2015,46,0,0,0,0
+Jalisco,2015,46,0,0,0,0
+México,2015,46,0,0,0,0
+Michoacán,2015,46,0,0,0,0
+Morelos,2015,46,0,0,0,0
+Nayarit,2015,46,0,0,0,0
+Nuevo León,2015,46,0,0,0,0
+Oaxaca,2015,46,0,0,0,0
+Puebla,2015,46,0,0,0,0
+Querétaro,2015,46,0,0,0,0
+Quintana Roo,2015,46,0,0,0,0
+San Luis Potosí,2015,46,0,0,0,0
+Sinaloa,2015,46,0,0,0,0
+Sonora,2015,46,2,2,2,0
+Tabasco,2015,46,0,0,0,0
+Tamaulipas,2015,46,0,0,0,0
+Tlaxcala,2015,46,0,0,0,0
+Veracruz,2015,46,0,0,0,0
+Yucatán,2015,46,0,0,0,0
+Zacatecas,2015,46,0,0,0,0
+Aguascalientes,2015,47,0,0,0,0
+Baja California,2015,47,14,14,14,0
+Baja California Sur,2015,47,1,1,1,0
+Campeche,2015,47,0,0,0,0
+Coahuila,2015,47,1,1,1,0
+Colima,2015,47,0,0,0,0
+Chiapas,2015,47,0,0,0,0
+Chihuahua,2015,47,0,0,0,0
+Ciudad de México,2015,47,0,0,0,0
+Durango,2015,47,0,0,0,0
+Guanajuato,2015,47,0,0,0,0
+Guerrero,2015,47,0,0,0,0
+Hidalgo,2015,47,0,0,0,0
+Jalisco,2015,47,0,0,0,0
+México,2015,47,0,0,0,0
+Michoacán,2015,47,0,0,0,0
+Morelos,2015,47,0,0,0,0
+Nayarit,2015,47,0,0,0,0
+Nuevo León,2015,47,0,0,0,0
+Oaxaca,2015,47,0,0,0,0
+Puebla,2015,47,0,0,0,0
+Querétaro,2015,47,0,0,0,0
+Quintana Roo,2015,47,0,0,0,0
+San Luis Potosí,2015,47,0,0,0,0
+Sinaloa,2015,47,0,0,0,0
+Sonora,2015,47,3,3,3,0
+Tabasco,2015,47,0,0,0,0
+Tamaulipas,2015,47,0,0,0,0
+Tlaxcala,2015,47,0,0,0,0
+Veracruz,2015,47,0,0,0,0
+Yucatán,2015,47,0,0,0,0
+Zacatecas,2015,47,0,0,0,0
+Aguascalientes,2015,48,0,0,0,0
+Baja California,2015,48,9,9,9,0
+Baja California Sur,2015,48,0,0,0,0
+Campeche,2015,48,0,0,0,0
+Coahuila,2015,48,1,1,1,0
+Colima,2015,48,0,0,0,0
+Chiapas,2015,48,0,0,0,0
+Chihuahua,2015,48,0,0,0,0
+Ciudad de México,2015,48,0,0,0,0
+Durango,2015,48,0,0,0,0
+Guanajuato,2015,48,0,0,0,0
+Guerrero,2015,48,0,0,0,0
+Hidalgo,2015,48,0,0,0,0
+Jalisco,2015,48,0,0,0,0
+México,2015,48,0,0,0,0
+Michoacán,2015,48,0,0,0,0
+Morelos,2015,48,0,0,0,0
+Nayarit,2015,48,0,0,0,0
+Nuevo León,2015,48,0,0,0,0
+Oaxaca,2015,48,0,0,0,0
+Puebla,2015,48,0,0,0,0
+Querétaro,2015,48,0,0,0,0
+Quintana Roo,2015,48,0,0,0,0
+San Luis Potosí,2015,48,0,0,0,0
+Sinaloa,2015,48,0,0,0,0
+Sonora,2015,48,5,5,5,0
+Tabasco,2015,48,0,0,0,0
+Tamaulipas,2015,48,0,0,0,0
+Tlaxcala,2015,48,0,0,0,0
+Veracruz,2015,48,0,0,0,0
+Yucatán,2015,48,0,0,0,0
+Zacatecas,2015,48,0,0,0,0
+Aguascalientes,2015,49,0,0,0,0
+Baja California,2015,49,0,0,0,0
+Baja California Sur,2015,49,0,0,0,0
+Campeche,2015,49,0,0,0,0
+Coahuila,2015,49,0,0,0,0
+Colima,2015,49,0,0,0,0
+Chiapas,2015,49,0,0,0,0
+Chihuahua,2015,49,0,0,0,0
+Ciudad de México,2015,49,0,0,0,0
+Durango,2015,49,0,0,0,0
+Guanajuato,2015,49,0,0,0,0
+Guerrero,2015,49,0,0,0,0
+Hidalgo,2015,49,0,0,0,0
+Jalisco,2015,49,0,0,0,0
+México,2015,49,0,0,0,0
+Michoacán,2015,49,0,0,0,0
+Morelos,2015,49,0,0,0,0
+Nayarit,2015,49,0,0,0,0
+Nuevo León,2015,49,1,1,1,0
+Oaxaca,2015,49,0,0,0,0
+Puebla,2015,49,0,0,0,0
+Querétaro,2015,49,0,0,0,0
+Quintana Roo,2015,49,0,0,0,0
+San Luis Potosí,2015,49,0,0,0,0
+Sinaloa,2015,49,0,0,0,0
+Sonora,2015,49,0,0,0,0
+Tabasco,2015,49,0,0,0,0
+Tamaulipas,2015,49,0,0,0,0
+Tlaxcala,2015,49,0,0,0,0
+Veracruz,2015,49,0,0,0,0
+Yucatán,2015,49,0,0,0,0
+Zacatecas,2015,49,0,0,0,0
+Aguascalientes,2015,50,0,0,0,0
+Baja California,2015,50,1,1,1,0
+Baja California Sur,2015,50,0,0,0,0
+Campeche,2015,50,0,0,0,0
+Coahuila,2015,50,0,0,0,0
+Colima,2015,50,0,0,0,0
+Chiapas,2015,50,0,0,0,0
+Chihuahua,2015,50,1,1,1,0
+Ciudad de México,2015,50,0,0,0,0
+Durango,2015,50,0,0,0,0
+Guanajuato,2015,50,0,0,0,0
+Guerrero,2015,50,0,0,0,0
+Hidalgo,2015,50,0,0,0,0
+Jalisco,2015,50,1,1,1,0
+México,2015,50,0,0,0,0
+Michoacán,2015,50,0,0,0,0
+Morelos,2015,50,0,0,0,0
+Nayarit,2015,50,0,0,0,0
+Nuevo León,2015,50,0,0,0,0
+Oaxaca,2015,50,0,0,0,0
+Puebla,2015,50,0,0,0,0
+Querétaro,2015,50,0,0,0,0
+Quintana Roo,2015,50,0,0,0,0
+San Luis Potosí,2015,50,0,0,0,0
+Sinaloa,2015,50,0,0,0,0
+Sonora,2015,50,0,0,0,0
+Tabasco,2015,50,0,0,0,0
+Tamaulipas,2015,50,0,0,0,0
+Tlaxcala,2015,50,0,0,0,0
+Veracruz,2015,50,0,0,0,0
+Yucatán,2015,50,0,0,0,0
+Zacatecas,2015,50,0,0,0,0
+Aguascalientes,2015,51,0,0,0,0
+Baja California,2015,51,0,0,0,0
+Baja California Sur,2015,51,0,0,0,0
+Campeche,2015,51,0,0,0,0
+Coahuila,2015,51,0,0,0,0
+Colima,2015,51,0,0,0,0
+Chiapas,2015,51,0,0,0,0
+Chihuahua,2015,51,0,0,0,0
+Ciudad de México,2015,51,0,0,0,0
+Durango,2015,51,0,0,0,0
+Guanajuato,2015,51,0,0,0,0
+Guerrero,2015,51,0,0,0,0
+Hidalgo,2015,51,0,0,0,0
+Jalisco,2015,51,0,0,0,0
+México,2015,51,0,0,0,0
+Michoacán,2015,51,0,0,0,0
+Morelos,2015,51,0,0,0,0
+Nayarit,2015,51,0,0,0,0
+Nuevo León,2015,51,0,0,0,0
+Oaxaca,2015,51,0,0,0,0
+Puebla,2015,51,0,0,0,0
+Querétaro,2015,51,0,0,0,0
+Quintana Roo,2015,51,0,0,0,0
+San Luis Potosí,2015,51,0,0,0,0
+Sinaloa,2015,51,0,0,0,0
+Sonora,2015,51,0,0,0,0
+Tabasco,2015,51,0,0,0,0
+Tamaulipas,2015,51,0,0,0,0
+Tlaxcala,2015,51,0,0,0,0
+Veracruz,2015,51,0,0,0,0
+Yucatán,2015,51,0,0,0,0
+Zacatecas,2015,51,0,0,0,0
+Aguascalientes,2015,52,0,0,0,0
+Baja California,2015,52,0,0,0,0
+Baja California Sur,2015,52,0,0,0,0
+Campeche,2015,52,0,0,0,0
+Coahuila,2015,52,0,0,0,0
+Colima,2015,52,0,0,0,0
+Chiapas,2015,52,0,0,0,0
+Chihuahua,2015,52,0,0,0,0
+Ciudad de México,2015,52,0,0,0,0
+Durango,2015,52,0,0,0,0
+Guanajuato,2015,52,0,0,0,0
+Guerrero,2015,52,0,0,0,0
+Hidalgo,2015,52,0,0,0,0
+Jalisco,2015,52,0,0,0,0
+México,2015,52,0,0,0,0
+Michoacán,2015,52,0,0,0,0
+Morelos,2015,52,0,0,0,0
+Nayarit,2015,52,0,0,0,0
+Nuevo León,2015,52,0,0,0,0
+Oaxaca,2015,52,0,0,0,0
+Puebla,2015,52,0,0,0,0
+Querétaro,2015,52,0,0,0,0
+Quintana Roo,2015,52,0,0,0,0
+San Luis Potosí,2015,52,0,0,0,0
+Sinaloa,2015,52,0,0,0,0
+Sonora,2015,52,0,0,0,0
+Tabasco,2015,52,0,0,0,0
+Tamaulipas,2015,52,0,0,0,0
+Tlaxcala,2015,52,0,0,0,0
+Veracruz,2015,52,0,0,0,0
+Yucatán,2015,52,0,0,0,0
+Zacatecas,2015,52,0,0,0,0
+Aguascalientes,2016,1,0,0,0,0
+Baja California,2016,1,0,0,0,0
+Baja California Sur,2016,1,0,0,0,0
+Campeche,2016,1,0,0,0,0
+Coahuila,2016,1,0,0,0,0
+Colima,2016,1,0,0,0,0
+Chiapas,2016,1,0,0,0,0
+Chihuahua,2016,1,0,0,0,0
+Ciudad de México,2016,1,0,0,0,0
+Durango,2016,1,0,0,0,0
+Guanajuato,2016,1,0,0,0,0
+Guerrero,2016,1,0,0,0,0
+Hidalgo,2016,1,0,0,0,0
+Jalisco,2016,1,0,0,0,0
+México,2016,1,0,0,0,0
+Michoacán,2016,1,0,0,0,0
+Morelos,2016,1,0,0,0,0
+Nayarit,2016,1,0,0,0,0
+Nuevo León,2016,1,0,0,0,0
+Oaxaca,2016,1,0,0,0,0
+Puebla,2016,1,0,0,0,0
+Querétaro,2016,1,0,0,0,0
+Quintana Roo,2016,1,0,0,0,0
+San Luis Potosí,2016,1,0,0,0,0
+Sinaloa,2016,1,0,0,0,0
+Sonora,2016,1,0,0,0,0
+Tabasco,2016,1,0,0,0,0
+Tamaulipas,2016,1,0,0,0,0
+Tlaxcala,2016,1,0,0,0,0
+Veracruz,2016,1,0,0,0,0
+Yucatán,2016,1,0,0,0,0
+Zacatecas,2016,1,0,0,0,0
+Aguascalientes,2016,2,0,0,0,0
+Baja California,2016,2,0,0,0,0
+Baja California Sur,2016,2,0,0,0,0
+Campeche,2016,2,0,0,0,0
+Coahuila,2016,2,0,0,0,0
+Colima,2016,2,0,0,0,0
+Chiapas,2016,2,0,0,0,0
+Chihuahua,2016,2,0,0,0,0
+Ciudad de México,2016,2,0,0,0,0
+Durango,2016,2,0,0,0,0
+Guanajuato,2016,2,0,0,0,0
+Guerrero,2016,2,0,0,0,0
+Hidalgo,2016,2,0,0,0,0
+Jalisco,2016,2,0,0,0,0
+México,2016,2,0,0,0,0
+Michoacán,2016,2,0,0,0,0
+Morelos,2016,2,0,0,0,0
+Nayarit,2016,2,0,0,0,0
+Nuevo León,2016,2,0,0,0,0
+Oaxaca,2016,2,0,0,0,0
+Puebla,2016,2,0,0,0,0
+Querétaro,2016,2,0,0,0,0
+Quintana Roo,2016,2,0,0,0,0
+San Luis Potosí,2016,2,0,0,0,0
+Sinaloa,2016,2,0,0,0,0
+Sonora,2016,2,0,0,0,0
+Tabasco,2016,2,0,0,0,0
+Tamaulipas,2016,2,0,0,0,0
+Tlaxcala,2016,2,0,0,0,0
+Veracruz,2016,2,0,0,0,0
+Yucatán,2016,2,0,0,0,0
+Zacatecas,2016,2,0,0,0,0
+Aguascalientes,2016,3,0,0,0,0
+Baja California,2016,3,0,0,0,0
+Baja California Sur,2016,3,0,0,0,0
+Campeche,2016,3,0,0,0,0
+Coahuila,2016,3,0,0,0,0
+Colima,2016,3,0,0,0,0
+Chiapas,2016,3,0,0,0,0
+Chihuahua,2016,3,0,0,0,0
+Ciudad de México,2016,3,0,0,0,0
+Durango,2016,3,0,0,0,0
+Guanajuato,2016,3,0,0,0,0
+Guerrero,2016,3,0,0,0,0
+Hidalgo,2016,3,0,0,0,0
+Jalisco,2016,3,0,0,0,0
+México,2016,3,0,0,0,0
+Michoacán,2016,3,0,0,0,0
+Morelos,2016,3,0,0,0,0
+Nayarit,2016,3,0,0,0,0
+Nuevo León,2016,3,0,0,0,0
+Oaxaca,2016,3,0,0,0,0
+Puebla,2016,3,0,0,0,0
+Querétaro,2016,3,0,0,0,0
+Quintana Roo,2016,3,0,0,0,0
+San Luis Potosí,2016,3,0,0,0,0
+Sinaloa,2016,3,0,0,0,0
+Sonora,2016,3,0,0,0,0
+Tabasco,2016,3,0,0,0,0
+Tamaulipas,2016,3,0,0,0,0
+Tlaxcala,2016,3,0,0,0,0
+Veracruz,2016,3,0,0,0,0
+Yucatán,2016,3,0,0,0,0
+Zacatecas,2016,3,0,0,0,0
+Aguascalientes,2016,4,0,0,0,0
+Baja California,2016,4,0,0,0,0
+Baja California Sur,2016,4,0,0,0,0
+Campeche,2016,4,0,0,0,0
+Coahuila,2016,4,0,0,0,0
+Colima,2016,4,0,0,0,0
+Chiapas,2016,4,0,0,0,0
+Chihuahua,2016,4,0,0,0,0
+Ciudad de México,2016,4,0,0,0,0
+Durango,2016,4,0,0,0,0
+Guanajuato,2016,4,0,0,0,0
+Guerrero,2016,4,0,0,0,0
+Hidalgo,2016,4,0,0,0,0
+Jalisco,2016,4,0,0,0,0
+México,2016,4,0,0,0,0
+Michoacán,2016,4,0,0,0,0
+Morelos,2016,4,0,0,0,0
+Nayarit,2016,4,0,0,0,0
+Nuevo León,2016,4,0,0,0,0
+Oaxaca,2016,4,0,0,0,0
+Puebla,2016,4,0,0,0,0
+Querétaro,2016,4,0,0,0,0
+Quintana Roo,2016,4,0,0,0,0
+San Luis Potosí,2016,4,0,0,0,0
+Sinaloa,2016,4,0,0,0,0
+Sonora,2016,4,0,0,0,0
+Tabasco,2016,4,0,0,0,0
+Tamaulipas,2016,4,0,0,0,0
+Tlaxcala,2016,4,0,0,0,0
+Veracruz,2016,4,1,1,1,0
+Yucatán,2016,4,0,0,0,0
+Zacatecas,2016,4,0,0,0,0
+Aguascalientes,2016,5,0,0,0,0
+Baja California,2016,5,0,0,0,0
+Baja California Sur,2016,5,0,0,0,0
+Campeche,2016,5,0,0,0,0
+Coahuila,2016,5,0,0,0,0
+Colima,2016,5,0,0,0,0
+Chiapas,2016,5,0,0,0,0
+Chihuahua,2016,5,0,0,0,0
+Ciudad de México,2016,5,0,0,0,0
+Durango,2016,5,0,0,0,0
+Guanajuato,2016,5,0,0,0,0
+Guerrero,2016,5,0,0,0,0
+Hidalgo,2016,5,0,0,0,0
+Jalisco,2016,5,0,0,0,0
+México,2016,5,0,0,0,0
+Michoacán,2016,5,0,0,0,0
+Morelos,2016,5,0,0,0,0
+Nayarit,2016,5,0,0,0,0
+Nuevo León,2016,5,0,0,0,0
+Oaxaca,2016,5,0,0,0,0
+Puebla,2016,5,0,0,0,0
+Querétaro,2016,5,0,0,0,0
+Quintana Roo,2016,5,0,0,0,0
+San Luis Potosí,2016,5,0,0,0,0
+Sinaloa,2016,5,0,0,0,0
+Sonora,2016,5,0,0,0,0
+Tabasco,2016,5,0,0,0,0
+Tamaulipas,2016,5,0,0,0,0
+Tlaxcala,2016,5,0,0,0,0
+Veracruz,2016,5,0,0,0,0
+Yucatán,2016,5,0,0,0,0
+Zacatecas,2016,5,0,0,0,0
+Aguascalientes,2016,6,0,0,0,0
+Baja California,2016,6,0,0,0,0
+Baja California Sur,2016,6,0,0,0,0
+Campeche,2016,6,0,0,0,0
+Coahuila,2016,6,0,0,0,0
+Colima,2016,6,0,0,0,0
+Chiapas,2016,6,0,0,0,0
+Chihuahua,2016,6,0,0,0,0
+Ciudad de México,2016,6,0,0,0,0
+Durango,2016,6,0,0,0,0
+Guanajuato,2016,6,0,0,0,0
+Guerrero,2016,6,0,0,0,0
+Hidalgo,2016,6,0,0,0,0
+Jalisco,2016,6,0,0,0,0
+México,2016,6,0,0,0,0
+Michoacán,2016,6,0,0,0,0
+Morelos,2016,6,0,0,0,0
+Nayarit,2016,6,0,0,0,0
+Nuevo León,2016,6,1,1,1,0
+Oaxaca,2016,6,0,0,0,0
+Puebla,2016,6,0,0,0,0
+Querétaro,2016,6,0,0,0,0
+Quintana Roo,2016,6,0,0,0,0
+San Luis Potosí,2016,6,0,0,0,0
+Sinaloa,2016,6,0,0,0,0
+Sonora,2016,6,0,0,0,0
+Tabasco,2016,6,0,0,0,0
+Tamaulipas,2016,6,0,0,0,0
+Tlaxcala,2016,6,0,0,0,0
+Veracruz,2016,6,0,0,0,0
+Yucatán,2016,6,0,0,0,0
+Zacatecas,2016,6,0,0,0,0
+Aguascalientes,2016,7,0,0,0,0
+Baja California,2016,7,1,1,1,0
+Baja California Sur,2016,7,0,0,0,0
+Campeche,2016,7,0,0,0,0
+Coahuila,2016,7,0,0,0,0
+Colima,2016,7,0,0,0,0
+Chiapas,2016,7,0,0,0,0
+Chihuahua,2016,7,0,0,0,0
+Ciudad de México,2016,7,0,0,0,0
+Durango,2016,7,0,0,0,0
+Guanajuato,2016,7,0,0,0,0
+Guerrero,2016,7,0,0,0,0
+Hidalgo,2016,7,0,0,0,0
+Jalisco,2016,7,0,0,0,0
+México,2016,7,0,0,0,0
+Michoacán,2016,7,0,0,0,0
+Morelos,2016,7,0,0,0,0
+Nayarit,2016,7,0,0,0,0
+Nuevo León,2016,7,0,0,0,0
+Oaxaca,2016,7,0,0,0,0
+Puebla,2016,7,0,0,0,0
+Querétaro,2016,7,0,0,0,0
+Quintana Roo,2016,7,0,0,0,0
+San Luis Potosí,2016,7,0,0,0,0
+Sinaloa,2016,7,0,0,0,0
+Sonora,2016,7,0,0,0,0
+Tabasco,2016,7,0,0,0,0
+Tamaulipas,2016,7,0,0,0,0
+Tlaxcala,2016,7,0,0,0,0
+Veracruz,2016,7,0,0,0,0
+Yucatán,2016,7,0,0,0,0
+Zacatecas,2016,7,0,0,0,0
+Aguascalientes,2016,8,0,0,0,0
+Baja California,2016,8,0,0,0,0
+Baja California Sur,2016,8,0,0,0,0
+Campeche,2016,8,0,0,0,0
+Coahuila,2016,8,0,0,0,0
+Colima,2016,8,0,0,0,0
+Chiapas,2016,8,0,0,0,0
+Chihuahua,2016,8,0,0,0,0
+Ciudad de México,2016,8,0,0,0,0
+Durango,2016,8,0,0,0,0
+Guanajuato,2016,8,0,0,0,0
+Guerrero,2016,8,0,0,0,0
+Hidalgo,2016,8,0,0,0,0
+Jalisco,2016,8,0,0,0,0
+México,2016,8,0,0,0,0
+Michoacán,2016,8,0,0,0,0
+Morelos,2016,8,0,0,0,0
+Nayarit,2016,8,0,0,0,0
+Nuevo León,2016,8,0,0,0,0
+Oaxaca,2016,8,0,0,0,0
+Puebla,2016,8,0,0,0,0
+Querétaro,2016,8,0,0,0,0
+Quintana Roo,2016,8,0,0,0,0
+San Luis Potosí,2016,8,0,0,0,0
+Sinaloa,2016,8,0,0,0,0
+Sonora,2016,8,0,0,0,0
+Tabasco,2016,8,0,0,0,0
+Tamaulipas,2016,8,0,0,0,0
+Tlaxcala,2016,8,0,0,0,0
+Veracruz,2016,8,0,0,0,0
+Yucatán,2016,8,0,0,0,0
+Zacatecas,2016,8,0,0,0,0
+Aguascalientes,2016,9,0,0,0,0
+Baja California,2016,9,0,0,0,0
+Baja California Sur,2016,9,0,0,0,0
+Campeche,2016,9,0,0,0,0
+Coahuila,2016,9,0,0,0,0
+Colima,2016,9,0,0,0,0
+Chiapas,2016,9,0,0,0,0
+Chihuahua,2016,9,0,0,0,0
+Ciudad de México,2016,9,0,0,0,0
+Durango,2016,9,0,0,0,0
+Guanajuato,2016,9,0,0,0,0
+Guerrero,2016,9,0,0,0,0
+Hidalgo,2016,9,0,0,0,0
+Jalisco,2016,9,0,0,0,0
+México,2016,9,0,0,0,0
+Michoacán,2016,9,0,0,0,0
+Morelos,2016,9,0,0,0,0
+Nayarit,2016,9,0,0,0,0
+Nuevo León,2016,9,0,0,0,0
+Oaxaca,2016,9,0,0,0,0
+Puebla,2016,9,0,0,0,0
+Querétaro,2016,9,0,0,0,0
+Quintana Roo,2016,9,0,0,0,0
+San Luis Potosí,2016,9,0,0,0,0
+Sinaloa,2016,9,0,0,0,0
+Sonora,2016,9,1,1,1,0
+Tabasco,2016,9,0,0,0,0
+Tamaulipas,2016,9,0,0,0,0
+Tlaxcala,2016,9,0,0,0,0
+Veracruz,2016,9,0,0,0,0
+Yucatán,2016,9,0,0,0,0
+Zacatecas,2016,9,0,0,0,0
+Aguascalientes,2016,10,0,0,0,0
+Baja California,2016,10,1,1,1,0
+Baja California Sur,2016,10,0,0,0,0
+Campeche,2016,10,0,0,0,0
+Coahuila,2016,10,0,0,0,0
+Colima,2016,10,0,0,0,0
+Chiapas,2016,10,0,0,0,0
+Chihuahua,2016,10,0,0,0,0
+Ciudad de México,2016,10,0,0,0,0
+Durango,2016,10,0,0,0,0
+Guanajuato,2016,10,0,0,0,0
+Guerrero,2016,10,0,0,0,0
+Hidalgo,2016,10,0,0,0,0
+Jalisco,2016,10,0,0,0,0
+México,2016,10,0,0,0,0
+Michoacán,2016,10,0,0,0,0
+Morelos,2016,10,0,0,0,0
+Nayarit,2016,10,0,0,0,0
+Nuevo León,2016,10,2,2,2,0
+Oaxaca,2016,10,0,0,0,0
+Puebla,2016,10,0,0,0,0
+Querétaro,2016,10,0,0,0,0
+Quintana Roo,2016,10,0,0,0,0
+San Luis Potosí,2016,10,0,0,0,0
+Sinaloa,2016,10,0,0,0,0
+Sonora,2016,10,0,0,0,0
+Tabasco,2016,10,0,0,0,0
+Tamaulipas,2016,10,0,0,0,0
+Tlaxcala,2016,10,0,0,0,0
+Veracruz,2016,10,0,0,0,0
+Yucatán,2016,10,0,0,0,0
+Zacatecas,2016,10,0,0,0,0
+Aguascalientes,2016,11,0,0,0,0
+Baja California,2016,11,0,0,0,0
+Baja California Sur,2016,11,0,0,0,0
+Campeche,2016,11,0,0,0,0
+Coahuila,2016,11,0,0,0,0
+Colima,2016,11,0,0,0,0
+Chiapas,2016,11,0,0,0,0
+Chihuahua,2016,11,0,0,0,0
+Ciudad de México,2016,11,0,0,0,0
+Durango,2016,11,0,0,0,0
+Guanajuato,2016,11,0,0,0,0
+Guerrero,2016,11,0,0,0,0
+Hidalgo,2016,11,0,0,0,0
+Jalisco,2016,11,0,0,0,0
+México,2016,11,0,0,0,0
+Michoacán,2016,11,0,0,0,0
+Morelos,2016,11,0,0,0,0
+Nayarit,2016,11,0,0,0,0
+Nuevo León,2016,11,0,0,0,0
+Oaxaca,2016,11,0,0,0,0
+Puebla,2016,11,0,0,0,0
+Querétaro,2016,11,0,0,0,0
+Quintana Roo,2016,11,0,0,0,0
+San Luis Potosí,2016,11,0,0,0,0
+Sinaloa,2016,11,0,0,0,0
+Sonora,2016,11,0,0,0,0
+Tabasco,2016,11,0,0,0,0
+Tamaulipas,2016,11,0,0,0,0
+Tlaxcala,2016,11,0,0,0,0
+Veracruz,2016,11,0,0,0,0
+Yucatán,2016,11,0,0,0,0
+Zacatecas,2016,11,0,0,0,0
+Aguascalientes,2016,12,0,0,0,0
+Baja California,2016,12,0,0,0,0
+Baja California Sur,2016,12,0,0,0,0
+Campeche,2016,12,0,0,0,0
+Coahuila,2016,12,0,0,0,0
+Colima,2016,12,0,0,0,0
+Chiapas,2016,12,0,0,0,0
+Chihuahua,2016,12,0,0,0,0
+Ciudad de México,2016,12,0,0,0,0
+Durango,2016,12,0,0,0,0
+Guanajuato,2016,12,0,0,0,0
+Guerrero,2016,12,0,0,0,0
+Hidalgo,2016,12,0,0,0,0
+Jalisco,2016,12,0,0,0,0
+México,2016,12,0,0,0,0
+Michoacán,2016,12,0,0,0,0
+Morelos,2016,12,0,0,0,0
+Nayarit,2016,12,0,0,0,0
+Nuevo León,2016,12,0,0,0,0
+Oaxaca,2016,12,0,0,0,0
+Puebla,2016,12,0,0,0,0
+Querétaro,2016,12,0,0,0,0
+Quintana Roo,2016,12,0,0,0,0
+San Luis Potosí,2016,12,0,0,0,0
+Sinaloa,2016,12,0,0,0,0
+Sonora,2016,12,0,0,0,0
+Tabasco,2016,12,0,0,0,0
+Tamaulipas,2016,12,0,0,0,0
+Tlaxcala,2016,12,0,0,0,0
+Veracruz,2016,12,0,0,0,0
+Yucatán,2016,12,0,0,0,0
+Zacatecas,2016,12,0,0,0,0
+Aguascalientes,2016,13,0,0,0,0
+Baja California,2016,13,0,0,0,0
+Baja California Sur,2016,13,0,0,0,0
+Campeche,2016,13,0,0,0,0
+Coahuila,2016,13,0,0,0,0
+Colima,2016,13,0,0,0,0
+Chiapas,2016,13,0,0,0,0
+Chihuahua,2016,13,0,0,0,0
+Ciudad de México,2016,13,0,0,0,0
+Durango,2016,13,0,0,0,0
+Guanajuato,2016,13,0,0,0,0
+Guerrero,2016,13,0,0,0,0
+Hidalgo,2016,13,0,0,0,0
+Jalisco,2016,13,0,0,0,0
+México,2016,13,0,0,0,0
+Michoacán,2016,13,0,0,0,0
+Morelos,2016,13,0,0,0,0
+Nayarit,2016,13,0,0,0,0
+Nuevo León,2016,13,0,0,0,0
+Oaxaca,2016,13,0,0,0,0
+Puebla,2016,13,0,0,0,0
+Querétaro,2016,13,0,0,0,0
+Quintana Roo,2016,13,0,0,0,0
+San Luis Potosí,2016,13,0,0,0,0
+Sinaloa,2016,13,0,0,0,0
+Sonora,2016,13,1,1,1,0
+Tabasco,2016,13,0,0,0,0
+Tamaulipas,2016,13,0,0,0,0
+Tlaxcala,2016,13,0,0,0,0
+Veracruz,2016,13,1,1,1,0
+Yucatán,2016,13,0,0,0,0
+Zacatecas,2016,13,0,0,0,0
+Aguascalientes,2016,14,0,0,0,0
+Baja California,2016,14,0,0,0,0
+Baja California Sur,2016,14,0,0,0,0
+Campeche,2016,14,0,0,0,0
+Coahuila,2016,14,0,0,0,0
+Colima,2016,14,0,0,0,0
+Chiapas,2016,14,0,0,0,0
+Chihuahua,2016,14,0,0,0,0
+Ciudad de México,2016,14,0,0,0,0
+Durango,2016,14,0,0,0,0
+Guanajuato,2016,14,0,0,0,0
+Guerrero,2016,14,0,0,0,0
+Hidalgo,2016,14,0,0,0,0
+Jalisco,2016,14,0,0,0,0
+México,2016,14,0,0,0,0
+Michoacán,2016,14,0,0,0,0
+Morelos,2016,14,0,0,0,0
+Nayarit,2016,14,0,0,0,0
+Nuevo León,2016,14,0,0,0,0
+Oaxaca,2016,14,0,0,0,0
+Puebla,2016,14,0,0,0,0
+Querétaro,2016,14,0,0,0,0
+Quintana Roo,2016,14,0,0,0,0
+San Luis Potosí,2016,14,0,0,0,0
+Sinaloa,2016,14,0,0,0,0
+Sonora,2016,14,0,0,0,0
+Tabasco,2016,14,0,0,0,0
+Tamaulipas,2016,14,0,0,0,0
+Tlaxcala,2016,14,0,0,0,0
+Veracruz,2016,14,0,0,0,0
+Yucatán,2016,14,0,0,0,0
+Zacatecas,2016,14,0,0,0,0
+Aguascalientes,2016,15,0,0,0,0
+Baja California,2016,15,1,1,1,0
+Baja California Sur,2016,15,0,0,0,0
+Campeche,2016,15,1,1,1,0
+Coahuila,2016,15,2,2,2,0
+Colima,2016,15,0,0,0,0
+Chiapas,2016,15,0,0,0,0
+Chihuahua,2016,15,1,1,1,0
+Ciudad de México,2016,15,0,0,0,0
+Durango,2016,15,0,0,0,0
+Guanajuato,2016,15,0,0,0,0
+Guerrero,2016,15,0,0,0,0
+Hidalgo,2016,15,0,0,0,0
+Jalisco,2016,15,0,0,0,0
+México,2016,15,0,0,0,0
+Michoacán,2016,15,0,0,0,0
+Morelos,2016,15,1,1,1,0
+Nayarit,2016,15,0,0,0,0
+Nuevo León,2016,15,1,1,1,0
+Oaxaca,2016,15,0,0,0,0
+Puebla,2016,15,0,0,0,0
+Querétaro,2016,15,0,0,0,0
+Quintana Roo,2016,15,0,0,0,0
+San Luis Potosí,2016,15,0,0,0,0
+Sinaloa,2016,15,0,0,0,0
+Sonora,2016,15,3,3,3,0
+Tabasco,2016,15,0,0,0,0
+Tamaulipas,2016,15,2,2,2,0
+Tlaxcala,2016,15,0,0,0,0
+Veracruz,2016,15,0,0,0,0
+Yucatán,2016,15,0,0,0,0
+Zacatecas,2016,15,0,0,0,0
+Aguascalientes,2016,16,0,0,0,0
+Baja California,2016,16,0,0,0,0
+Baja California Sur,2016,16,0,0,0,0
+Campeche,2016,16,0,0,0,0
+Coahuila,2016,16,0,0,0,0
+Colima,2016,16,0,0,0,0
+Chiapas,2016,16,0,0,0,0
+Chihuahua,2016,16,0,0,0,0
+Ciudad de México,2016,16,0,0,0,0
+Durango,2016,16,0,0,0,0
+Guanajuato,2016,16,0,0,0,0
+Guerrero,2016,16,0,0,0,0
+Hidalgo,2016,16,0,0,0,0
+Jalisco,2016,16,0,0,0,0
+México,2016,16,0,0,0,0
+Michoacán,2016,16,0,0,0,0
+Morelos,2016,16,0,0,0,0
+Nayarit,2016,16,0,0,0,0
+Nuevo León,2016,16,0,0,0,0
+Oaxaca,2016,16,0,0,0,0
+Puebla,2016,16,0,0,0,0
+Querétaro,2016,16,0,0,0,0
+Quintana Roo,2016,16,0,0,0,0
+San Luis Potosí,2016,16,0,0,0,0
+Sinaloa,2016,16,0,0,0,0
+Sonora,2016,16,0,0,0,0
+Tabasco,2016,16,0,0,0,0
+Tamaulipas,2016,16,0,0,0,0
+Tlaxcala,2016,16,0,0,0,0
+Veracruz,2016,16,0,0,0,0
+Yucatán,2016,16,0,0,0,0
+Zacatecas,2016,16,0,0,0,0
+Aguascalientes,2016,17,0,0,0,0
+Baja California,2016,17,0,0,0,0
+Baja California Sur,2016,17,0,0,0,0
+Campeche,2016,17,0,0,0,0
+Coahuila,2016,17,0,0,0,0
+Colima,2016,17,0,0,0,0
+Chiapas,2016,17,0,0,0,0
+Chihuahua,2016,17,2,2,2,0
+Ciudad de México,2016,17,0,0,0,0
+Durango,2016,17,0,0,0,0
+Guanajuato,2016,17,0,0,0,0
+Guerrero,2016,17,0,0,0,0
+Hidalgo,2016,17,0,0,0,0
+Jalisco,2016,17,0,0,0,0
+México,2016,17,0,0,0,0
+Michoacán,2016,17,0,0,0,0
+Morelos,2016,17,1,1,1,0
+Nayarit,2016,17,0,0,0,0
+Nuevo León,2016,17,1,1,1,0
+Oaxaca,2016,17,0,0,0,0
+Puebla,2016,17,0,0,0,0
+Querétaro,2016,17,0,0,0,0
+Quintana Roo,2016,17,0,0,0,0
+San Luis Potosí,2016,17,0,0,0,0
+Sinaloa,2016,17,2,2,2,0
+Sonora,2016,17,3,3,3,0
+Tabasco,2016,17,0,0,0,0
+Tamaulipas,2016,17,0,0,0,0
+Tlaxcala,2016,17,0,0,0,0
+Veracruz,2016,17,0,0,0,0
+Yucatán,2016,17,0,0,0,0
+Zacatecas,2016,17,0,0,0,0
+Aguascalientes,2016,18,0,0,0,0
+Baja California,2016,18,0,0,0,0
+Baja California Sur,2016,18,0,0,0,0
+Campeche,2016,18,0,0,0,0
+Coahuila,2016,18,0,0,0,0
+Colima,2016,18,0,0,0,0
+Chiapas,2016,18,0,0,0,0
+Chihuahua,2016,18,0,0,0,0
+Ciudad de México,2016,18,0,0,0,0
+Durango,2016,18,0,0,0,0
+Guanajuato,2016,18,0,0,0,0
+Guerrero,2016,18,0,0,0,0
+Hidalgo,2016,18,0,0,0,0
+Jalisco,2016,18,0,0,0,0
+México,2016,18,0,0,0,0
+Michoacán,2016,18,0,0,0,0
+Morelos,2016,18,0,0,0,0
+Nayarit,2016,18,0,0,0,0
+Nuevo León,2016,18,1,1,1,0
+Oaxaca,2016,18,0,0,0,0
+Puebla,2016,18,0,0,0,0
+Querétaro,2016,18,0,0,0,0
+Quintana Roo,2016,18,0,0,0,0
+San Luis Potosí,2016,18,0,0,0,0
+Sinaloa,2016,18,2,2,2,0
+Sonora,2016,18,0,0,0,0
+Tabasco,2016,18,0,0,0,0
+Tamaulipas,2016,18,0,0,0,0
+Tlaxcala,2016,18,0,0,0,0
+Veracruz,2016,18,0,0,0,0
+Yucatán,2016,18,0,0,0,0
+Zacatecas,2016,18,0,0,0,0
+Aguascalientes,2016,19,0,0,0,0
+Baja California,2016,19,0,0,0,0
+Baja California Sur,2016,19,0,0,0,0
+Campeche,2016,19,0,0,0,0
+Coahuila,2016,19,0,0,0,0
+Colima,2016,19,0,0,0,0
+Chiapas,2016,19,0,0,0,0
+Chihuahua,2016,19,0,0,0,0
+Ciudad de México,2016,19,0,0,0,0
+Durango,2016,19,0,0,0,0
+Guanajuato,2016,19,0,0,0,0
+Guerrero,2016,19,0,0,0,0
+Hidalgo,2016,19,0,0,0,0
+Jalisco,2016,19,1,1,1,0
+México,2016,19,0,0,0,0
+Michoacán,2016,19,1,1,1,0
+Morelos,2016,19,0,0,0,0
+Nayarit,2016,19,0,0,0,0
+Nuevo León,2016,19,0,0,0,0
+Oaxaca,2016,19,0,0,0,0
+Puebla,2016,19,0,0,0,0
+Querétaro,2016,19,0,0,0,0
+Quintana Roo,2016,19,0,0,0,0
+San Luis Potosí,2016,19,0,0,0,0
+Sinaloa,2016,19,0,0,0,0
+Sonora,2016,19,0,0,0,0
+Tabasco,2016,19,0,0,0,0
+Tamaulipas,2016,19,0,0,0,0
+Tlaxcala,2016,19,0,0,0,0
+Veracruz,2016,19,1,1,1,0
+Yucatán,2016,19,0,0,0,0
+Zacatecas,2016,19,0,0,0,0
+Aguascalientes,2016,20,0,0,0,0
+Baja California,2016,20,0,0,0,0
+Baja California Sur,2016,20,1,1,1,0
+Campeche,2016,20,0,0,0,0
+Coahuila,2016,20,0,0,0,0
+Colima,2016,20,0,0,0,0
+Chiapas,2016,20,0,0,0,0
+Chihuahua,2016,20,0,0,0,0
+Ciudad de México,2016,20,0,0,0,0
+Durango,2016,20,0,0,0,0
+Guanajuato,2016,20,0,0,0,0
+Guerrero,2016,20,0,0,0,0
+Hidalgo,2016,20,0,0,0,0
+Jalisco,2016,20,1,1,1,0
+México,2016,20,0,0,0,0
+Michoacán,2016,20,0,0,0,0
+Morelos,2016,20,1,1,1,0
+Nayarit,2016,20,0,0,0,0
+Nuevo León,2016,20,0,0,0,0
+Oaxaca,2016,20,0,0,0,0
+Puebla,2016,20,0,0,0,0
+Querétaro,2016,20,0,0,0,0
+Quintana Roo,2016,20,0,0,0,0
+San Luis Potosí,2016,20,0,0,0,0
+Sinaloa,2016,20,1,1,1,0
+Sonora,2016,20,1,1,1,0
+Tabasco,2016,20,0,0,0,0
+Tamaulipas,2016,20,1,1,1,0
+Tlaxcala,2016,20,0,0,0,0
+Veracruz,2016,20,0,0,0,0
+Yucatán,2016,20,0,0,0,0
+Zacatecas,2016,20,0,0,0,0
+Aguascalientes,2016,21,0,0,0,0
+Baja California,2016,21,0,0,0,0
+Baja California Sur,2016,21,0,0,0,0
+Campeche,2016,21,0,0,0,0
+Coahuila,2016,21,0,0,0,0
+Colima,2016,21,0,0,0,0
+Chiapas,2016,21,1,1,1,0
+Chihuahua,2016,21,0,0,0,0
+Ciudad de México,2016,21,0,0,0,0
+Durango,2016,21,0,0,0,0
+Guanajuato,2016,21,0,0,0,0
+Guerrero,2016,21,0,0,0,0
+Hidalgo,2016,21,0,0,0,0
+Jalisco,2016,21,1,1,1,0
+México,2016,21,0,0,0,0
+Michoacán,2016,21,0,0,0,0
+Morelos,2016,21,0,0,0,0
+Nayarit,2016,21,0,0,0,0
+Nuevo León,2016,21,0,0,0,0
+Oaxaca,2016,21,0,0,0,0
+Puebla,2016,21,0,0,0,0
+Querétaro,2016,21,0,0,0,0
+Quintana Roo,2016,21,0,0,0,0
+San Luis Potosí,2016,21,0,0,0,0
+Sinaloa,2016,21,0,0,0,0
+Sonora,2016,21,1,1,1,0
+Tabasco,2016,21,0,0,0,0
+Tamaulipas,2016,21,0,0,0,0
+Tlaxcala,2016,21,0,0,0,0
+Veracruz,2016,21,1,1,1,0
+Yucatán,2016,21,0,0,0,0
+Zacatecas,2016,21,0,0,0,0
+Aguascalientes,2016,22,0,0,0,0
+Baja California,2016,22,0,0,0,0
+Baja California Sur,2016,22,0,0,0,0
+Campeche,2016,22,0,0,0,0
+Coahuila,2016,22,0,0,0,0
+Colima,2016,22,0,0,0,0
+Chiapas,2016,22,0,0,0,0
+Chihuahua,2016,22,0,0,0,0
+Ciudad de México,2016,22,0,0,0,0
+Durango,2016,22,0,0,0,0
+Guanajuato,2016,22,0,0,0,0
+Guerrero,2016,22,0,0,0,0
+Hidalgo,2016,22,0,0,0,0
+Jalisco,2016,22,0,0,0,0
+México,2016,22,0,0,0,0
+Michoacán,2016,22,0,0,0,0
+Morelos,2016,22,0,0,0,0
+Nayarit,2016,22,0,0,0,0
+Nuevo León,2016,22,0,0,0,0
+Oaxaca,2016,22,0,0,0,0
+Puebla,2016,22,0,0,0,0
+Querétaro,2016,22,0,0,0,0
+Quintana Roo,2016,22,0,0,0,0
+San Luis Potosí,2016,22,0,0,0,0
+Sinaloa,2016,22,0,0,0,0
+Sonora,2016,22,1,1,1,0
+Tabasco,2016,22,0,0,0,0
+Tamaulipas,2016,22,0,0,0,0
+Tlaxcala,2016,22,0,0,0,0
+Veracruz,2016,22,0,0,0,0
+Yucatán,2016,22,0,0,0,0
+Zacatecas,2016,22,0,0,0,0
+Aguascalientes,2016,23,0,0,0,0
+Baja California,2016,23,1,1,1,0
+Baja California Sur,2016,23,0,0,0,0
+Campeche,2016,23,0,0,0,0
+Coahuila,2016,23,0,0,0,0
+Colima,2016,23,0,0,0,0
+Chiapas,2016,23,0,0,0,0
+Chihuahua,2016,23,0,0,0,0
+Ciudad de México,2016,23,0,0,0,0
+Durango,2016,23,0,0,0,0
+Guanajuato,2016,23,0,0,0,0
+Guerrero,2016,23,0,0,0,0
+Hidalgo,2016,23,0,0,0,0
+Jalisco,2016,23,0,0,0,0
+México,2016,23,0,0,0,0
+Michoacán,2016,23,0,0,0,0
+Morelos,2016,23,2,2,2,0
+Nayarit,2016,23,0,0,0,0
+Nuevo León,2016,23,0,0,0,0
+Oaxaca,2016,23,0,0,0,0
+Puebla,2016,23,0,0,0,0
+Querétaro,2016,23,0,0,0,0
+Quintana Roo,2016,23,0,0,0,0
+San Luis Potosí,2016,23,0,0,0,0
+Sinaloa,2016,23,0,0,0,0
+Sonora,2016,23,1,1,1,0
+Tabasco,2016,23,0,0,0,0
+Tamaulipas,2016,23,0,0,0,0
+Tlaxcala,2016,23,0,0,0,0
+Veracruz,2016,23,0,0,0,0
+Yucatán,2016,23,0,0,0,0
+Zacatecas,2016,23,0,0,0,0
+Aguascalientes,2016,24,0,0,0,0
+Baja California,2016,24,0,0,0,0
+Baja California Sur,2016,24,0,0,0,0
+Campeche,2016,24,0,0,0,0
+Coahuila,2016,24,0,0,0,0
+Colima,2016,24,0,0,0,0
+Chiapas,2016,24,0,0,0,0
+Chihuahua,2016,24,0,0,0,0
+Ciudad de México,2016,24,0,0,0,0
+Durango,2016,24,0,0,0,0
+Guanajuato,2016,24,0,0,0,0
+Guerrero,2016,24,0,0,0,0
+Hidalgo,2016,24,0,0,0,0
+Jalisco,2016,24,0,0,0,0
+México,2016,24,0,0,0,0
+Michoacán,2016,24,0,0,0,0
+Morelos,2016,24,0,0,0,0
+Nayarit,2016,24,0,0,0,0
+Nuevo León,2016,24,0,0,0,0
+Oaxaca,2016,24,0,0,0,0
+Puebla,2016,24,0,0,0,0
+Querétaro,2016,24,0,0,0,0
+Quintana Roo,2016,24,0,0,0,0
+San Luis Potosí,2016,24,0,0,0,0
+Sinaloa,2016,24,0,0,0,0
+Sonora,2016,24,1,1,1,0
+Tabasco,2016,24,0,0,0,0
+Tamaulipas,2016,24,0,0,0,0
+Tlaxcala,2016,24,0,0,0,0
+Veracruz,2016,24,0,0,0,0
+Yucatán,2016,24,0,0,0,0
+Zacatecas,2016,24,0,0,0,0
+Aguascalientes,2016,25,0,0,0,0
+Baja California,2016,25,0,0,0,0
+Baja California Sur,2016,25,0,0,0,0
+Campeche,2016,25,0,0,0,0
+Coahuila,2016,25,0,0,0,0
+Colima,2016,25,0,0,0,0
+Chiapas,2016,25,0,0,0,0
+Chihuahua,2016,25,1,1,1,0
+Ciudad de México,2016,25,0,0,0,0
+Durango,2016,25,0,0,0,0
+Guanajuato,2016,25,0,0,0,0
+Guerrero,2016,25,0,0,0,0
+Hidalgo,2016,25,0,0,0,0
+Jalisco,2016,25,0,0,0,0
+México,2016,25,0,0,0,0
+Michoacán,2016,25,0,0,0,0
+Morelos,2016,25,1,1,1,0
+Nayarit,2016,25,0,0,0,0
+Nuevo León,2016,25,2,2,2,0
+Oaxaca,2016,25,0,0,0,0
+Puebla,2016,25,0,0,0,0
+Querétaro,2016,25,0,0,0,0
+Quintana Roo,2016,25,0,0,0,0
+San Luis Potosí,2016,25,0,0,0,0
+Sinaloa,2016,25,0,0,0,0
+Sonora,2016,25,1,1,1,0
+Tabasco,2016,25,0,0,0,0
+Tamaulipas,2016,25,0,0,0,0
+Tlaxcala,2016,25,0,0,0,0
+Veracruz,2016,25,0,0,0,0
+Yucatán,2016,25,0,0,0,0
+Zacatecas,2016,25,0,0,0,0
+Aguascalientes,2016,26,0,0,0,0
+Baja California,2016,26,0,0,0,0
+Baja California Sur,2016,26,0,0,0,0
+Campeche,2016,26,0,0,0,0
+Coahuila,2016,26,0,0,0,0
+Colima,2016,26,0,0,0,0
+Chiapas,2016,26,0,0,0,0
+Chihuahua,2016,26,0,0,0,0
+Ciudad de México,2016,26,0,0,0,0
+Durango,2016,26,0,0,0,0
+Guanajuato,2016,26,0,0,0,0
+Guerrero,2016,26,0,0,0,0
+Hidalgo,2016,26,0,0,0,0
+Jalisco,2016,26,0,0,0,0
+México,2016,26,0,0,0,0
+Michoacán,2016,26,0,0,0,0
+Morelos,2016,26,1,1,1,0
+Nayarit,2016,26,0,0,0,0
+Nuevo León,2016,26,0,0,0,0
+Oaxaca,2016,26,0,0,0,0
+Puebla,2016,26,0,0,0,0
+Querétaro,2016,26,0,0,0,0
+Quintana Roo,2016,26,0,0,0,0
+San Luis Potosí,2016,26,0,0,0,0
+Sinaloa,2016,26,0,0,0,0
+Sonora,2016,26,0,0,0,0
+Tabasco,2016,26,0,0,0,0
+Tamaulipas,2016,26,0,0,0,0
+Tlaxcala,2016,26,0,0,0,0
+Veracruz,2016,26,0,0,0,0
+Yucatán,2016,26,0,0,0,0
+Zacatecas,2016,26,0,0,0,0
+Aguascalientes,2016,27,0,0,0,0
+Baja California,2016,27,0,0,0,0
+Baja California Sur,2016,27,0,0,0,0
+Campeche,2016,27,0,0,0,0
+Coahuila,2016,27,0,0,0,0
+Colima,2016,27,0,0,0,0
+Chiapas,2016,27,0,0,0,0
+Chihuahua,2016,27,0,0,0,0
+Ciudad de México,2016,27,0,0,0,0
+Durango,2016,27,0,0,0,0
+Guanajuato,2016,27,0,0,0,0
+Guerrero,2016,27,0,0,0,0
+Hidalgo,2016,27,0,0,0,0
+Jalisco,2016,27,0,0,0,0
+México,2016,27,0,0,0,0
+Michoacán,2016,27,1,1,1,0
+Morelos,2016,27,0,0,0,0
+Nayarit,2016,27,0,0,0,0
+Nuevo León,2016,27,0,0,0,0
+Oaxaca,2016,27,0,0,0,0
+Puebla,2016,27,0,0,0,0
+Querétaro,2016,27,0,0,0,0
+Quintana Roo,2016,27,0,0,0,0
+San Luis Potosí,2016,27,0,0,0,0
+Sinaloa,2016,27,2,2,2,0
+Sonora,2016,27,1,1,1,0
+Tabasco,2016,27,0,0,0,0
+Tamaulipas,2016,27,0,0,0,0
+Tlaxcala,2016,27,0,0,0,0
+Veracruz,2016,27,0,0,0,0
+Yucatán,2016,27,0,0,0,0
+Zacatecas,2016,27,0,0,0,0
+Aguascalientes,2016,28,0,0,0,0
+Baja California,2016,28,0,0,0,0
+Baja California Sur,2016,28,0,0,0,0
+Campeche,2016,28,0,0,0,0
+Coahuila,2016,28,0,0,0,0
+Colima,2016,28,0,0,0,0
+Chiapas,2016,28,0,0,0,0
+Chihuahua,2016,28,0,0,0,0
+Ciudad de México,2016,28,0,0,0,0
+Durango,2016,28,0,0,0,0
+Guanajuato,2016,28,0,0,0,0
+Guerrero,2016,28,0,0,0,0
+Hidalgo,2016,28,0,0,0,0
+Jalisco,2016,28,0,0,0,0
+México,2016,28,0,0,0,0
+Michoacán,2016,28,0,0,0,0
+Morelos,2016,28,0,0,0,0
+Nayarit,2016,28,0,0,0,0
+Nuevo León,2016,28,0,0,0,0
+Oaxaca,2016,28,0,0,0,0
+Puebla,2016,28,0,0,0,0
+Querétaro,2016,28,0,0,0,0
+Quintana Roo,2016,28,0,0,0,0
+San Luis Potosí,2016,28,0,0,0,0
+Sinaloa,2016,28,0,0,0,0
+Sonora,2016,28,0,0,0,0
+Tabasco,2016,28,0,0,0,0
+Tamaulipas,2016,28,0,0,0,0
+Tlaxcala,2016,28,0,0,0,0
+Veracruz,2016,28,0,0,0,0
+Yucatán,2016,28,0,0,0,0
+Zacatecas,2016,28,0,0,0,0
+Aguascalientes,2016,29,0,0,0,0
+Baja California,2016,29,0,0,0,0
+Baja California Sur,2016,29,0,0,0,0
+Campeche,2016,29,0,0,0,0
+Coahuila,2016,29,0,0,0,0
+Colima,2016,29,0,0,0,0
+Chiapas,2016,29,0,0,0,0
+Chihuahua,2016,29,0,0,0,0
+Ciudad de México,2016,29,0,0,0,0
+Durango,2016,29,0,0,0,0
+Guanajuato,2016,29,0,0,0,0
+Guerrero,2016,29,0,0,0,0
+Hidalgo,2016,29,0,0,0,0
+Jalisco,2016,29,0,0,0,0
+México,2016,29,0,0,0,0
+Michoacán,2016,29,0,0,0,0
+Morelos,2016,29,0,0,0,0
+Nayarit,2016,29,0,0,0,0
+Nuevo León,2016,29,0,0,0,0
+Oaxaca,2016,29,0,0,0,0
+Puebla,2016,29,0,0,0,0
+Querétaro,2016,29,0,0,0,0
+Quintana Roo,2016,29,0,0,0,0
+San Luis Potosí,2016,29,0,0,0,0
+Sinaloa,2016,29,0,0,0,0
+Sonora,2016,29,0,0,0,0
+Tabasco,2016,29,0,0,0,0
+Tamaulipas,2016,29,0,0,0,0
+Tlaxcala,2016,29,0,0,0,0
+Veracruz,2016,29,0,0,0,0
+Yucatán,2016,29,0,0,0,0
+Zacatecas,2016,29,0,0,0,0
+Aguascalientes,2016,30,0,0,0,0
+Baja California,2016,30,0,0,0,0
+Baja California Sur,2016,30,0,0,0,0
+Campeche,2016,30,0,0,0,0
+Coahuila,2016,30,0,0,0,0
+Colima,2016,30,0,0,0,0
+Chiapas,2016,30,0,0,0,0
+Chihuahua,2016,30,0,0,0,0
+Ciudad de México,2016,30,0,0,0,0
+Durango,2016,30,0,0,0,0
+Guanajuato,2016,30,0,0,0,0
+Guerrero,2016,30,0,0,0,0
+Hidalgo,2016,30,0,0,0,0
+Jalisco,2016,30,0,0,0,0
+México,2016,30,0,0,0,0
+Michoacán,2016,30,0,0,0,0
+Morelos,2016,30,0,0,0,0
+Nayarit,2016,30,0,0,0,0
+Nuevo León,2016,30,0,0,0,0
+Oaxaca,2016,30,0,0,0,0
+Puebla,2016,30,0,0,0,0
+Querétaro,2016,30,0,0,0,0
+Quintana Roo,2016,30,0,0,0,0
+San Luis Potosí,2016,30,0,0,0,0
+Sinaloa,2016,30,0,0,0,0
+Sonora,2016,30,0,0,0,0
+Tabasco,2016,30,0,0,0,0
+Tamaulipas,2016,30,0,0,0,0
+Tlaxcala,2016,30,0,0,0,0
+Veracruz,2016,30,0,0,0,0
+Yucatán,2016,30,0,0,0,0
+Zacatecas,2016,30,0,0,0,0
+Aguascalientes,2016,31,0,0,0,0
+Baja California,2016,31,0,0,0,0
+Baja California Sur,2016,31,0,0,0,0
+Campeche,2016,31,0,0,0,0
+Coahuila,2016,31,0,0,0,0
+Colima,2016,31,0,0,0,0
+Chiapas,2016,31,0,0,0,0
+Chihuahua,2016,31,0,0,0,0
+Ciudad de México,2016,31,0,0,0,0
+Durango,2016,31,0,0,0,0
+Guanajuato,2016,31,0,0,0,0
+Guerrero,2016,31,0,0,0,0
+Hidalgo,2016,31,0,0,0,0
+Jalisco,2016,31,0,0,0,0
+México,2016,31,0,0,0,0
+Michoacán,2016,31,0,0,0,0
+Morelos,2016,31,0,0,0,0
+Nayarit,2016,31,0,0,0,0
+Nuevo León,2016,31,0,0,0,0
+Oaxaca,2016,31,0,0,0,0
+Puebla,2016,31,0,0,0,0
+Querétaro,2016,31,0,0,0,0
+Quintana Roo,2016,31,0,0,0,0
+San Luis Potosí,2016,31,0,0,0,0
+Sinaloa,2016,31,0,0,0,0
+Sonora,2016,31,0,0,0,0
+Tabasco,2016,31,0,0,0,0
+Tamaulipas,2016,31,0,0,0,0
+Tlaxcala,2016,31,0,0,0,0
+Veracruz,2016,31,0,0,0,0
+Yucatán,2016,31,0,0,0,0
+Zacatecas,2016,31,0,0,0,0
+Aguascalientes,2016,32,0,0,0,0
+Baja California,2016,32,0,0,0,0
+Baja California Sur,2016,32,0,0,0,0
+Campeche,2016,32,0,0,0,0
+Coahuila,2016,32,0,0,0,0
+Colima,2016,32,0,0,0,0
+Chiapas,2016,32,0,0,0,0
+Chihuahua,2016,32,0,0,0,0
+Ciudad de México,2016,32,0,0,0,0
+Durango,2016,32,0,0,0,0
+Guanajuato,2016,32,0,0,0,0
+Guerrero,2016,32,0,0,0,0
+Hidalgo,2016,32,0,0,0,0
+Jalisco,2016,32,0,0,0,0
+México,2016,32,0,0,0,0
+Michoacán,2016,32,0,0,0,0
+Morelos,2016,32,0,0,0,0
+Nayarit,2016,32,0,0,0,0
+Nuevo León,2016,32,0,0,0,0
+Oaxaca,2016,32,0,0,0,0
+Puebla,2016,32,0,0,0,0
+Querétaro,2016,32,0,0,0,0
+Quintana Roo,2016,32,0,0,0,0
+San Luis Potosí,2016,32,0,0,0,0
+Sinaloa,2016,32,0,0,0,0
+Sonora,2016,32,0,0,0,0
+Tabasco,2016,32,0,0,0,0
+Tamaulipas,2016,32,0,0,0,0
+Tlaxcala,2016,32,0,0,0,0
+Veracruz,2016,32,0,0,0,0
+Yucatán,2016,32,0,0,0,0
+Zacatecas,2016,32,0,0,0,0
+Aguascalientes,2016,33,0,0,0,0
+Baja California,2016,33,0,0,0,0
+Baja California Sur,2016,33,0,0,0,0
+Campeche,2016,33,0,0,0,0
+Coahuila,2016,33,0,0,0,0
+Colima,2016,33,0,0,0,0
+Chiapas,2016,33,0,0,0,0
+Chihuahua,2016,33,0,0,0,0
+Ciudad de México,2016,33,0,0,0,0
+Durango,2016,33,0,0,0,0
+Guanajuato,2016,33,0,0,0,0
+Guerrero,2016,33,0,0,0,0
+Hidalgo,2016,33,0,0,0,0
+Jalisco,2016,33,0,0,0,0
+México,2016,33,0,0,0,0
+Michoacán,2016,33,0,0,0,0
+Morelos,2016,33,0,0,0,0
+Nayarit,2016,33,0,0,0,0
+Nuevo León,2016,33,0,0,0,0
+Oaxaca,2016,33,0,0,0,0
+Puebla,2016,33,0,0,0,0
+Querétaro,2016,33,0,0,0,0
+Quintana Roo,2016,33,0,0,0,0
+San Luis Potosí,2016,33,0,0,0,0
+Sinaloa,2016,33,0,0,0,0
+Sonora,2016,33,0,0,0,0
+Tabasco,2016,33,0,0,0,0
+Tamaulipas,2016,33,0,0,0,0
+Tlaxcala,2016,33,0,0,0,0
+Veracruz,2016,33,0,0,0,0
+Yucatán,2016,33,0,0,0,0
+Zacatecas,2016,33,0,0,0,0
+Aguascalientes,2016,34,0,0,0,0
+Baja California,2016,34,0,0,0,0
+Baja California Sur,2016,34,0,0,0,0
+Campeche,2016,34,0,0,0,0
+Coahuila,2016,34,0,0,0,0
+Colima,2016,34,0,0,0,0
+Chiapas,2016,34,0,0,0,0
+Chihuahua,2016,34,0,0,0,0
+Ciudad de México,2016,34,0,0,0,0
+Durango,2016,34,0,0,0,0
+Guanajuato,2016,34,0,0,0,0
+Guerrero,2016,34,0,0,0,0
+Hidalgo,2016,34,0,0,0,0
+Jalisco,2016,34,0,0,0,0
+México,2016,34,0,0,0,0
+Michoacán,2016,34,0,0,0,0
+Morelos,2016,34,0,0,0,0
+Nayarit,2016,34,0,0,0,0
+Nuevo León,2016,34,0,0,0,0
+Oaxaca,2016,34,0,0,0,0
+Puebla,2016,34,0,0,0,0
+Querétaro,2016,34,0,0,0,0
+Quintana Roo,2016,34,0,0,0,0
+San Luis Potosí,2016,34,0,0,0,0
+Sinaloa,2016,34,0,0,0,0
+Sonora,2016,34,0,0,0,0
+Tabasco,2016,34,0,0,0,0
+Tamaulipas,2016,34,0,0,0,0
+Tlaxcala,2016,34,0,0,0,0
+Veracruz,2016,34,0,0,0,0
+Yucatán,2016,34,0,0,0,0
+Zacatecas,2016,34,0,0,0,0
+Aguascalientes,2016,35,0,0,0,0
+Baja California,2016,35,0,0,0,0
+Baja California Sur,2016,35,0,0,0,0
+Campeche,2016,35,0,0,0,0
+Coahuila,2016,35,0,0,0,0
+Colima,2016,35,0,0,0,0
+Chiapas,2016,35,0,0,0,0
+Chihuahua,2016,35,0,0,0,0
+Ciudad de México,2016,35,0,0,0,0
+Durango,2016,35,0,0,0,0
+Guanajuato,2016,35,0,0,0,0
+Guerrero,2016,35,0,0,0,0
+Hidalgo,2016,35,0,0,0,0
+Jalisco,2016,35,0,0,0,0
+México,2016,35,0,0,0,0
+Michoacán,2016,35,0,0,0,0
+Morelos,2016,35,0,0,0,0
+Nayarit,2016,35,0,0,0,0
+Nuevo León,2016,35,0,0,0,0
+Oaxaca,2016,35,0,0,0,0
+Puebla,2016,35,0,0,0,0
+Querétaro,2016,35,0,0,0,0
+Quintana Roo,2016,35,0,0,0,0
+San Luis Potosí,2016,35,0,0,0,0
+Sinaloa,2016,35,0,0,0,0
+Sonora,2016,35,0,0,0,0
+Tabasco,2016,35,0,0,0,0
+Tamaulipas,2016,35,0,0,0,0
+Tlaxcala,2016,35,0,0,0,0
+Veracruz,2016,35,0,0,0,0
+Yucatán,2016,35,0,0,0,0
+Zacatecas,2016,35,0,0,0,0
+Aguascalientes,2016,36,0,0,0,0
+Baja California,2016,36,0,0,0,0
+Baja California Sur,2016,36,0,0,0,0
+Campeche,2016,36,0,0,0,0
+Coahuila,2016,36,0,0,0,0
+Colima,2016,36,0,0,0,0
+Chiapas,2016,36,0,0,0,0
+Chihuahua,2016,36,0,0,0,0
+Ciudad de México,2016,36,0,0,0,0
+Durango,2016,36,0,0,0,0
+Guanajuato,2016,36,0,0,0,0
+Guerrero,2016,36,0,0,0,0
+Hidalgo,2016,36,0,0,0,0
+Jalisco,2016,36,0,0,0,0
+México,2016,36,0,0,0,0
+Michoacán,2016,36,0,0,0,0
+Morelos,2016,36,0,0,0,0
+Nayarit,2016,36,0,0,0,0
+Nuevo León,2016,36,0,0,0,0
+Oaxaca,2016,36,0,0,0,0
+Puebla,2016,36,0,0,0,0
+Querétaro,2016,36,0,0,0,0
+Quintana Roo,2016,36,0,0,0,0
+San Luis Potosí,2016,36,0,0,0,0
+Sinaloa,2016,36,0,0,0,0
+Sonora,2016,36,0,0,0,0
+Tabasco,2016,36,0,0,0,0
+Tamaulipas,2016,36,0,0,0,0
+Tlaxcala,2016,36,0,0,0,0
+Veracruz,2016,36,0,0,0,0
+Yucatán,2016,36,0,0,0,0
+Zacatecas,2016,36,0,0,0,0
+Aguascalientes,2016,37,0,0,0,0
+Baja California,2016,37,0,0,0,0
+Baja California Sur,2016,37,0,0,0,0
+Campeche,2016,37,0,0,0,0
+Coahuila,2016,37,0,0,0,0
+Colima,2016,37,0,0,0,0
+Chiapas,2016,37,0,0,0,0
+Chihuahua,2016,37,0,0,0,0
+Ciudad de México,2016,37,0,0,0,0
+Durango,2016,37,0,0,0,0
+Guanajuato,2016,37,0,0,0,0
+Guerrero,2016,37,0,0,0,0
+Hidalgo,2016,37,0,0,0,0
+Jalisco,2016,37,0,0,0,0
+México,2016,37,0,0,0,0
+Michoacán,2016,37,0,0,0,0
+Morelos,2016,37,0,0,0,0
+Nayarit,2016,37,0,0,0,0
+Nuevo León,2016,37,0,0,0,0
+Oaxaca,2016,37,0,0,0,0
+Puebla,2016,37,0,0,0,0
+Querétaro,2016,37,0,0,0,0
+Quintana Roo,2016,37,0,0,0,0
+San Luis Potosí,2016,37,0,0,0,0
+Sinaloa,2016,37,0,0,0,0
+Sonora,2016,37,0,0,0,0
+Tabasco,2016,37,0,0,0,0
+Tamaulipas,2016,37,0,0,0,0
+Tlaxcala,2016,37,0,0,0,0
+Veracruz,2016,37,0,0,0,0
+Yucatán,2016,37,0,0,0,0
+Zacatecas,2016,37,0,0,0,0
+Aguascalientes,2016,38,0,0,0,0
+Baja California,2016,38,0,0,0,0
+Baja California Sur,2016,38,0,0,0,0
+Campeche,2016,38,0,0,0,0
+Coahuila,2016,38,0,0,0,0
+Colima,2016,38,0,0,0,0
+Chiapas,2016,38,0,0,0,0
+Chihuahua,2016,38,0,0,0,0
+Ciudad de México,2016,38,0,0,0,0
+Durango,2016,38,0,0,0,0
+Guanajuato,2016,38,0,0,0,0
+Guerrero,2016,38,0,0,0,0
+Hidalgo,2016,38,0,0,0,0
+Jalisco,2016,38,0,0,0,0
+México,2016,38,0,0,0,0
+Michoacán,2016,38,0,0,0,0
+Morelos,2016,38,0,0,0,0
+Nayarit,2016,38,0,0,0,0
+Nuevo León,2016,38,0,0,0,0
+Oaxaca,2016,38,0,0,0,0
+Puebla,2016,38,0,0,0,0
+Querétaro,2016,38,0,0,0,0
+Quintana Roo,2016,38,0,0,0,0
+San Luis Potosí,2016,38,0,0,0,0
+Sinaloa,2016,38,0,0,0,0
+Sonora,2016,38,0,0,0,0
+Tabasco,2016,38,0,0,0,0
+Tamaulipas,2016,38,0,0,0,0
+Tlaxcala,2016,38,0,0,0,0
+Veracruz,2016,38,0,0,0,0
+Yucatán,2016,38,0,0,0,0
+Zacatecas,2016,38,0,0,0,0
+Aguascalientes,2016,39,0,0,0,0
+Baja California,2016,39,0,0,0,0
+Baja California Sur,2016,39,0,0,0,0
+Campeche,2016,39,0,0,0,0
+Coahuila,2016,39,0,0,0,0
+Colima,2016,39,0,0,0,0
+Chiapas,2016,39,0,0,0,0
+Chihuahua,2016,39,0,0,0,0
+Ciudad de México,2016,39,0,0,0,0
+Durango,2016,39,0,0,0,0
+Guanajuato,2016,39,0,0,0,0
+Guerrero,2016,39,0,0,0,0
+Hidalgo,2016,39,0,0,0,0
+Jalisco,2016,39,0,0,0,0
+México,2016,39,0,0,0,0
+Michoacán,2016,39,0,0,0,0
+Morelos,2016,39,0,0,0,0
+Nayarit,2016,39,0,0,0,0
+Nuevo León,2016,39,0,0,0,0
+Oaxaca,2016,39,0,0,0,0
+Puebla,2016,39,0,0,0,0
+Querétaro,2016,39,0,0,0,0
+Quintana Roo,2016,39,0,0,0,0
+San Luis Potosí,2016,39,0,0,0,0
+Sinaloa,2016,39,0,0,0,0
+Sonora,2016,39,0,0,0,0
+Tabasco,2016,39,0,0,0,0
+Tamaulipas,2016,39,0,0,0,0
+Tlaxcala,2016,39,0,0,0,0
+Veracruz,2016,39,0,0,0,0
+Yucatán,2016,39,0,0,0,0
+Zacatecas,2016,39,0,0,0,0
+Aguascalientes,2016,40,0,0,0,0
+Baja California,2016,40,0,0,0,0
+Baja California Sur,2016,40,0,0,0,0
+Campeche,2016,40,0,0,0,0
+Coahuila,2016,40,0,0,0,0
+Colima,2016,40,0,0,0,0
+Chiapas,2016,40,0,0,0,0
+Chihuahua,2016,40,0,0,0,0
+Ciudad de México,2016,40,0,0,0,0
+Durango,2016,40,0,0,0,0
+Guanajuato,2016,40,0,0,0,0
+Guerrero,2016,40,0,0,0,0
+Hidalgo,2016,40,0,0,0,0
+Jalisco,2016,40,0,0,0,0
+México,2016,40,0,0,0,0
+Michoacán,2016,40,0,0,0,0
+Morelos,2016,40,0,0,0,0
+Nayarit,2016,40,0,0,0,0
+Nuevo León,2016,40,0,0,0,0
+Oaxaca,2016,40,0,0,0,0
+Puebla,2016,40,0,0,0,0
+Querétaro,2016,40,0,0,0,0
+Quintana Roo,2016,40,0,0,0,0
+San Luis Potosí,2016,40,0,0,0,0
+Sinaloa,2016,40,0,0,0,0
+Sonora,2016,40,0,0,0,0
+Tabasco,2016,40,0,0,0,0
+Tamaulipas,2016,40,0,0,0,0
+Tlaxcala,2016,40,0,0,0,0
+Veracruz,2016,40,0,0,0,0
+Yucatán,2016,40,0,0,0,0
+Zacatecas,2016,40,0,0,0,0
+Aguascalientes,2016,41,0,0,0,0
+Baja California,2016,41,0,0,0,0
+Baja California Sur,2016,41,0,0,0,0
+Campeche,2016,41,0,0,0,0
+Coahuila,2016,41,0,0,0,0
+Colima,2016,41,0,0,0,0
+Chiapas,2016,41,0,0,0,0
+Chihuahua,2016,41,0,0,0,0
+Ciudad de México,2016,41,0,0,0,0
+Durango,2016,41,0,0,0,0
+Guanajuato,2016,41,0,0,0,0
+Guerrero,2016,41,0,0,0,0
+Hidalgo,2016,41,0,0,0,0
+Jalisco,2016,41,0,0,0,0
+México,2016,41,0,0,0,0
+Michoacán,2016,41,0,0,0,0
+Morelos,2016,41,0,0,0,0
+Nayarit,2016,41,0,0,0,0
+Nuevo León,2016,41,0,0,0,0
+Oaxaca,2016,41,0,0,0,0
+Puebla,2016,41,0,0,0,0
+Querétaro,2016,41,0,0,0,0
+Quintana Roo,2016,41,0,0,0,0
+San Luis Potosí,2016,41,0,0,0,0
+Sinaloa,2016,41,0,0,0,0
+Sonora,2016,41,0,0,0,0
+Tabasco,2016,41,0,0,0,0
+Tamaulipas,2016,41,0,0,0,0
+Tlaxcala,2016,41,0,0,0,0
+Veracruz,2016,41,0,0,0,0
+Yucatán,2016,41,0,0,0,0
+Zacatecas,2016,41,0,0,0,0
+Aguascalientes,2016,42,0,0,0,0
+Baja California,2016,42,0,0,0,0
+Baja California Sur,2016,42,0,0,0,0
+Campeche,2016,42,0,0,0,0
+Coahuila,2016,42,0,0,0,0
+Colima,2016,42,0,0,0,0
+Chiapas,2016,42,0,0,0,0
+Chihuahua,2016,42,0,0,0,0
+Ciudad de México,2016,42,0,0,0,0
+Durango,2016,42,0,0,0,0
+Guanajuato,2016,42,0,0,0,0
+Guerrero,2016,42,0,0,0,0
+Hidalgo,2016,42,0,0,0,0
+Jalisco,2016,42,0,0,0,0
+México,2016,42,0,0,0,0
+Michoacán,2016,42,0,0,0,0
+Morelos,2016,42,0,0,0,0
+Nayarit,2016,42,0,0,0,0
+Nuevo León,2016,42,0,0,0,0
+Oaxaca,2016,42,0,0,0,0
+Puebla,2016,42,0,0,0,0
+Querétaro,2016,42,0,0,0,0
+Quintana Roo,2016,42,0,0,0,0
+San Luis Potosí,2016,42,0,0,0,0
+Sinaloa,2016,42,0,0,0,0
+Sonora,2016,42,0,0,0,0
+Tabasco,2016,42,0,0,0,0
+Tamaulipas,2016,42,0,0,0,0
+Tlaxcala,2016,42,0,0,0,0
+Veracruz,2016,42,0,0,0,0
+Yucatán,2016,42,0,0,0,0
+Zacatecas,2016,42,0,0,0,0
+Aguascalientes,2016,43,0,0,0,0
+Baja California,2016,43,0,0,0,0
+Baja California Sur,2016,43,0,0,0,0
+Campeche,2016,43,0,0,0,0
+Coahuila,2016,43,0,0,0,0
+Colima,2016,43,0,0,0,0
+Chiapas,2016,43,0,0,0,0
+Chihuahua,2016,43,0,0,0,0
+Ciudad de México,2016,43,0,0,0,0
+Durango,2016,43,0,0,0,0
+Guanajuato,2016,43,0,0,0,0
+Guerrero,2016,43,0,0,0,0
+Hidalgo,2016,43,0,0,0,0
+Jalisco,2016,43,0,0,0,0
+México,2016,43,0,0,0,0
+Michoacán,2016,43,0,0,0,0
+Morelos,2016,43,0,0,0,0
+Nayarit,2016,43,0,0,0,0
+Nuevo León,2016,43,0,0,0,0
+Oaxaca,2016,43,0,0,0,0
+Puebla,2016,43,0,0,0,0
+Querétaro,2016,43,0,0,0,0
+Quintana Roo,2016,43,0,0,0,0
+San Luis Potosí,2016,43,0,0,0,0
+Sinaloa,2016,43,0,0,0,0
+Sonora,2016,43,0,0,0,0
+Tabasco,2016,43,0,0,0,0
+Tamaulipas,2016,43,0,0,0,0
+Tlaxcala,2016,43,0,0,0,0
+Veracruz,2016,43,0,0,0,0
+Yucatán,2016,43,0,0,0,0
+Zacatecas,2016,43,0,0,0,0
+Aguascalientes,2016,44,0,0,0,0
+Baja California,2016,44,0,0,0,0
+Baja California Sur,2016,44,0,0,0,0
+Campeche,2016,44,0,0,0,0
+Coahuila,2016,44,0,0,0,0
+Colima,2016,44,0,0,0,0
+Chiapas,2016,44,0,0,0,0
+Chihuahua,2016,44,0,0,0,0
+Ciudad de México,2016,44,0,0,0,0
+Durango,2016,44,0,0,0,0
+Guanajuato,2016,44,0,0,0,0
+Guerrero,2016,44,0,0,0,0
+Hidalgo,2016,44,0,0,0,0
+Jalisco,2016,44,0,0,0,0
+México,2016,44,0,0,0,0
+Michoacán,2016,44,0,0,0,0
+Morelos,2016,44,0,0,0,0
+Nayarit,2016,44,0,0,0,0
+Nuevo León,2016,44,0,0,0,0
+Oaxaca,2016,44,0,0,0,0
+Puebla,2016,44,0,0,0,0
+Querétaro,2016,44,0,0,0,0
+Quintana Roo,2016,44,0,0,0,0
+San Luis Potosí,2016,44,0,0,0,0
+Sinaloa,2016,44,0,0,0,0
+Sonora,2016,44,0,0,0,0
+Tabasco,2016,44,0,0,0,0
+Tamaulipas,2016,44,0,0,0,0
+Tlaxcala,2016,44,0,0,0,0
+Veracruz,2016,44,0,0,0,0
+Yucatán,2016,44,0,0,0,0
+Zacatecas,2016,44,0,0,0,0
+Aguascalientes,2016,45,0,0,0,0
+Baja California,2016,45,0,0,0,0
+Baja California Sur,2016,45,0,0,0,0
+Campeche,2016,45,0,0,0,0
+Coahuila,2016,45,0,0,0,0
+Colima,2016,45,0,0,0,0
+Chiapas,2016,45,0,0,0,0
+Chihuahua,2016,45,0,0,0,0
+Ciudad de México,2016,45,0,0,0,0
+Durango,2016,45,0,0,0,0
+Guanajuato,2016,45,0,0,0,0
+Guerrero,2016,45,0,0,0,0
+Hidalgo,2016,45,0,0,0,0
+Jalisco,2016,45,0,0,0,0
+México,2016,45,0,0,0,0
+Michoacán,2016,45,0,0,0,0
+Morelos,2016,45,0,0,0,0
+Nayarit,2016,45,0,0,0,0
+Nuevo León,2016,45,0,0,0,0
+Oaxaca,2016,45,0,0,0,0
+Puebla,2016,45,0,0,0,0
+Querétaro,2016,45,0,0,0,0
+Quintana Roo,2016,45,0,0,0,0
+San Luis Potosí,2016,45,0,0,0,0
+Sinaloa,2016,45,0,0,0,0
+Sonora,2016,45,10,10,10,0
+Tabasco,2016,45,0,0,0,0
+Tamaulipas,2016,45,0,0,0,0
+Tlaxcala,2016,45,0,0,0,0
+Veracruz,2016,45,0,0,0,0
+Yucatán,2016,45,0,0,0,0
+Zacatecas,2016,45,0,0,0,0
+Aguascalientes,2016,46,0,0,0,0
+Baja California,2016,46,0,0,0,0
+Baja California Sur,2016,46,0,0,0,0
+Campeche,2016,46,0,0,0,0
+Coahuila,2016,46,0,0,0,0
+Colima,2016,46,0,0,0,0
+Chiapas,2016,46,0,0,0,0
+Chihuahua,2016,46,0,0,0,0
+Ciudad de México,2016,46,0,0,0,0
+Durango,2016,46,0,0,0,0
+Guanajuato,2016,46,0,0,0,0
+Guerrero,2016,46,0,0,0,0
+Hidalgo,2016,46,0,0,0,0
+Jalisco,2016,46,0,0,0,0
+México,2016,46,0,0,0,0
+Michoacán,2016,46,0,0,0,0
+Morelos,2016,46,0,0,0,0
+Nayarit,2016,46,0,0,0,0
+Nuevo León,2016,46,0,0,0,0
+Oaxaca,2016,46,0,0,0,0
+Puebla,2016,46,0,0,0,0
+Querétaro,2016,46,0,0,0,0
+Quintana Roo,2016,46,0,0,0,0
+San Luis Potosí,2016,46,0,0,0,0
+Sinaloa,2016,46,0,0,0,0
+Sonora,2016,46,9,9,9,0
+Tabasco,2016,46,0,0,0,0
+Tamaulipas,2016,46,0,0,0,0
+Tlaxcala,2016,46,0,0,0,0
+Veracruz,2016,46,0,0,0,0
+Yucatán,2016,46,0,0,0,0
+Zacatecas,2016,46,0,0,0,0
+Aguascalientes,2016,47,0,0,0,0
+Baja California,2016,47,0,0,0,0
+Baja California Sur,2016,47,0,0,0,0
+Campeche,2016,47,0,0,0,0
+Coahuila,2016,47,0,0,0,0
+Colima,2016,47,0,0,0,0
+Chiapas,2016,47,0,0,0,0
+Chihuahua,2016,47,0,0,0,0
+Ciudad de México,2016,47,0,0,0,0
+Durango,2016,47,0,0,0,0
+Guanajuato,2016,47,0,0,0,0
+Guerrero,2016,47,0,0,0,0
+Hidalgo,2016,47,0,0,0,0
+Jalisco,2016,47,0,0,0,0
+México,2016,47,0,0,0,0
+Michoacán,2016,47,0,0,0,0
+Morelos,2016,47,0,0,0,0
+Nayarit,2016,47,0,0,0,0
+Nuevo León,2016,47,0,0,0,0
+Oaxaca,2016,47,0,0,0,0
+Puebla,2016,47,0,0,0,0
+Querétaro,2016,47,0,0,0,0
+Quintana Roo,2016,47,0,0,0,0
+San Luis Potosí,2016,47,0,0,0,0
+Sinaloa,2016,47,0,0,0,0
+Sonora,2016,47,0,0,0,0
+Tabasco,2016,47,0,0,0,0
+Tamaulipas,2016,47,0,0,0,0
+Tlaxcala,2016,47,0,0,0,0
+Veracruz,2016,47,0,0,0,0
+Yucatán,2016,47,0,0,0,0
+Zacatecas,2016,47,0,0,0,0
+Aguascalientes,2016,48,0,0,0,0
+Baja California,2016,48,0,0,0,0
+Baja California Sur,2016,48,0,0,0,0
+Campeche,2016,48,0,0,0,0
+Coahuila,2016,48,0,0,0,0
+Colima,2016,48,0,0,0,0
+Chiapas,2016,48,0,0,0,0
+Chihuahua,2016,48,0,0,0,0
+Ciudad de México,2016,48,0,0,0,0
+Durango,2016,48,0,0,0,0
+Guanajuato,2016,48,0,0,0,0
+Guerrero,2016,48,0,0,0,0
+Hidalgo,2016,48,0,0,0,0
+Jalisco,2016,48,0,0,0,0
+México,2016,48,0,0,0,0
+Michoacán,2016,48,0,0,0,0
+Morelos,2016,48,0,0,0,0
+Nayarit,2016,48,0,0,0,0
+Nuevo León,2016,48,0,0,0,0
+Oaxaca,2016,48,0,0,0,0
+Puebla,2016,48,0,0,0,0
+Querétaro,2016,48,0,0,0,0
+Quintana Roo,2016,48,0,0,0,0
+San Luis Potosí,2016,48,0,0,0,0
+Sinaloa,2016,48,0,0,0,0
+Sonora,2016,48,0,0,0,0
+Tabasco,2016,48,0,0,0,0
+Tamaulipas,2016,48,0,0,0,0
+Tlaxcala,2016,48,0,0,0,0
+Veracruz,2016,48,0,0,0,0
+Yucatán,2016,48,0,0,0,0
+Zacatecas,2016,48,0,0,0,0
+Aguascalientes,2016,49,0,0,0,0
+Baja California,2016,49,0,0,0,0
+Baja California Sur,2016,49,0,0,0,0
+Campeche,2016,49,0,0,0,0
+Coahuila,2016,49,0,0,0,0
+Colima,2016,49,0,0,0,0
+Chiapas,2016,49,0,0,0,0
+Chihuahua,2016,49,0,0,0,0
+Ciudad de México,2016,49,0,0,0,0
+Durango,2016,49,0,0,0,0
+Guanajuato,2016,49,0,0,0,0
+Guerrero,2016,49,0,0,0,0
+Hidalgo,2016,49,0,0,0,0
+Jalisco,2016,49,0,0,0,0
+México,2016,49,0,0,0,0
+Michoacán,2016,49,0,0,0,0
+Morelos,2016,49,0,0,0,0
+Nayarit,2016,49,0,0,0,0
+Nuevo León,2016,49,0,0,0,0
+Oaxaca,2016,49,0,0,0,0
+Puebla,2016,49,0,0,0,0
+Querétaro,2016,49,0,0,0,0
+Quintana Roo,2016,49,0,0,0,0
+San Luis Potosí,2016,49,0,0,0,0
+Sinaloa,2016,49,0,0,0,0
+Sonora,2016,49,0,0,0,0
+Tabasco,2016,49,0,0,0,0
+Tamaulipas,2016,49,0,0,0,0
+Tlaxcala,2016,49,0,0,0,0
+Veracruz,2016,49,0,0,0,0
+Yucatán,2016,49,0,0,0,0
+Zacatecas,2016,49,0,0,0,0
+Aguascalientes,2016,50,0,0,0,0
+Baja California,2016,50,0,0,0,0
+Baja California Sur,2016,50,0,0,0,0
+Campeche,2016,50,0,0,0,0
+Coahuila,2016,50,0,0,0,0
+Colima,2016,50,0,0,0,0
+Chiapas,2016,50,0,0,0,0
+Chihuahua,2016,50,0,0,0,0
+Ciudad de México,2016,50,0,0,0,0
+Durango,2016,50,0,0,0,0
+Guanajuato,2016,50,0,0,0,0
+Guerrero,2016,50,0,0,0,0
+Hidalgo,2016,50,0,0,0,0
+Jalisco,2016,50,0,0,0,0
+México,2016,50,0,0,0,0
+Michoacán,2016,50,0,0,0,0
+Morelos,2016,50,0,0,0,0
+Nayarit,2016,50,0,0,0,0
+Nuevo León,2016,50,0,0,0,0
+Oaxaca,2016,50,0,0,0,0
+Puebla,2016,50,0,0,0,0
+Querétaro,2016,50,0,0,0,0
+Quintana Roo,2016,50,0,0,0,0
+San Luis Potosí,2016,50,0,0,0,0
+Sinaloa,2016,50,0,0,0,0
+Sonora,2016,50,0,0,0,0
+Tabasco,2016,50,0,0,0,0
+Tamaulipas,2016,50,0,0,0,0
+Tlaxcala,2016,50,0,0,0,0
+Veracruz,2016,50,0,0,0,0
+Yucatán,2016,50,0,0,0,0
+Zacatecas,2016,50,0,0,0,0
+Aguascalientes,2016,51,0,0,0,0
+Baja California,2016,51,0,0,0,0
+Baja California Sur,2016,51,0,0,0,0
+Campeche,2016,51,0,0,0,0
+Coahuila,2016,51,0,0,0,0
+Colima,2016,51,0,0,0,0
+Chiapas,2016,51,0,0,0,0
+Chihuahua,2016,51,0,0,0,0
+Ciudad de México,2016,51,0,0,0,0
+Durango,2016,51,0,0,0,0
+Guanajuato,2016,51,0,0,0,0
+Guerrero,2016,51,0,0,0,0
+Hidalgo,2016,51,0,0,0,0
+Jalisco,2016,51,0,0,0,0
+México,2016,51,0,0,0,0
+Michoacán,2016,51,0,0,0,0
+Morelos,2016,51,0,0,0,0
+Nayarit,2016,51,0,0,0,0
+Nuevo León,2016,51,0,0,0,0
+Oaxaca,2016,51,0,0,0,0
+Puebla,2016,51,0,0,0,0
+Querétaro,2016,51,0,0,0,0
+Quintana Roo,2016,51,0,0,0,0
+San Luis Potosí,2016,51,0,0,0,0
+Sinaloa,2016,51,0,0,0,0
+Sonora,2016,51,0,0,0,0
+Tabasco,2016,51,0,0,0,0
+Tamaulipas,2016,51,0,0,0,0
+Tlaxcala,2016,51,0,0,0,0
+Veracruz,2016,51,0,0,0,0
+Yucatán,2016,51,0,0,0,0
+Zacatecas,2016,51,0,0,0,0
+Aguascalientes,2017,1,0,0,0,0
+Baja California,2017,1,0,0,0,0
+Baja California Sur,2017,1,0,0,0,0
+Campeche,2017,1,0,0,0,0
+Coahuila,2017,1,0,0,0,0
+Colima,2017,1,0,0,0,0
+Chiapas,2017,1,0,0,0,0
+Chihuahua,2017,1,0,0,0,0
+Ciudad de México,2017,1,0,0,0,0
+Durango,2017,1,0,0,0,0
+Guanajuato,2017,1,0,0,0,0
+Guerrero,2017,1,0,0,0,0
+Hidalgo,2017,1,0,0,0,0
+Jalisco,2017,1,0,0,0,0
+México,2017,1,0,0,0,0
+Michoacán,2017,1,0,0,0,0
+Morelos,2017,1,0,0,0,0
+Nayarit,2017,1,0,0,0,0
+Nuevo León,2017,1,0,0,0,0
+Oaxaca,2017,1,0,0,0,0
+Puebla,2017,1,0,0,0,0
+Querétaro,2017,1,0,0,0,0
+Quintana Roo,2017,1,0,0,0,0
+San Luis Potosí,2017,1,0,0,0,0
+Sinaloa,2017,1,0,0,0,0
+Sonora,2017,1,0,0,0,0
+Tabasco,2017,1,0,0,0,0
+Tamaulipas,2017,1,0,0,0,0
+Tlaxcala,2017,1,0,0,0,0
+Veracruz,2017,1,0,0,0,0
+Yucatán,2017,1,0,0,0,0
+Zacatecas,2017,1,0,0,0,0
+Aguascalientes,2017,2,0,0,0,0
+Baja California,2017,2,0,0,0,0
+Baja California Sur,2017,2,0,0,0,0
+Campeche,2017,2,0,0,0,0
+Coahuila,2017,2,0,0,0,0
+Colima,2017,2,0,0,0,0
+Chiapas,2017,2,0,0,0,0
+Chihuahua,2017,2,0,0,0,0
+Ciudad de México,2017,2,0,0,0,0
+Durango,2017,2,0,0,0,0
+Guanajuato,2017,2,0,0,0,0
+Guerrero,2017,2,0,0,0,0
+Hidalgo,2017,2,0,0,0,0
+Jalisco,2017,2,0,0,0,0
+México,2017,2,0,0,0,0
+Michoacán,2017,2,0,0,0,0
+Morelos,2017,2,0,0,0,0
+Nayarit,2017,2,0,0,0,0
+Nuevo León,2017,2,0,0,0,0
+Oaxaca,2017,2,0,0,0,0
+Puebla,2017,2,0,0,0,0
+Querétaro,2017,2,0,0,0,0
+Quintana Roo,2017,2,0,0,0,0
+San Luis Potosí,2017,2,0,0,0,0
+Sinaloa,2017,2,0,0,0,0
+Sonora,2017,2,0,0,0,0
+Tabasco,2017,2,0,0,0,0
+Tamaulipas,2017,2,0,0,0,0
+Tlaxcala,2017,2,0,0,0,0
+Veracruz,2017,2,0,0,0,0
+Yucatán,2017,2,0,0,0,0
+Zacatecas,2017,2,0,0,0,0
+Aguascalientes,2017,3,0,0,0,0
+Baja California,2017,3,0,0,0,0
+Baja California Sur,2017,3,0,0,0,0
+Campeche,2017,3,0,0,0,0
+Coahuila,2017,3,0,0,0,0
+Colima,2017,3,0,0,0,0
+Chiapas,2017,3,0,0,0,0
+Chihuahua,2017,3,0,0,0,0
+Ciudad de México,2017,3,0,0,0,0
+Durango,2017,3,0,0,0,0
+Guanajuato,2017,3,0,0,0,0
+Guerrero,2017,3,0,0,0,0
+Hidalgo,2017,3,0,0,0,0
+Jalisco,2017,3,0,0,0,0
+México,2017,3,0,0,0,0
+Michoacán,2017,3,0,0,0,0
+Morelos,2017,3,0,0,0,0
+Nayarit,2017,3,0,0,0,0
+Nuevo León,2017,3,0,0,0,0
+Oaxaca,2017,3,0,0,0,0
+Puebla,2017,3,0,0,0,0
+Querétaro,2017,3,0,0,0,0
+Quintana Roo,2017,3,0,0,0,0
+San Luis Potosí,2017,3,0,0,0,0
+Sinaloa,2017,3,0,0,0,0
+Sonora,2017,3,0,0,0,0
+Tabasco,2017,3,0,0,0,0
+Tamaulipas,2017,3,0,0,0,0
+Tlaxcala,2017,3,0,0,0,0
+Veracruz,2017,3,0,0,0,0
+Yucatán,2017,3,0,0,0,0
+Zacatecas,2017,3,0,0,0,0
+Aguascalientes,2017,4,0,0,0,0
+Baja California,2017,4,0,0,0,0
+Baja California Sur,2017,4,0,0,0,0
+Campeche,2017,4,0,0,0,0
+Coahuila,2017,4,0,0,0,0
+Colima,2017,4,0,0,0,0
+Chiapas,2017,4,0,0,0,0
+Chihuahua,2017,4,0,0,0,0
+Ciudad de México,2017,4,0,0,0,0
+Durango,2017,4,0,0,0,0
+Guanajuato,2017,4,0,0,0,0
+Guerrero,2017,4,0,0,0,0
+Hidalgo,2017,4,0,0,0,0
+Jalisco,2017,4,0,0,0,0
+México,2017,4,0,0,0,0
+Michoacán,2017,4,0,0,0,0
+Morelos,2017,4,0,0,0,0
+Nayarit,2017,4,0,0,0,0
+Nuevo León,2017,4,0,0,0,0
+Oaxaca,2017,4,0,0,0,0
+Puebla,2017,4,0,0,0,0
+Querétaro,2017,4,0,0,0,0
+Quintana Roo,2017,4,0,0,0,0
+San Luis Potosí,2017,4,0,0,0,0
+Sinaloa,2017,4,0,0,0,0
+Sonora,2017,4,0,0,0,0
+Tabasco,2017,4,0,0,0,0
+Tamaulipas,2017,4,0,0,0,0
+Tlaxcala,2017,4,0,0,0,0
+Veracruz,2017,4,0,0,0,0
+Yucatán,2017,4,0,0,0,0
+Zacatecas,2017,4,0,0,0,0
+Aguascalientes,2017,5,0,0,0,0
+Baja California,2017,5,1,1,1,0
+Baja California Sur,2017,5,0,0,0,0
+Campeche,2017,5,0,0,0,0
+Coahuila,2017,5,0,0,0,0
+Colima,2017,5,0,0,0,0
+Chiapas,2017,5,0,0,0,0
+Chihuahua,2017,5,0,0,0,0
+Ciudad de México,2017,5,0,0,0,0
+Durango,2017,5,0,0,0,0
+Guanajuato,2017,5,0,0,0,0
+Guerrero,2017,5,0,0,0,0
+Hidalgo,2017,5,0,0,0,0
+Jalisco,2017,5,0,0,0,0
+México,2017,5,0,0,0,0
+Michoacán,2017,5,0,0,0,0
+Morelos,2017,5,0,0,0,0
+Nayarit,2017,5,0,0,0,0
+Nuevo León,2017,5,0,0,0,0
+Oaxaca,2017,5,0,0,0,0
+Puebla,2017,5,0,0,0,0
+Querétaro,2017,5,0,0,0,0
+Quintana Roo,2017,5,0,0,0,0
+San Luis Potosí,2017,5,0,0,0,0
+Sinaloa,2017,5,0,0,0,0
+Sonora,2017,5,0,0,0,0
+Tabasco,2017,5,0,0,0,0
+Tamaulipas,2017,5,0,0,0,0
+Tlaxcala,2017,5,0,0,0,0
+Veracruz,2017,5,0,0,0,0
+Yucatán,2017,5,0,0,0,0
+Zacatecas,2017,5,0,0,0,0
+Aguascalientes,2017,6,0,0,0,0
+Baja California,2017,6,0,0,0,0
+Baja California Sur,2017,6,0,0,0,0
+Campeche,2017,6,0,0,0,0
+Coahuila,2017,6,0,0,0,0
+Colima,2017,6,0,0,0,0
+Chiapas,2017,6,0,0,0,0
+Chihuahua,2017,6,0,0,0,0
+Ciudad de México,2017,6,0,0,0,0
+Durango,2017,6,0,0,0,0
+Guanajuato,2017,6,0,0,0,0
+Guerrero,2017,6,0,0,0,0
+Hidalgo,2017,6,0,0,0,0
+Jalisco,2017,6,0,0,0,0
+México,2017,6,0,0,0,0
+Michoacán,2017,6,0,0,0,0
+Morelos,2017,6,0,0,0,0
+Nayarit,2017,6,0,0,0,0
+Nuevo León,2017,6,0,0,0,0
+Oaxaca,2017,6,0,0,0,0
+Puebla,2017,6,0,0,0,0
+Querétaro,2017,6,0,0,0,0
+Quintana Roo,2017,6,0,0,0,0
+San Luis Potosí,2017,6,0,0,0,0
+Sinaloa,2017,6,0,0,0,0
+Sonora,2017,6,0,0,0,0
+Tabasco,2017,6,0,0,0,0
+Tamaulipas,2017,6,0,0,0,0
+Tlaxcala,2017,6,0,0,0,0
+Veracruz,2017,6,0,0,0,0
+Yucatán,2017,6,0,0,0,0
+Zacatecas,2017,6,0,0,0,0
+Aguascalientes,2017,7,0,0,0,0
+Baja California,2017,7,0,0,0,0
+Baja California Sur,2017,7,0,0,0,0
+Campeche,2017,7,0,0,0,0
+Coahuila,2017,7,0,0,0,0
+Colima,2017,7,0,0,0,0
+Chiapas,2017,7,0,0,0,0
+Chihuahua,2017,7,0,0,0,0
+Ciudad de México,2017,7,0,0,0,0
+Durango,2017,7,0,0,0,0
+Guanajuato,2017,7,0,0,0,0
+Guerrero,2017,7,0,0,0,0
+Hidalgo,2017,7,0,0,0,0
+Jalisco,2017,7,0,0,0,0
+México,2017,7,0,0,0,0
+Michoacán,2017,7,0,0,0,0
+Morelos,2017,7,0,0,0,0
+Nayarit,2017,7,0,0,0,0
+Nuevo León,2017,7,0,0,0,0
+Oaxaca,2017,7,0,0,0,0
+Puebla,2017,7,0,0,0,0
+Querétaro,2017,7,0,0,0,0
+Quintana Roo,2017,7,0,0,0,0
+San Luis Potosí,2017,7,0,0,0,0
+Sinaloa,2017,7,0,0,0,0
+Sonora,2017,7,0,0,0,0
+Tabasco,2017,7,0,0,0,0
+Tamaulipas,2017,7,0,0,0,0
+Tlaxcala,2017,7,0,0,0,0
+Veracruz,2017,7,0,0,0,0
+Yucatán,2017,7,0,0,0,0
+Zacatecas,2017,7,0,0,0,0
+Aguascalientes,2017,8,0,0,0,0
+Baja California,2017,8,0,0,0,0
+Baja California Sur,2017,8,0,0,0,0
+Campeche,2017,8,0,0,0,0
+Coahuila,2017,8,0,0,0,0
+Colima,2017,8,0,0,0,0
+Chiapas,2017,8,0,0,0,0
+Chihuahua,2017,8,0,0,0,0
+Ciudad de México,2017,8,0,0,0,0
+Durango,2017,8,0,0,0,0
+Guanajuato,2017,8,0,0,0,0
+Guerrero,2017,8,0,0,0,0
+Hidalgo,2017,8,0,0,0,0
+Jalisco,2017,8,0,0,0,0
+México,2017,8,0,0,0,0
+Michoacán,2017,8,0,0,0,0
+Morelos,2017,8,0,0,0,0
+Nayarit,2017,8,0,0,0,0
+Nuevo León,2017,8,0,0,0,0
+Oaxaca,2017,8,0,0,0,0
+Puebla,2017,8,0,0,0,0
+Querétaro,2017,8,0,0,0,0
+Quintana Roo,2017,8,0,0,0,0
+San Luis Potosí,2017,8,0,0,0,0
+Sinaloa,2017,8,0,0,0,0
+Sonora,2017,8,0,0,0,0
+Tabasco,2017,8,0,0,0,0
+Tamaulipas,2017,8,0,0,0,0
+Tlaxcala,2017,8,0,0,0,0
+Veracruz,2017,8,0,0,0,0
+Yucatán,2017,8,0,0,0,0
+Zacatecas,2017,8,0,0,0,0
+Aguascalientes,2017,9,0,0,0,0
+Baja California,2017,9,0,0,0,0
+Baja California Sur,2017,9,0,0,0,0
+Campeche,2017,9,0,0,0,0
+Coahuila,2017,9,0,0,0,0
+Colima,2017,9,0,0,0,0
+Chiapas,2017,9,0,0,0,0
+Chihuahua,2017,9,0,0,0,0
+Ciudad de México,2017,9,0,0,0,0
+Durango,2017,9,0,0,0,0
+Guanajuato,2017,9,0,0,0,0
+Guerrero,2017,9,0,0,0,0
+Hidalgo,2017,9,0,0,0,0
+Jalisco,2017,9,0,0,0,0
+México,2017,9,0,0,0,0
+Michoacán,2017,9,0,0,0,0
+Morelos,2017,9,0,0,0,0
+Nayarit,2017,9,0,0,0,0
+Nuevo León,2017,9,0,0,0,0
+Oaxaca,2017,9,0,0,0,0
+Puebla,2017,9,0,0,0,0
+Querétaro,2017,9,0,0,0,0
+Quintana Roo,2017,9,0,0,0,0
+San Luis Potosí,2017,9,0,0,0,0
+Sinaloa,2017,9,0,0,0,0
+Sonora,2017,9,1,1,1,0
+Tabasco,2017,9,0,0,0,0
+Tamaulipas,2017,9,0,0,0,0
+Tlaxcala,2017,9,0,0,0,0
+Veracruz,2017,9,0,0,0,0
+Yucatán,2017,9,0,0,0,0
+Zacatecas,2017,9,0,0,0,0
+Aguascalientes,2017,10,0,0,0,0
+Baja California,2017,10,0,0,0,0
+Baja California Sur,2017,10,0,0,0,0
+Campeche,2017,10,0,0,0,0
+Coahuila,2017,10,0,0,0,0
+Colima,2017,10,0,0,0,0
+Chiapas,2017,10,0,0,0,0
+Chihuahua,2017,10,0,0,0,0
+Ciudad de México,2017,10,0,0,0,0
+Durango,2017,10,0,0,0,0
+Guanajuato,2017,10,0,0,0,0
+Guerrero,2017,10,0,0,0,0
+Hidalgo,2017,10,0,0,0,0
+Jalisco,2017,10,0,0,0,0
+México,2017,10,0,0,0,0
+Michoacán,2017,10,0,0,0,0
+Morelos,2017,10,0,0,0,0
+Nayarit,2017,10,0,0,0,0
+Nuevo León,2017,10,0,0,0,0
+Oaxaca,2017,10,0,0,0,0
+Puebla,2017,10,0,0,0,0
+Querétaro,2017,10,0,0,0,0
+Quintana Roo,2017,10,0,0,0,0
+San Luis Potosí,2017,10,0,0,0,0
+Sinaloa,2017,10,0,0,0,0
+Sonora,2017,10,0,0,0,0
+Tabasco,2017,10,0,0,0,0
+Tamaulipas,2017,10,0,0,0,0
+Tlaxcala,2017,10,0,0,0,0
+Veracruz,2017,10,0,0,0,0
+Yucatán,2017,10,0,0,0,0
+Zacatecas,2017,10,0,0,0,0
+Aguascalientes,2017,11,0,0,0,0
+Baja California,2017,11,0,0,0,0
+Baja California Sur,2017,11,0,0,0,0
+Campeche,2017,11,0,0,0,0
+Coahuila,2017,11,0,0,0,0
+Colima,2017,11,0,0,0,0
+Chiapas,2017,11,0,0,0,0
+Chihuahua,2017,11,1,1,1,0
+Ciudad de México,2017,11,0,0,0,0
+Durango,2017,11,0,0,0,0
+Guanajuato,2017,11,0,0,0,0
+Guerrero,2017,11,0,0,0,0
+Hidalgo,2017,11,0,0,0,0
+Jalisco,2017,11,0,0,0,0
+México,2017,11,0,0,0,0
+Michoacán,2017,11,0,0,0,0
+Morelos,2017,11,0,0,0,0
+Nayarit,2017,11,0,0,0,0
+Nuevo León,2017,11,0,0,0,0
+Oaxaca,2017,11,0,0,0,0
+Puebla,2017,11,0,0,0,0
+Querétaro,2017,11,0,0,0,0
+Quintana Roo,2017,11,0,0,0,0
+San Luis Potosí,2017,11,0,0,0,0
+Sinaloa,2017,11,0,0,0,0
+Sonora,2017,11,0,0,0,0
+Tabasco,2017,11,0,0,0,0
+Tamaulipas,2017,11,0,0,0,0
+Tlaxcala,2017,11,0,0,0,0
+Veracruz,2017,11,0,0,0,0
+Yucatán,2017,11,0,0,0,0
+Zacatecas,2017,11,0,0,0,0
+Aguascalientes,2017,12,0,0,0,0
+Baja California,2017,12,0,0,0,0
+Baja California Sur,2017,12,0,0,0,0
+Campeche,2017,12,0,0,0,0
+Coahuila,2017,12,0,0,0,0
+Colima,2017,12,0,0,0,0
+Chiapas,2017,12,0,0,0,0
+Chihuahua,2017,12,2,2,2,0
+Ciudad de México,2017,12,0,0,0,0
+Durango,2017,12,0,0,0,0
+Guanajuato,2017,12,0,0,0,0
+Guerrero,2017,12,0,0,0,0
+Hidalgo,2017,12,0,0,0,0
+Jalisco,2017,12,0,0,0,0
+México,2017,12,0,0,0,0
+Michoacán,2017,12,0,0,0,0
+Morelos,2017,12,0,0,0,0
+Nayarit,2017,12,0,0,0,0
+Nuevo León,2017,12,0,0,0,0
+Oaxaca,2017,12,0,0,0,0
+Puebla,2017,12,0,0,0,0
+Querétaro,2017,12,0,0,0,0
+Quintana Roo,2017,12,0,0,0,0
+San Luis Potosí,2017,12,0,0,0,0
+Sinaloa,2017,12,0,0,0,0
+Sonora,2017,12,0,0,0,0
+Tabasco,2017,12,0,0,0,0
+Tamaulipas,2017,12,0,0,0,0
+Tlaxcala,2017,12,0,0,0,0
+Veracruz,2017,12,0,0,0,0
+Yucatán,2017,12,0,0,0,0
+Zacatecas,2017,12,0,0,0,0
+Aguascalientes,2017,13,0,0,0,0
+Baja California,2017,13,0,0,0,0
+Baja California Sur,2017,13,0,0,0,0
+Campeche,2017,13,0,0,0,0
+Coahuila,2017,13,0,0,0,0
+Colima,2017,13,0,0,0,0
+Chiapas,2017,13,0,0,0,0
+Chihuahua,2017,13,0,0,0,0
+Ciudad de México,2017,13,0,0,0,0
+Durango,2017,13,0,0,0,0
+Guanajuato,2017,13,0,0,0,0
+Guerrero,2017,13,0,0,0,0
+Hidalgo,2017,13,0,0,0,0
+Jalisco,2017,13,0,0,0,0
+México,2017,13,0,0,0,0
+Michoacán,2017,13,0,0,0,0
+Morelos,2017,13,0,0,0,0
+Nayarit,2017,13,0,0,0,0
+Nuevo León,2017,13,0,0,0,0
+Oaxaca,2017,13,0,0,0,0
+Puebla,2017,13,0,0,0,0
+Querétaro,2017,13,0,0,0,0
+Quintana Roo,2017,13,0,0,0,0
+San Luis Potosí,2017,13,0,0,0,0
+Sinaloa,2017,13,0,0,0,0
+Sonora,2017,13,0,0,0,0
+Tabasco,2017,13,0,0,0,0
+Tamaulipas,2017,13,0,0,0,0
+Tlaxcala,2017,13,0,0,0,0
+Veracruz,2017,13,0,0,0,0
+Yucatán,2017,13,0,0,0,0
+Zacatecas,2017,13,0,0,0,0
+Aguascalientes,2017,14,0,0,0,0
+Baja California,2017,14,0,0,0,0
+Baja California Sur,2017,14,0,0,0,0
+Campeche,2017,14,0,0,0,0
+Coahuila,2017,14,0,0,0,0
+Colima,2017,14,0,0,0,0
+Chiapas,2017,14,0,0,0,0
+Chihuahua,2017,14,0,0,0,0
+Ciudad de México,2017,14,0,0,0,0
+Durango,2017,14,0,0,0,0
+Guanajuato,2017,14,0,0,0,0
+Guerrero,2017,14,0,0,0,0
+Hidalgo,2017,14,0,0,0,0
+Jalisco,2017,14,0,0,0,0
+México,2017,14,0,0,0,0
+Michoacán,2017,14,0,0,0,0
+Morelos,2017,14,0,0,0,0
+Nayarit,2017,14,0,0,0,0
+Nuevo León,2017,14,0,0,0,0
+Oaxaca,2017,14,0,0,0,0
+Puebla,2017,14,0,0,0,0
+Querétaro,2017,14,0,0,0,0
+Quintana Roo,2017,14,0,0,0,0
+San Luis Potosí,2017,14,0,0,0,0
+Sinaloa,2017,14,0,0,0,0
+Sonora,2017,14,1,1,1,0
+Tabasco,2017,14,0,0,0,0
+Tamaulipas,2017,14,0,0,0,0
+Tlaxcala,2017,14,0,0,0,0
+Veracruz,2017,14,0,0,0,0
+Yucatán,2017,14,0,0,0,0
+Zacatecas,2017,14,0,0,0,0
